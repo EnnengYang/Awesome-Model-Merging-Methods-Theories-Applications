@@ -77,6 +77,9 @@ Thanks!
       - [Model Merging as a Defense](#Model-Merging-as-a-Defense)
 
 ## Advanced Methods
+<center>
+<img src="./methods.png" alt="Model Merging" width="800"/>
+</center>
 
 ### Pre-Merging Methods
 
@@ -198,6 +201,9 @@ Thanks!
 
 
 ## Applications in ML
+<center>
+<img src="./applications.png" alt="Model Merging" width="800"/>
+</center>
 
 ### Model Merging in Large Language Model
 #### Human Preference Alignment for LLMs
