@@ -445,6 +445,13 @@ Thanks!
 
 
 ******
+**Star History**
+
+[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)
+
+
+
+******
 
 
 **Contact**
