@@ -17,7 +17,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Survery_ModelMerging_2024,
   title={Model Merging in LLMs, LMMs, LGMs and Beyond: Methods, Theories, Applications and Opportunities},
-  author={Yang, Enneng; Shen, Li; Guo, Guibing; Wang, Xingwei; Cao, Xiaochun; Zhang, Jie;  and Tao, Dacheng},
+  author={Yang, Enneng; Shen, Li; Guo, Guibing; Wang, Xingwei; Cao, Xiaochun; Zhang, Jie and Tao, Dacheng},
   journal={arXiv},
   year={2024}
 }
@@ -40,7 +40,7 @@ Thanks!
     + [Routing-based Merging Methods](#routing-based-merging-methods)
     + [Post-calibration based Methods](#post-calibration-based-methods)
   * [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
-- [Applications in Foundation Models](#applications-in-foundation-models)
+- [Model Merging in Foundation Models](#model-merging-in-foundation-models)
   * [Model Merging in Large Language Model](#model-merging-in-large-language-model)
     + [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
     + [Detoxifcation of LLMs](#detoxifcation-of-llms)
@@ -199,7 +199,7 @@ Thanks!
 
 
 
-## Applications in Foundation Models
+## Model Merging in Foundation Models
 <center>
 <img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
 </center>
