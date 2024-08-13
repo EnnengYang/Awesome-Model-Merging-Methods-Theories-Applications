@@ -50,7 +50,7 @@ Thanks!
   * [Model Merging in Large Multi-Modal Model](#model-merging-in-large-multi-modal-model)
     + [Model Merging for Multimodal Fusion](#model-merging-for-multimodal-fusion)
     + [Model Merging for Cross-Modal Knowledge Transfer](#model-merging-for-cross-modal-knowledge-transfer)
-  * [Model Merging in Generative Learning](#model-merging-in-generative-learning)
+  * [Model Merging in Large Generative Models](#model-merging-in-large-generative-models)
     + [Style Mixing in Generative Models](#style-mixing-in-generative-models)
     + [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
     + [Enhancing the Faithfulness of Diffusion Models](#enhancing-the-faithfulness-of-diffusion-models)
@@ -276,7 +276,7 @@ Thanks!
 
 
 
-### Model Merging in Generative Learning
+### Model Merging in Large Generative Models
 #### Style Mixing in Generative Models
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
