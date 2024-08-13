@@ -2,13 +2,13 @@
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
-A comprehensive list of papers about **'[Model Merging in Machine Learning: Methods, Theorys, Applications and Opportunities. Arxiv, 2024.]()'**.
+A comprehensive list of papers about **'[Model Merging in LLMs, LMMs, LGMs and Beyond: Methods, Theories, Applications and Opportunities. Arxiv, 2024.]()'**.
 
 ## Abstract
-> Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various machine learning subfields, and future directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in 10+ machine learning subfields, including large language models, generative models, multi-task learning, continual learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
+> Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, large multimodal models, large generative models and 10+ machine learning settings, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
 
 <center>
-<img src="./modelmerging_demo.png" alt="Model Merging" width="800"/>
+<img src="./imgs/modelmerging_demo.png" alt="Model Merging" width="800"/>
 </center>
 
 ## Citation
@@ -16,10 +16,10 @@ A comprehensive list of papers about **'[Model Merging in Machine Learning: Meth
 If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Survery_ModelMerging_2024,
-  title={Model Merging in Machine Learning: Methods, Theorys, Applications and Opportunities},
-  author={},
-  journal={},
-  year={}
+  title={Model Merging in LLMs, LMMs, LGMs and Beyond: Methods, Theories, Applications and Opportunities},
+  author={Yang, Enneng; Shen, Li; Guo, Guibing; Wang, Xingwei; Cao, Xiaochun; Zhang, Jie;  and Tao, Dacheng},
+  journal={arXiv},
+  year={2024}
 }
 ```
 Thanks!
@@ -28,57 +28,55 @@ Thanks!
 
 
 ## Framework
-- [Awesome-Model-Merging-in-Machine-Learning](#Awesome-Model-Merging-in-Machine-Learning)
-  - [Abstract](#Abstract)
-  - [Citation](#Citation)
-  - [Advanced Methods](#Advanced-Methods)
-    - [Pre-Merging Methods](#Pre-Merging-Methods)
-      - [Linearization Fine-tuning](#Linearization-Fine-tuning)
-      - [Weight Alignment](#Weight-Alignment)
-      - [Architecture Transformation](#Architecture-Transformation)
-    - [During Merging Methods](#During-Merging-Methods)
-      - [Basic Merging Methods](#Basic-Merging-Methods)
-      - [Weighted-based Merging Methods](#Weighted-based-Merging-Methods)
-      - [Subspace-based Merging Methods](#Subspace-based-Merging-Methods)
-      - [Routing-based Merging Methods](#Routing-based-Merging-Methods)
-      - [Post-calibration based Methods](#Post-calibration-based-Methods)
-    - [Theories and Analysis of Model Merging](#Theories-and-Analysis-of-Model-Merging)
-  - [Applications in ML](#Applications-in-ML)
-    - [Model Merging in Large Language Model](#Model-Merging-in-Large-Language-Model)
-      - [Human Preference Alignment for LLMs](#Human-Preference-Alignment-for-LLMs)
-      - [Detoxifcation of LLMs](#Detoxifcation-of-LLMs)
-      - [Knowledge Unlearning of LLMs](#Knowledge-Unlearning-of-LLMs)
-      - [Faster Training of LLMs](#Faster-Training-of-LLMs)
-      - [Combine the Capabilities of Expert LLMs](#Combine-the-Capabilities-of-Expert-LLMs)
-    - [Model Merging in Generative Learning](#Model-Merging-in-Generative-Learning)
-      - [Style Mixing in Generative Models](#Style-Mixing-in-Generative-Models)
-      - [Reducing Training Cost of Generative Models](#Reducing-Training-Cost-of-Generative-Models)
-      - [Enhancing the Faithfulness of Diffusion Models](#Enhancing-the-Faithfulness-of-Diffusion-Models)
-    - [Model Merging in Out-of-Distribution/Domain Generalization](#Model-Merging-in-Out-of-DistributionDomain-Generalization)
-      - [Model Merging for Better Out-of-Distribution Generalization](#Model-Merging-for-Better-Out-of-Distribution-Generalization)
-      - [Model Merging for Better Domain Generalization](#Model-Merging-for-Better-Domain-Generalization)
-    - [Model Merging in Federated Learning](#Model-Merging-in-Federated-Learning)
-      - [Model Merging for Local Knowledge Aggregation](#Model-Merging-for-Local-Knowledge-Aggregation)
-    - [Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning](#Model-Merging-in-Multi-TaskMulti-ObjectiveMulti-DomainAuxiliary-Learning)
-      - [Knowledge Transfer in Multi-Task Learning](#Knowledge-Transfer-in-Multi-Task-Learning)
-      - [Knowledge Transfer in Multi-Objective Optimization](#Knowledge-Transfer-in-Multi-Objective-Optimization)
-      - [Knowledge Transfer in Multi-Domain Learning](#Knowledge-Transfer-in-Multi-Domain-Learning)
-      - [Knowledge Transfer in Auxiliary Learning](#Knowledge-Transfer-in-Auxiliary-Learning)
-    - [Model Merging in Multi-Modal Learning](#Model-Merging-in-Multi-Modal-Learning)
-      - [Model Merging for Multimodal Fusion](#Model-Merging-for-Multimodal-Fusion)
-      - [Model Merging for Cross-Modal Knowledge Transfer](#Model-Merging-for-Cross-Modal-Knowledge-Transfer)
-    - [Model Merging in Continual Learning](#Model-Merging-in-Continual-Learning)
-      - [Model Merging to Mitigate Catastrophic Forgetting](#Model-Merging-to-Mitigate-Catastrophic-Forgetting)
-    - [Model Merging in Zero-shot/Few-shot Learning](#Model-Merging-in-Zero-shotFew-shot-Learning)
-      - [Model Merging for Cross-task Generalization in Zero-shot Learning](#Model-Merging-for-Cross-task-Generalization-in-Zero-shot-Learning)
-      - [Model Merging for Cross-task Generalization in Few-shot Learning](#Model-Merging-for-Cross-task-Generalization-in-Few-shot-Learning)
-    - [Model Merging in Adversarial Learning](#Model-Merging-in-Adversarial-Learning)
-      - [Model Merging as an Attack](#Model-Merging-as-an-Attack)
-      - [Model Merging as a Defense](#Model-Merging-as-a-Defense)
+- [Advanced Methods](#advanced-methods)
+  * [Pre-Merging Methods](#pre-merging-methods)
+    + [Linearization Fine-tuning](#linearization-fine-tuning)
+    + [Weight Alignment](#weight-alignment)
+    + [Architecture Transformation](#architecture-transformation)
+  * [During Merging Methods](#during-merging-methods)
+    + [Basic Merging Methods](#basic-merging-methods)
+    + [Weighted-based Merging Methods](#weighted-based-merging-methods)
+    + [Subspace-based Merging Methods](#subspace-based-merging-methods)
+    + [Routing-based Merging Methods](#routing-based-merging-methods)
+    + [Post-calibration based Methods](#post-calibration-based-methods)
+  * [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
+- [Applications in Foundation Models](#applications-in-foundation-models)
+  * [Model Merging in Large Language Model](#model-merging-in-large-language-model)
+    + [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
+    + [Detoxifcation of LLMs](#detoxifcation-of-llms)
+    + [Knowledge Unlearning of LLMs](#knowledge-unlearning-of-llms)
+    + [Faster Training of LLMs](#faster-training-of-llms)
+    + [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
+  * [Model Merging in Large Multi-Modal Model](#model-merging-in-large-multi-modal-model)
+    + [Model Merging for Multimodal Fusion](#model-merging-for-multimodal-fusion)
+    + [Model Merging for Cross-Modal Knowledge Transfer](#model-merging-for-cross-modal-knowledge-transfer)
+  * [Model Merging in Generative Learning](#model-merging-in-generative-learning)
+    + [Style Mixing in Generative Models](#style-mixing-in-generative-models)
+    + [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
+    + [Enhancing the Faithfulness of Diffusion Models](#enhancing-the-faithfulness-of-diffusion-models)
+- [Model Merging in Different Machine Learning Settings](#model-merging-in-different-machine-learning-settings)
+  * [Model Merging in Continual Learning](#model-merging-in-continual-learning)
+    + [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
+  * [Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning](#model-merging-in-multi-task-multi-objective-multi-domain-auxiliary-learning)
+    + [Knowledge Transfer in Multi-Task Learning](#knowledge-transfer-in-multi-task-learning)
+    + [Knowledge Transfer in Multi-Objective Optimization](#knowledge-transfer-in-multi-objective-optimization)
+    + [Knowledge Transfer in Multi-Domain Learning](#knowledge-transfer-in-multi-domain-learning)
+    + [Knowledge Transfer in Auxiliary Learning](#knowledge-transfer-in-auxiliary-learning)
+  * [Model Merging in Out-of-Distribution/Domain Generalization](#model-merging-in-out-of-distribution-domain-generalization)
+    + [Model Merging for Better Out-of-Distribution Generalization](#model-merging-for-better-out-of-distribution-generalization)
+    + [Model Merging for Better Domain Generalization](#model-merging-for-better-domain-generalization)
+  * [Model Merging in Federated Learning](#model-merging-in-federated-learning)
+    + [Model Merging for Local Knowledge Aggregation](#model-merging-for-local-knowledge-aggregation)
+  * [Model Merging in Zero-shot/Few-shot Learning](#model-merging-in-zero-shot-few-shot-learning)
+    + [Model Merging for Cross-task Generalization in Zero-shot Learning](#model-merging-for-cross-task-generalization-in-zero-shot-learning)
+    + [Model Merging for Cross-task Generalization in Few-shot Learning](#model-merging-for-cross-task-generalization-in-few-shot-learning)
+  * [Model Merging in Adversarial Learning](#model-merging-in-adversarial-learning)
+    + [Model Merging as an Attack](#model-merging-as-an-attack)
+    + [Model Merging as a Defense](#model-merging-as-a-defense)
 
 ## Advanced Methods
 <center>
-<img src="./methods.png" alt="Model Merging" width="800"/>
+<img src="./imgs/methods.png" alt="Model Merging" width="800"/>
 </center>
 
 ### Pre-Merging Methods
@@ -201,9 +199,9 @@ Thanks!
 
 
 
-## Applications in ML
+## Applications in Foundation Models
 <center>
-<img src="./applications.png" alt="Model Merging" width="800"/>
+<img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
 </center>
 
 ### Model Merging in Large Language Model
@@ -261,6 +259,23 @@ Thanks!
   | [MetaGPT: Merging Large Language Models Using Model Exclusive Task Arithmetic](https://arxiv.org/pdf/2406.11385) | 2024 | Arxiv |
 
 
+  ### Model Merging in Large Multi-Modal Model
+  #### Model Merging for Multimodal Fusion
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) | 2024 | ICLR |
+  | [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) | 2024 |ACL  |
+  | [An Empirical Study of Multimodal Model Merging](https://aclanthology.org/2023.findings-emnlp.105.pdf) | 2023  | EMNLP |
+  | [UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184) | 2023 |  TMLR |
+
+  #### Model Merging for Cross-Modal Knowledge Transfer
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |  2024 | ICASSP Workshop  |
+
+
+
+
 ### Model Merging in Generative Learning
 #### Style Mixing in Generative Models
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -272,8 +287,6 @@ Thanks!
 | [ZipLoRA: Any Subject in Any Style by Effectively Merging LoRAs](https://arxiv.org/pdf/2311.13600) | 2023 | Arxiv |
 | [GAN Cocktail: mixing GANs without dataset access](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830207.pdf) | 2022 | ECCV |
 
-
-
 <!-- | [Merging Improves Self-Critique Against Jailbreak Attacks]() |  2024 | Arxiv | -->
 
 #### Reducing Training Cost of Generative Models
@@ -284,7 +297,67 @@ Thanks!
 #### Enhancing the Faithfulness of Diffusion Models
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data]() |  2024 | Arxiv |
+| [SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data](https://arxiv.org/pdf/2403.06952) |  2024 | Arxiv |
+
+
+
+
+## Model Merging in Different Machine Learning Settings
+<center>
+<img src="./imgs/applications_mls.png" alt="Model Merging" width="800"/>
+</center>
+
+
+### Model Merging in Continual Learning
+#### Model Merging to Mitigate Catastrophic Forgetting
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Adaptive Discovering and Merging for Incremental Novel Class Discovery](https://arxiv.org/pdf/2403.03382) | 2024 |AAAI  |
+  | [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |  2024 |  Arxiv |
+  | [A Second-Order perspective on Compositionality and Incremental Learning](https://arxiv.org/pdf/2405.16350) | 2024 |  Arxiv |
+  | [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/pdf/2406.16768) | 2024 | Arxiv |
+  | [DAM: Dynamic Adapter Merging for Continual Video QA Learning](https://arxiv.org/pdf/2403.08755) |  2024 | Arxiv |
+  | [MagMax: Leveraging Model Merging for Seamless Continual Learning](https://arxiv.org/pdf/2407.06322) | 2024 |  Arxiv |
+  | [DynaMMo: Dynamic Model Merging for Efficient Class Incremental Learning for Medical Images](https://arxiv.org/abs/2404.14099) |  2024|  Arxiv |
+  | [Tangent model composition for ensembling and continual fine-tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Tangent_Model_Composition_for_Ensembling_and_Continual_Fine-tuning_ICCV_2023_paper.pdf) |  2023| ICCV |
+  | [Task Arithmetic with LoRA for Continual Learning](https://arxiv.org/pdf/2311.02428) |  2023 | NeurIPS Workshop |
+  | [Lm-cocktail: Resilient tuning of language models via model merging](https://arxiv.org/pdf/2311.13534) |  2023 | Arxiv |
+
+
+
+### Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning
+
+#### Knowledge Transfer in Multi-Task Learning
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Evolutionary optimization of model merging recipes](https://arxiv.org/pdf/2403.13187) | 2024 |Arxiv  |
+  | [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) | 2024 | ICML  |
+  | [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf/602906ec02919eb95d78d634321fcba1b68a2f03.pdf) |2024  | ICML |
+  | [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  2024| ICML |
+  | [ZipIt! Merging Models from Different Tasks without Training](https://openreview.net/pdf?id=LEYUkvdUhq) | 2024 |ICLR  |
+  | [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/pdf?id=nZP6NgD3QY) | 2024  | ICLR |
+  | [Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | 2023  |  NeurIPS |
+  | [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | 2023 | ICLR |
+
+
+#### Knowledge Transfer in Multi-Objective Optimization
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |  2024 |Arxiv  |
+  | [MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation](https://arxiv.org/pdf/2406.07529) | 2024 |Arxiv  |
+
+
+#### Knowledge Transfer in Multi-Domain Learning
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/abs/2312.16240) | 2023 |Arxiv  |
+
+
+#### Knowledge Transfer in Auxiliary Learning
+  | **Paper Title** | **Year** | **Conference/Journal** |
+  | --------------- | :----: | :----: |
+  | [ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning](https://openreview.net/pdf?id=vZHk1QlBQW) | 2024 | NeurIPS |
+
 
 
 ### Model Merging in Out-of-Distribution/Domain Generalization
@@ -316,7 +389,6 @@ Thanks!
 | [Averaging weights leads to wider optima and better generalization](https://auai.org/uai2018/proceedings/papers/313.pdf) | 2018 | UAI |
 | [Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results](https://proceedings.neurips.cc/paper_files/paper/2017/file/68053af2923e00204c3ca7c6a3150cf7-Paper.pdf) |2017  | NeurIPS |
 
-
 #### Model Merging for Better Domain Generalization
 
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -340,70 +412,6 @@ Thanks!
 | [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | 2017 |  AISTATS |
 
 
-
-### Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning
-
-#### Knowledge Transfer in Multi-Task Learning
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Evolutionary optimization of model merging recipes](https://arxiv.org/pdf/2403.13187) | 2024 |Arxiv  |
-| [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) | 2024 | ICML  |
-| [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf/602906ec02919eb95d78d634321fcba1b68a2f03.pdf) |2024  | ICML |
-| [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  2024| ICML |
-| [ZipIt! Merging Models from Different Tasks without Training](https://openreview.net/pdf?id=LEYUkvdUhq) | 2024 |ICLR  |
-| [AdaMerging: Adaptive Model Merging for Multi-Task Learning](https://openreview.net/pdf?id=nZP6NgD3QY) | 2024  | ICLR |
-| [Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | 2023  |  NeurIPS |
-| [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | 2023 | ICLR |
-
-
-#### Knowledge Transfer in Multi-Objective Optimization
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |  2024 |Arxiv  |
-| [MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation](https://arxiv.org/pdf/2406.07529) | 2024 |Arxiv  |
-
-
-#### Knowledge Transfer in Multi-Domain Learning
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/abs/2312.16240) | 2023 |Arxiv  |
-
-
-#### Knowledge Transfer in Auxiliary Learning
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning](https://openreview.net/pdf?id=vZHk1QlBQW) | 2024 | NeurIPS |
-
-
-### Model Merging in Multi-Modal Learning
-#### Model Merging for Multimodal Fusion
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) | 2024 | ICLR |
-| [Model Composition for Multimodal Large Language Models](https://arxiv.org/pdf/2402.12750) | 2024 |ACL  |
-| [An Empirical Study of Multimodal Model Merging](https://aclanthology.org/2023.findings-emnlp.105.pdf) | 2023  | EMNLP |
-| [UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184) | 2023 |  TMLR |
-
-#### Model Merging for Cross-Modal Knowledge Transfer
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |  2024 | ICASSP Workshop  |
-
-
-### Model Merging in Continual Learning
-#### Model Merging to Mitigate Catastrophic Forgetting
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Adaptive Discovering and Merging for Incremental Novel Class Discovery](https://arxiv.org/pdf/2403.03382) | 2024 |AAAI  |
-| [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |  2024 |  Arxiv |
-| [A Second-Order perspective on Compositionality and Incremental Learning](https://arxiv.org/pdf/2405.16350) | 2024 |  Arxiv |
-| [WARP: On the Benefits of Weight Averaged Rewarded Policies](https://arxiv.org/pdf/2406.16768) | 2024 | Arxiv |
-| [DAM: Dynamic Adapter Merging for Continual Video QA Learning](https://arxiv.org/pdf/2403.08755) |  2024 | Arxiv |
-| [MagMax: Leveraging Model Merging for Seamless Continual Learning](https://arxiv.org/pdf/2407.06322) | 2024 |  Arxiv |
-| [DynaMMo: Dynamic Model Merging for Efficient Class Incremental Learning for Medical Images](https://arxiv.org/abs/2404.14099) |  2024|  Arxiv |
-| [Tangent model composition for ensembling and continual fine-tuning](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Tangent_Model_Composition_for_Ensembling_and_Continual_Fine-tuning_ICCV_2023_paper.pdf) |  2023| ICCV |
-| [Task Arithmetic with LoRA for Continual Learning](https://arxiv.org/pdf/2311.02428) |  2023 | NeurIPS Workshop |
-| [Lm-cocktail: Resilient tuning of language models via model merging](https://arxiv.org/pdf/2311.13534) |  2023 | Arxiv |
 
 
 ### Model Merging in Zero-shot/Few-shot Learning
