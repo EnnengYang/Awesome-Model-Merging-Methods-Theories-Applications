@@ -379,7 +379,7 @@ Thanks!
 | [Trainable Weight Averaging: Efficient Training by Optimizing Historical Solutions](https://openreview.net/pdf?id=8wbnpOJY-f) | 2023 | ICLR |
 | [Lookaround Optimizer: k steps around, 1 step average](https://openreview.net/pdf?id=k1Xy5zCNOJ) |2023  |  NeurIPS|
 | [AdapterSoup: Weight Averaging to Improve Generalization of Pretrained Language Models](https://arxiv.org/pdf/2302.07027) |  2023 |EACL
-| [Dart: Diversifyaggregate-repeat training improves generalization of neural networks](https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_DART_Diversify-Aggregate-Repeat_Training_Improves_Generalization_of_Neural_Networks_CVPR_2023_paper.pdf) |2023  | CVPR |
+| [Dart: Diversify aggregate-repeat training improves generalization of neural networks](https://openaccess.thecvf.com/content/CVPR2023/papers/Jain_DART_Diversify-Aggregate-Repeat_Training_Improves_Generalization_of_Neural_Networks_CVPR_2023_paper.pdf) |2023  | CVPR |
 | [When do flat minima optimizers work?](https://openreview.net/pdf?id=vDeh2yxTvuh) |  2022| NeurIPS |
 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://proceedings.mlr.press/v162/wortsman22a/wortsman22a.pdf) | 2022 | ICML |
 | [Diverse weight averaging for out-of-distribution generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/46108d807b50ad4144eb353b5d0e8851-Paper-Conference.pdf) |  2022|NeurIPS  |
@@ -454,10 +454,10 @@ Thanks!
 
 
 
-******
+<!-- ******
 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date) -->
 
 
 
@@ -466,7 +466,7 @@ Thanks!
 
 **Contact**
 
-We welcome all researchers to contribute to this repository **'model merging in machine learning'**.
+We welcome all researchers to contribute to this repository **'model merging'**.
 
 If you have a related paper that was not added to the library, please contact us.
 
