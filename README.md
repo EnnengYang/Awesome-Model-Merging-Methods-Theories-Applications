@@ -1,8 +1,8 @@
-# Awesome-Model-Merging-in-Machine-Learning
+# Awesome-Model-Merging-Methods-Theories-Applications
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
-A comprehensive list of papers about **'[Model Merging in LLMs, LMMs, LGMs and Beyond: Methods, Theories, Applications and Opportunities. Arxiv, 2024.]()'**.
+A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. Arxiv, 2024.]()'**.
 
 ## Abstract
 > Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, large multimodal models, large generative models and 10+ machine learning settings, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
@@ -16,7 +16,7 @@ A comprehensive list of papers about **'[Model Merging in LLMs, LMMs, LGMs and B
 If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Survery_ModelMerging_2024,
-  title={Model Merging in LLMs, LMMs, LGMs and Beyond: Methods, Theories, Applications and Opportunities},
+  title={Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities},
   author={Yang, Enneng; Shen, Li; Guo, Guibing; Wang, Xingwei; Cao, Xiaochun; Zhang, Jie and Tao, Dacheng},
   journal={arXiv},
   year={2024}
@@ -28,51 +28,55 @@ Thanks!
 
 
 ## Framework
-- [Advanced Methods](#advanced-methods)
-  * [Pre-Merging Methods](#pre-merging-methods)
-    + [Linearization Fine-tuning](#linearization-fine-tuning)
-    + [Weight Alignment](#weight-alignment)
-    + [Architecture Transformation](#architecture-transformation)
-  * [During Merging Methods](#during-merging-methods)
-    + [Basic Merging Methods](#basic-merging-methods)
-    + [Weighted-based Merging Methods](#weighted-based-merging-methods)
-    + [Subspace-based Merging Methods](#subspace-based-merging-methods)
-    + [Routing-based Merging Methods](#routing-based-merging-methods)
-    + [Post-calibration based Methods](#post-calibration-based-methods)
-  * [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
-- [Model Merging in Foundation Models](#model-merging-in-foundation-models)
-  * [Model Merging in Large Language Model](#model-merging-in-large-language-model)
-    + [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
-    + [Detoxifcation of LLMs](#detoxifcation-of-llms)
-    + [Knowledge Unlearning of LLMs](#knowledge-unlearning-of-llms)
-    + [Faster Training of LLMs](#faster-training-of-llms)
-    + [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
-  * [Model Merging in Large Multi-Modal Model](#model-merging-in-large-multi-modal-model)
-    + [Model Merging for Multimodal Fusion](#model-merging-for-multimodal-fusion)
-    + [Model Merging for Cross-Modal Knowledge Transfer](#model-merging-for-cross-modal-knowledge-transfer)
-  * [Model Merging in Large Generative Models](#model-merging-in-large-generative-models)
-    + [Style Mixing in Generative Models](#style-mixing-in-generative-models)
-    + [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
-    + [Enhancing the Faithfulness of Diffusion Models](#enhancing-the-faithfulness-of-diffusion-models)
-- [Model Merging in Different Machine Learning Settings](#model-merging-in-different-machine-learning-settings)
-  * [Model Merging in Continual Learning](#model-merging-in-continual-learning)
-    + [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
-  * [Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning](#model-merging-in-multi-task-multi-objective-multi-domain-auxiliary-learning)
-    + [Knowledge Transfer in Multi-Task Learning](#knowledge-transfer-in-multi-task-learning)
-    + [Knowledge Transfer in Multi-Objective Optimization](#knowledge-transfer-in-multi-objective-optimization)
-    + [Knowledge Transfer in Multi-Domain Learning](#knowledge-transfer-in-multi-domain-learning)
-    + [Knowledge Transfer in Auxiliary Learning](#knowledge-transfer-in-auxiliary-learning)
-  * [Model Merging in Out-of-Distribution/Domain Generalization](#model-merging-in-out-of-distribution-domain-generalization)
-    + [Model Merging for Better Out-of-Distribution Generalization](#model-merging-for-better-out-of-distribution-generalization)
-    + [Model Merging for Better Domain Generalization](#model-merging-for-better-domain-generalization)
-  * [Model Merging in Federated Learning](#model-merging-in-federated-learning)
-    + [Model Merging for Local Knowledge Aggregation](#model-merging-for-local-knowledge-aggregation)
-  * [Model Merging in Zero-shot/Few-shot Learning](#model-merging-in-zero-shot-few-shot-learning)
-    + [Model Merging for Cross-task Generalization in Zero-shot Learning](#model-merging-for-cross-task-generalization-in-zero-shot-learning)
-    + [Model Merging for Cross-task Generalization in Few-shot Learning](#model-merging-for-cross-task-generalization-in-few-shot-learning)
-  * [Model Merging in Adversarial Learning](#model-merging-in-adversarial-learning)
-    + [Model Merging as an Attack](#model-merging-as-an-attack)
-    + [Model Merging as a Defense](#model-merging-as-a-defense)
+- [Awesome-Model-Merging-Methods-Theories-Applications](#awesome-model-merging-methods-theories-applications)
+  * [Abstract](#abstract)
+  * [Citation](#citation)
+  * [Framework](#framework)
+  * [Advanced Methods](#advanced-methods)
+    + [Pre-Merging Methods](#pre-merging-methods)
+      - [Linearization Fine-tuning](#linearization-fine-tuning)
+      - [Weight Alignment](#weight-alignment)
+      - [Architecture Transformation](#architecture-transformation)
+    + [During Merging Methods](#during-merging-methods)
+      - [Basic Merging Methods](#basic-merging-methods)
+      - [Weighted-based Merging Methods](#weighted-based-merging-methods)
+      - [Subspace-based Merging Methods](#subspace-based-merging-methods)
+      - [Routing-based Merging Methods](#routing-based-merging-methods)
+      - [Post-calibration based Methods](#post-calibration-based-methods)
+    + [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
+  * [Application of Model Merging in Foundation Models](#application-of-model-merging-in-foundation-models)
+    + [Model Merging in Large Language Model](#model-merging-in-large-language-model)
+      - [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
+      - [Detoxifcation of LLMs](#detoxifcation-of-llms)
+      - [Knowledge Unlearning of LLMs](#knowledge-unlearning-of-llms)
+      - [Faster Training of LLMs](#faster-training-of-llms)
+      - [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
+    + [Model Merging in Multimodal Large Language Models](#model-merging-in-multimodal-large-language-models)
+      - [Model Merging for Multimodal Fusion](#model-merging-for-multimodal-fusion)
+      - [Model Merging for Cross-Modal Knowledge Transfer](#model-merging-for-cross-modal-knowledge-transfer)
+    + [Model Merging in Image Generative Models](#model-merging-in-image-generative-models)
+      - [Style Mixing in Generative Models](#style-mixing-in-generative-models)
+      - [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
+      - [Enhancing the Faithfulness of Diffusion Models](#enhancing-the-faithfulness-of-diffusion-models)
+  * [Application of Model Merging in Different Machine Learning Subfields](#application-of-model-merging-in-different-machine-learning-subfields)
+    + [Model Merging in Continual Learning](#model-merging-in-continual-learning)
+      - [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
+    + [Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning](#model-merging-in-multi-task-multi-objective-multi-domain-auxiliary-learning)
+      - [Knowledge Transfer in Multi-Task Learning](#knowledge-transfer-in-multi-task-learning)
+      - [Knowledge Transfer in Multi-Objective Optimization](#knowledge-transfer-in-multi-objective-optimization)
+      - [Knowledge Transfer in Multi-Domain Learning](#knowledge-transfer-in-multi-domain-learning)
+      - [Knowledge Transfer in Auxiliary Learning](#knowledge-transfer-in-auxiliary-learning)
+    + [Model Merging in Out-of-Distribution/Domain Generalization](#model-merging-in-out-of-distribution-domain-generalization)
+      - [Model Merging for Better Out-of-Distribution Generalization](#model-merging-for-better-out-of-distribution-generalization)
+      - [Model Merging for Better Domain Generalization](#model-merging-for-better-domain-generalization)
+    + [Model Merging in Federated Learning](#model-merging-in-federated-learning)
+      - [Model Merging for Local Knowledge Aggregation](#model-merging-for-local-knowledge-aggregation)
+    + [Model Merging in Zero-shot/Few-shot Learning](#model-merging-in-zero-shot-few-shot-learning)
+      - [Model Merging for Cross-task Generalization in Zero-shot Learning](#model-merging-for-cross-task-generalization-in-zero-shot-learning)
+      - [Model Merging for Cross-task Generalization in Few-shot Learning](#model-merging-for-cross-task-generalization-in-few-shot-learning)
+    + [Model Merging in Adversarial Learning](#model-merging-in-adversarial-learning)
+      - [Model Merging as an Attack](#model-merging-as-an-attack)
+      - [Model Merging as a Defense](#model-merging-as-a-defense)
 
 ## Advanced Methods
 <center>
@@ -199,7 +203,7 @@ Thanks!
 
 
 
-## Model Merging in Foundation Models
+## Application of Model Merging in Foundation Models
 <center>
 <img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
 </center>
@@ -259,8 +263,8 @@ Thanks!
   | [MetaGPT: Merging Large Language Models Using Model Exclusive Task Arithmetic](https://arxiv.org/pdf/2406.11385) | 2024 | Arxiv |
 
 
-  ### Model Merging in Large Multi-Modal Model
-  #### Model Merging for Multimodal Fusion
+### Model Merging in Multimodal Large Language Models
+#### Model Merging for Multimodal Fusion
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [Jointly training large autoregressive multimodal models](https://openreview.net/pdf?id=5jcav5RcKw) | 2024 | ICLR |
@@ -268,7 +272,7 @@ Thanks!
   | [An Empirical Study of Multimodal Model Merging](https://aclanthology.org/2023.findings-emnlp.105.pdf) | 2023  | EMNLP |
   | [UnIVAL: Unified Model for Image, Video, Audio and Language Tasks](https://arxiv.org/pdf/2307.16184) | 2023 |  TMLR |
 
-  #### Model Merging for Cross-Modal Knowledge Transfer
+#### Model Merging for Cross-Modal Knowledge Transfer
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |  2024 | ICASSP Workshop  |
@@ -276,7 +280,7 @@ Thanks!
 
 
 
-### Model Merging in Large Generative Models
+### Model Merging in Image Generative Models
 #### Style Mixing in Generative Models
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
@@ -302,7 +306,7 @@ Thanks!
 
 
 
-## Model Merging in Different Machine Learning Settings
+## Application of Model Merging in Different Machine Learning Subfields
 <center>
 <img src="./imgs/applications_mls.png" alt="Model Merging" width="800"/>
 </center>
