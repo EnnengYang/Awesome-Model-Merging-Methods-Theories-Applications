@@ -32,8 +32,8 @@ Thanks!
   * [Advanced Methods](#advanced-methods)
     + [Pre-Merging Methods](#pre-merging-methods)
       - [Linearization Fine-tuning](#linearization-fine-tuning)
-      - [Weight Alignment](#weight-alignment)
       - [Architecture Transformation](#architecture-transformation)
+      - [Weight Alignment](#weight-alignment)
     + [During Merging Methods](#during-merging-methods)
       - [Basic Merging Methods](#basic-merging-methods)
       - [Weighted-based Merging Methods](#weighted-based-merging-methods)
@@ -91,6 +91,18 @@ Thanks!
 | [Parameter Efficient Multi-task Model Fusion with Partial Linearization](https://openreview.net/pdf?id=iynRvVVAmH) |  2024 |ICLR  |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
 
+
+
+
+#### Architecture Transformation
+| **Paper Title** | **Year** | **Conference/Journal** |
+| --------------- | :----: | :----: |
+| [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) | 2024 |  ICLR |
+| [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | 2024 |Arxiv  |
+| [Model fusion of heterogeneous neural networks via cross-layer alignment](https://arxiv.org/pdf/2110.15538) |2023  |ICASSP   |
+| [GAN Cocktail: mixing GANs without dataset access](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830207.pdf) | 2022 | ECCV |
+
+
 #### Weight Alignment
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
@@ -113,16 +125,6 @@ Thanks!
 | [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)|  2018 | NeurIPS |
 | [REPAIR: REnormalizing Permuted Activations for Interpolation Repair](https://openreview.net/pdf?id=gU5sJ6ZggcX) |2023  | ICLR |
 
-
-
-
-#### Architecture Transformation
-| **Paper Title** | **Year** | **Conference/Journal** |
-| --------------- | :----: | :----: |
-| [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) | 2024 |  ICLR |
-| [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | 2024 |Arxiv  |
-| [Model fusion of heterogeneous neural networks via cross-layer alignment](https://arxiv.org/pdf/2110.15538) |2023  |ICASSP   |
-| [GAN Cocktail: mixing GANs without dataset access](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830207.pdf) | 2022 | ECCV |
 
 
 ### During Merging Methods
