@@ -2,10 +2,10 @@
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
-A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. Arxiv, 2024.]()'**.
+A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities]()'**.
 
 ## Abstract
-> Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, large multimodal models, large generative models and 10+ machine learning settings, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
+> Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, multimodal large language models, and 10+ machine learning subfields, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
 
 <center>
 <img src="./imgs/modelmerging_demo.png" alt="Model Merging" width="800"/>
@@ -29,9 +29,6 @@ Thanks!
 
 ## Framework
 - [Awesome-Model-Merging-Methods-Theories-Applications](#awesome-model-merging-methods-theories-applications)
-  * [Abstract](#abstract)
-  * [Citation](#citation)
-  * [Framework](#framework)
   * [Advanced Methods](#advanced-methods)
     + [Pre-Merging Methods](#pre-merging-methods)
       - [Linearization Fine-tuning](#linearization-fine-tuning)
