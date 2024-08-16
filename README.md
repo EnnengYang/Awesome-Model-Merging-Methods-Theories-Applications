@@ -458,10 +458,10 @@ Thanks!
 
 
 
-<!-- ******
+******
 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date)](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-in-Machine-Learning&type=Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&type=Date)](https://star-history.com/#EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&Date)
 
 
 
@@ -470,7 +470,7 @@ Thanks!
 
 **Contact**
 
-We welcome all researchers to contribute to this repository **'model merging'**.
+We welcome all researchers to contribute to this repository **'model merging in foundation models or machine learning'**.
 
 If you have a related paper that was not added to the library, please contact us.
 
