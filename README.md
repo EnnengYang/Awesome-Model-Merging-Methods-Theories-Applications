@@ -17,7 +17,7 @@ If you find our paper or this resource helpful, please consider cite:
 ```
 @article{Survery_ModelMerging_2024,
   title={Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities},
-  author={Enneng Yang; Li Shen; Guibing Guo; Xingwei Wang; Xiaochun Cao; Jie Zhang and Dacheng Tao},
+  author={Yang, Enneng and Shen, Li and Guo, Guibing and Wang, Xingwei and Cao, Xiaochun and Zhang, Jie and Tao, Dacheng},
   journal={arXiv preprint arXiv:2408.07666},
   year={2024}
 }
