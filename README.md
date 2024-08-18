@@ -2,6 +2,11 @@
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
+
+<font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
+
+---
+
 A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666)'**.
 
 ## Abstract
@@ -471,8 +476,8 @@ Thanks!
 
 ******
 
-
-**Contact**
+## Contact
+<!-- **Contact** -->
 
 We welcome all researchers to contribute to this repository **'model merging in foundation models or machine learning'**.
 
