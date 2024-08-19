@@ -3,7 +3,8 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
 
-<font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
+> [!TIP]
+> <font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
 
 ---
 
