@@ -433,6 +433,7 @@ Thanks!
 #### Model Merging for Cross-task Generalization in Zero-shot Learning
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Towards Modular LLMs by Building and Reusing a Library of LoRAs](https://arxiv.org/pdf/2405.11157) |2024  | ICML  |
 | [Chat Vector: A Simple Approach to Equip LLMs With New Language Chat Capabilities](https://arxiv.org/pdf/2310.04799) |2024  |ACL  |
 | [Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2406.08431) | 2024 | Arxiv |
 | [Towards Modular LLMs by Building and Reusing a Library of LoRAs](https://arxiv.org/pdf/2405.11157) | 2024 |Arxiv |
