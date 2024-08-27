@@ -40,6 +40,7 @@ Thanks!
       - [Linearization Fine-tuning](#linearization-fine-tuning)
       - [Architecture Transformation](#architecture-transformation)
       - [Weight Alignment](#weight-alignment)
+      - [Others](#others)
     + [During Merging Methods](#during-merging-methods)
       - [Basic Merging Methods](#basic-merging-methods)
       - [Weighted-based Merging Methods](#weighted-based-merging-methods)
@@ -80,6 +81,8 @@ Thanks!
     + [Model Merging in Adversarial Learning](#model-merging-in-adversarial-learning)
       - [Model Merging as an Attack](#model-merging-as-an-attack)
       - [Model Merging as a Defense](#model-merging-as-a-defense)
+  * [Other Applications](#other-applications)
+
 
 ## Advanced Methods
 <center>
@@ -95,8 +98,6 @@ Thanks!
 | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/pdf?id=VLFhbOCz5D) | 2024 |ICLR  |
 | [Parameter Efficient Multi-task Model Fusion with Partial Linearization](https://openreview.net/pdf?id=iynRvVVAmH) |  2024 |ICLR  |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
-
-
 
 
 #### Architecture Transformation
@@ -138,6 +139,9 @@ Thanks!
 | [REPAIR: REnormalizing Permuted Activations for Interpolation Repair](https://openreview.net/pdf?id=gU5sJ6ZggcX) |2023  | ICLR |
 
 
+#### Others
+| [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
+
 
 ### During Merging Methods
 
@@ -171,11 +175,12 @@ Thanks!
 | --------------- | :----: | :----: |
 | [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) | 2024 | ICML  |
 | [Localizing Task Information for Improved Model Merging and Compression](https://openreview.net/attachment?id=DWT9uiGjxT&name=pdf) | 2024 | ICML |
-| [Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | 2023  |  NeurIPS |
+| [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656)|2024  |Arxiv  |
 | [DELLA-Merging: Reducing Interference in Model Merging through Magnitude-Based Sampling](https://arxiv.org/pdf/2406.11617)|2024  |Arxiv  |
 | [EMR-Merging: Tuning-Free High-Performance Model Merging](https://arxiv.org/pdf/2405.17461) |2024  |Arxiv  |
 | [Model breadcrumbs: Scaling multi-task model merging with sparse masks](https://arxiv.org/pdf/2312.06795) |2023  |Arxiv  |
 | [Concrete Subspace Learning based Interference Elimination for Multi-task Model Fusion](https://arxiv.org/pdf/2312.06173) | 2023  |Arxiv  |
+| [Resolving Interference When Merging Models](https://openreview.net/pdf?id=xtaX3WyCj1) | 2023  |  NeurIPS |
 
 #### Routing-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** |
@@ -478,7 +483,8 @@ Thanks!
 | [Revisiting adapters with adversarial training](https://openreview.net/pdf?id=HPdxC1THU8T) |2023 |ICLR |
 | [Seasoning model soups for robustness to adversarial and natural distribution shifts](https://openaccess.thecvf.com/content/CVPR2023/papers/Croce_Seasoning_Model_Soups_for_Robustness_to_Adversarial_and_Natural_Distribution_CVPR_2023_paper.pdf) |2023 | CVPR |
 
-
+## Other Applications
+| [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](https://arxiv.org/pdf/2408.12733) | 2024 |  Arxiv|
 
 ******
 **Star History**
