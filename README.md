@@ -140,6 +140,8 @@ Thanks!
 
 
 #### Others
+| **Paper Title** | **Year** | **Conference/Journal** |
+| --------------- | :----: | :----: |
 | [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
 
 
@@ -484,6 +486,8 @@ Thanks!
 | [Seasoning model soups for robustness to adversarial and natural distribution shifts](https://openaccess.thecvf.com/content/CVPR2023/papers/Croce_Seasoning_Model_Soups_for_Robustness_to_Adversarial_and_Natural_Distribution_CVPR_2023_paper.pdf) |2023 | CVPR |
 
 ## Other Applications
+| **Paper Title** | **Year** | **Conference/Journal** |
+| --------------- | :----: | :----: |
 | [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](https://arxiv.org/pdf/2408.12733) | 2024 |  Arxiv|
 
 ******
