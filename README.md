@@ -4,7 +4,7 @@
 
 
 > [!TIP]
-> <font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
+<font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
 
 ---
 
@@ -83,6 +83,8 @@ Thanks!
       - [Model Merging as a Defense](#model-merging-as-a-defense)
   * [Other Applications](#other-applications)
 
+
+----------
 
 ## Advanced Methods
 <center>
@@ -223,6 +225,7 @@ Thanks!
 | [Train faster, generalize better: Stability of stochastic gradient descent](https://arxiv.org/pdf/1509.01240) | 2016 | ICML  |
 
 
+----------
 
 ## Application of Model Merging in Foundation Models
 <center>
@@ -328,6 +331,7 @@ Thanks!
 
 
 
+----------
 
 ## Application of Model Merging in Different Machine Learning Subfields
 <center>
@@ -490,14 +494,15 @@ Thanks!
 | --------------- | :----: | :----: |
 | [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](https://arxiv.org/pdf/2408.12733) | 2024 |  Arxiv|
 
-******
+----------
+
 **Star History**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&type=Date)](https://star-history.com/#EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&Date)
 
 
+----------
 
-******
 
 ## Contact
 <!-- **Contact** -->
