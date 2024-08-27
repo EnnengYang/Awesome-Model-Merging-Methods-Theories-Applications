@@ -392,7 +392,7 @@ Thanks!
 #### Knowledge Transfer in Auxiliary Learning
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
-  | [ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning](https://openreview.net/pdf?id=vZHk1QlBQW) | 2024 | NeurIPS |
+  | [ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning](https://openreview.net/pdf?id=vZHk1QlBQW) | 2023 | NeurIPS |
 
 
 
