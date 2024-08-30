@@ -66,10 +66,10 @@ Thanks!
     + [Model Merging in Continual Learning](#model-merging-in-continual-learning)
       - [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
     + [Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning](#model-merging-in-multi-task-multi-objective-multi-domain-auxiliary-learning)
-      - [Knowledge Transfer in Multi-Task Learning](#knowledge-transfer-in-multi-task-learning)
-      - [Knowledge Transfer in Multi-Objective Optimization](#knowledge-transfer-in-multi-objective-optimization)
-      - [Knowledge Transfer in Multi-Domain Learning](#knowledge-transfer-in-multi-domain-learning)
-      - [Knowledge Transfer in Auxiliary Learning](#knowledge-transfer-in-auxiliary-learning)
+      - [Model Merging for Knowledge Transfer in Multi-Task Learning](#model-merging-for-knowledge-transfer-in-multi-task-learning)
+      - [Model Merging for Knowledge Transfer in Multi-Objective Optimization](#model-merging-for-knowledge-transfer-in-multi-objective-optimization)
+      - [Model Merging for Knowledge Transfer in Multi-Domain Learning](#model-merging-for-knowledge-transfer-in-multi-domain-learning)
+      - [Model Merging for Knowledge Transfer in Auxiliary Learning](#model-merging-for-knowledge-transfer-in-auxiliary-learning)
     + [Model Merging in Out-of-Distribution/Domain Generalization](#model-merging-in-out-of-distribution-domain-generalization)
       - [Model Merging for Better Out-of-Distribution Generalization](#model-merging-for-better-out-of-distribution-generalization)
       - [Model Merging for Better Domain Generalization](#model-merging-for-better-domain-generalization)
@@ -107,7 +107,7 @@ Thanks!
 | --------------- | :----: | :----: |
 | [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) | 2024 |  ICLR |
 | [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | 2024 |Arxiv  |
-| [Model fusion of heterogeneous neural networks via cross-layer alignment](https://arxiv.org/pdf/2110.15538) |2023  |ICASSP   |
+| [On Cross-Layer Alignment for Model Fusion of Heterogeneous Neural Networks](https://arxiv.org/pdf/2110.15538) |2023  |ICASSP   |
 | [GAN Cocktail: mixing GANs without dataset access](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830207.pdf) | 2022 | ECCV |
 
 
@@ -363,6 +363,7 @@ Thanks!
   | [Adaptive Discovering and Merging for Incremental Novel Class Discovery](https://arxiv.org/pdf/2403.03382) | 2024 |AAAI  |
   | [MagMax: Leveraging Model Merging for Seamless Continual Learning](https://arxiv.org/pdf/2407.06322) | 2024 |  ECCV |
   | [Lm-cocktail: Resilient tuning of language models via model merging](https://aclanthology.org/2024.findings-acl.145.pdf) |  2024 | ACL Findings |
+  | [Backward Compatibility During Data Updates by Weight Interpolation](https://aclanthology.org/2024.eacl-long.174.pdf)|  2024 | EACL |
   | [Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs](https://arxiv.org/pdf/2406.16797) |  2024 |  Arxiv |
   | [Learning to Route for Dynamic Adapter Composition in Continual Learning with Language Models](https://arxiv.org/pdf/2408.09053) |  2024 |  Arxiv |
   | [Mitigating Catastrophic Forgetting in Language Transfer via Model Merging](https://arxiv.org/pdf/2407.08699) |  2024 |  Arxiv |
@@ -378,7 +379,7 @@ Thanks!
 
 ### Model Merging in Multi-Task/Multi-Objective/Multi-Domain/Auxiliary Learning
 
-#### Knowledge Transfer in Multi-Task Learning
+#### Model Merging for Knowledge Transfer in Multi-Task Learning
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer](https://arxiv.org/pdf/2408.01119) | 2024 |Arxiv  |
@@ -392,7 +393,7 @@ Thanks!
   | [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | 2023 | ICLR |
 
 
-#### Knowledge Transfer in Multi-Objective Optimization
+#### Model Merging for Knowledge Transfer in Multi-Objective Optimization
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging](https://arxiv.org/pdf/2408.12105) |  2024 |Arxiv  |
@@ -400,14 +401,14 @@ Thanks!
   | [MAP: Low-compute Model Merging with Amortized Pareto Fronts via Quadratic Approximation](https://arxiv.org/pdf/2406.07529) | 2024 |Arxiv  |
 
 
-#### Knowledge Transfer in Multi-Domain Learning
+#### Model Merging for Knowledge Transfer in Multi-Domain Learning
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |
   | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/abs/2312.16240) | 2023 |Arxiv  |
 
 
-#### Knowledge Transfer in Auxiliary Learning
+#### Model Merging for Knowledge Transfer in Auxiliary Learning
   | **Paper Title** | **Year** | **Conference/Journal** |
   | --------------- | :----: | :----: |
   | [ForkMerge: Mitigating Negative Transfer in Auxiliary-Task Learning](https://openreview.net/pdf?id=vZHk1QlBQW) | 2023 | NeurIPS |
@@ -459,6 +460,7 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
 | [FedFisher: Leveraging Fisher Information for One-Shot Federated Learning](https://proceedings.mlr.press/v238/jhunjhunwala24a/jhunjhunwala24a.pdf) | 2024 | AISTATS |
+| [lo-fi: distributed fine-tuning without communication](https://openreview.net/pdf?id=1U0aPkBVz0)| 2023 | TMLR |
 | [Deep neural network fusion via graph matching with applications to model ensemble and federated learning](https://proceedings.mlr.press/v162/liu22k/liu22k.pdf) | 2022 |  ICML |
 | [Federated Learning with Matched Averaging](https://openreview.net/pdf?id=BkluqlSFDS) |  2020 |  ICLR|
 | [Tackling the objective inconsistency problem in heterogeneous federated optimization](https://arxiv.org/pdf/2007.07481) |2020  | NeurIPS |
