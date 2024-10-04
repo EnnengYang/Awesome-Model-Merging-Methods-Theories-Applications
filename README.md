@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
 > [!IMPORTANT]
-We are progressively marking papers that have used models greater than or equal to **7B** in their experiments.
+We are progressively marking papers that use model size <font color="red">**$\geq$ 7B**</font> in experiments.
 
 > [!TIP]
 <font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
