@@ -3,12 +3,13 @@
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
 > [!TIP]
-🔥We are progressively marking papers that use model size <font color="red">**$\geq$ 7B**</font> in experiments. 
+🔥We are progressively marking papers that use  <font color=red>model size **$\geq$ 7B**</font> in experiments. 
 
 > [!IMPORTANT]
 <font color="red">If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!</font>
 
 ---
+
 
 A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/pdf/2408.07666)'**.
 
