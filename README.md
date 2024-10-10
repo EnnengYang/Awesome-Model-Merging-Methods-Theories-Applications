@@ -48,13 +48,13 @@ Thanks!
       - [Linearization Fine-tuning](#linearization-fine-tuning)
       - [Architecture Transformation](#architecture-transformation)
       - [Weight Alignment](#weight-alignment)
-      - [Others](#others)
     + [During Merging Methods](#during-merging-methods)
       - [Basic Merging Methods](#basic-merging-methods)
       - [Weighted-based Merging Methods](#weighted-based-merging-methods)
       - [Subspace-based Merging Methods](#subspace-based-merging-methods)
       - [Routing-based Merging Methods](#routing-based-merging-methods)
       - [Post-calibration based Methods](#post-calibration-based-methods)
+      - [Other Merging Methods](#other-merging-methods)
     + [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
   * [Application of Model Merging in Foundation Models](#application-of-model-merging-in-foundation-models)
     + [Model Merging in Large Language Model](#model-merging-in-large-language-model)
@@ -170,12 +170,6 @@ Thanks!
 | [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)|  2018 | NeurIPS |
 
 
-#### Others
-| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
-| --------------- | :----: | :----: | :----: |
-| [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
-
-
 ### During Merging Methods
 
 #### Basic Merging Methods
@@ -237,6 +231,14 @@ Thanks!
 | [Twin-Merging: Dynamic Integration of Modular Expertise in Model Merging](https://arxiv.org/pdf/2406.15479) |  2024 |Arxiv  |Qwen-14B|
 | [Self-MoE: Towards Compositional Large Language Models with Self-Specialized Experts](https://arxiv.org/pdf/2406.12034) |2024 |Arxiv  |Gemma-7B, LLaMA-2 7B & 13B, Mistral 7B,  LLaMA-3 8B|
 | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |  2024 |Arxiv  |
+
+
+#### Other Merging Methods
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models](https://arxiv.org/pdf/2409.18893) | 2024 | Arxiv | Llama-2-7B-Chat, WizardMath-7B, CodeLlama-7B|
+| [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
+
 
 
 <!-- | [Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://arxiv.org/pdf/2403.07816) |  2024 |Arxiv  | -->
@@ -331,6 +333,7 @@ Thanks!
   | --------------- | :----: | :----: | :----: |
   | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://arxiv.org/pdf/2410.01335) |2024 |Arxiv | LLAMA 3.1 8B |
   | [What Matters for Model Merging at Scale?](https://arxiv.org/pdf/2410.03617)| 2024 | Arxiv | PaLM-2 (1B, 8B, 24B, 64B), PaLM-2-IT (1B, 8B, 24B, 64B)|
+  | [HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models](https://arxiv.org/pdf/2409.18893) | 2024 | Arxiv | Llama-2-7B-Chat, WizardMath-7B, CodeLlama-7B|
   | [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](https://arxiv.org/pdf/2408.12733) | 2024 |  Arxiv|CodeLlama 7B|
   | [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208) | 2024 | ACL | 
   | [LLM Merging: Building LLMs Efficiently through Merging](https://openreview.net/pdf?id=TiRQ4Gl4Ir)| 2024 |  NeurIPS 2024 Competition Track | LLaMA-7B, Mistral-7B, Gemma-7B |
