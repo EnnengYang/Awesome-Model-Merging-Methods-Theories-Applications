@@ -105,6 +105,7 @@ Thanks!
 ## Benchmark/Evaluation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild](https://arxiv.org/pdf/2410.05357) 2024 | NeurIPS Track on Datasets and Benchmarks | Synthia-7B-v1.2, Llama-2-7b-evolcodealpaca, OpenHermes-7B, pygmalion-2-7b, Llama-2-7b-chat-hf, BeingWell_llama2_7b, MetaMath-7B-V1.0, vicuna-7b-v1.5, Platypus2-7B, GOAT-7B-Community, Llama-2-7b-WikiChat-fused, dolphin-llama2-7b, MetaMath-Llemma-7B, CodeLlama-7b-Instruct-hf, Magicoder-S-CL-7B , CrystalChat|
 | [What Matters for Model Merging at Scale?](https://arxiv.org/pdf/2410.03617)| 2024 | Arxiv | PaLM-2 (1B, 8B, 24B, 64B), PaLM-2-IT (1B, 8B, 24B, 64B)|
 | [Realistic Evaluation of Model Merging for Compositional Generalization](https://arxiv.org/pdf/2409.18314)| 2024 | Arxiv |
 | [Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities](https://arxiv.org/pdf/2409.03444) | 2024 | Arxiv |Llama-3.1-8B, Mistral-7B-v0.3|
@@ -207,6 +208,7 @@ Thanks!
 | [Language Models are Super Mario: Absorbing Abilities from Homologous Models as a Free Lunch](https://arxiv.org/pdf/2311.03099) | 2024 | ICML  | WizardLM-13B, WizardMath-13B, and llama-2-13b-codealpaca, Mistral-7B|
 | [Localizing Task Information for Improved Model Merging and Compression](https://openreview.net/attachment?id=DWT9uiGjxT&name=pdf) | 2024 | ICML | |
 | [Sparse Model Soups: A Recipe for Improved Pruning via Model Averaging](https://openreview.net/pdf?id=xx0ITyHp3u) |2024  |ICLR  | |
+| [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583)|2024  |Arxiv  | |
 | [Localize-and-Stitch: Efficient Model Merging via Sparse Task Arithmetic](https://arxiv.org/pdf/2408.13656)|2024  |Arxiv  | |
 | [Activated Parameter Locating via Causal Intervention for Model Merging](https://arxiv.org/pdf/2408.09485)|2024  |Arxiv  | Llama-2-chat-7B|
 | [PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning](https://arxiv.org/pdf/2406.17923)| 2024 | Arxiv  |Mistral-7B-v0.1, Llama-3-8B, Neurotic-7B, MoMo-70B|
