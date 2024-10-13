@@ -69,7 +69,7 @@ Thanks!
     + [Model Merging in Image Generative Models](#model-merging-in-image-generative-models)
       - [Style Mixing in Generative Models](#style-mixing-in-generative-models)
       - [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
-      - [Enhancing the Faithfulness of Diffusion Models](#enhancing-the-faithfulness-of-diffusion-models)
+      - [Enhancing the Faithfulness (or Generation Quality) of Diffusion Models](#enhancing-the-faithfulness--or-generation-quality-of-diffusion-models)
   * [Application of Model Merging in Different Machine Learning Subfields](#application-of-model-merging-in-different-machine-learning-subfields)
     + [Model Merging in Continual Learning](#model-merging-in-continual-learning)
       - [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
@@ -393,9 +393,10 @@ Thanks!
 | [Linear Combination of Saved Checkpoints Makes Consistency and Diffusion Models Better](https://arxiv.org/pdf/2404.02241) | 2024 | Arxiv |
 | [A Unified Module for Accelerating STABLE-DIFFUSION: LCM-LORA](https://arxiv.org/pdf/2403.16024)| 2024 | Arxiv |
 
-#### Enhancing the Faithfulness of Diffusion Models
+#### Enhancing the Faithfulness (or Generation Quality) of Diffusion Models
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Decouple-Then-Merge: Towards Better Training for Diffusion Models](https://arxiv.org/pdf/2410.06664)|  2024 | Arxiv |
 | [SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data](https://arxiv.org/pdf/2403.06952) |  2024 | Arxiv |
 
 
