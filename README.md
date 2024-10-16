@@ -251,7 +251,7 @@ Thanks!
 | [HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models](https://arxiv.org/pdf/2409.18893) | 2024 | Arxiv | Llama-2-7B-Chat, WizardMath-7B, CodeLlama-7B|
 | [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
 | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | 2024 | Arxiv | Qwen1.5-7B-Chat, Liberated-Qwen1.5-7B, firefly-qwen1.5-en-7B |
-| [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](http://arxiv.org/abs/2312.15166) | 2023 | Arxiv |
+| [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](http://arxiv.org/abs/2312.15166) | 2023 | Arxiv |SOLAR 10.7B, SOLAR 10.7B-Instruct|
 
 
 ### Theories and Analysis of Model Merging
