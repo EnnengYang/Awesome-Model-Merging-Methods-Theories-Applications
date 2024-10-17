@@ -88,7 +88,7 @@ Thanks!
       - [Model Merging for Cross-task Generalization in Few-shot Learning](#model-merging-for-cross-task-generalization-in-few-shot-learning)
     + [Model Merging in Adversarial Learning](#model-merging-in-adversarial-learning)
       - [Model Merging as an Attack](#model-merging-as-an-attack)
-      - [Model Merging as a Defense](#model-merging-as-a-defense)
+      - [Model Merging as a Defense or Intellectual Property Protection](#model-merging-as-a-defense-or-intellectual-property-protection)
   * [Other Applications](#other-applications)
 
 
@@ -140,6 +140,7 @@ Thanks!
 #### Weight Alignment
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766)| 2024 | Arxiv |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | 2024 | ICML  |
 | [Harmony in diversity: Merging neural networks with canonical correlation analysis](https://openreview.net/pdf?id=XTr8vwAr2D) | 2024 | ICML |
 | [Transformer fusion with optimal transport](https://arxiv.org/pdf/2310.05719) | 2024 | ICLR  |
@@ -336,6 +337,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Exploring Model Kinship for Merging Large Language Models](https://arxiv.org/pdf/2410.12613) |2024 |Arxiv |Mistral-7B, Mistral-7b-instruct-v0.2, MetaMath-mistral-7b, Open-chat-3.5-1210 |
   | [Merging in a Bottle: Differentiable Adaptive Merging (DAM) and the Path from Averaging to Automation](https://arxiv.org/pdf/2410.08371)| 2024 |Arxiv  |shisa-gamma-7b, WizardMath-7B-V1.1, Abel-7B-002, Llama-3-SauerkrautLM-8b-Instruct, Llama-3-Open-Ko-8B, llama-3-sqlcoder-8b, Meta-Llama-3-8B |
   | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://arxiv.org/pdf/2410.01335) |2024 |Arxiv | LLAMA 3.1 8B |
   | [What Matters for Model Merging at Scale?](https://arxiv.org/pdf/2410.03617)| 2024 | Arxiv | PaLM-2 (1B, 8B, 24B, 64B), PaLM-2-IT (1B, 8B, 24B, 64B)|
@@ -577,9 +579,10 @@ Thanks!
 | [BadMerging: Backdoor Attacks Against Model Merging](https://arxiv.org/pdf/2408.07362) | 2024  | CCS |
 | [LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/pdf/2403.00108) | 2024  | ACL | Llama-2-7B|
 
-#### Model Merging as a Defense
+#### Model Merging as a Defense or Intellectual Property Protection
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergePrint: Robust Fingerprinting against Merging Large Language Models](https://arxiv.org/pdf/2410.08604)| 2024 |  Arxiv| LLaMA-2-7B, WizardMath-7B-V1.0, LLaMA-2-7B-CHAT |
 | [Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://arxiv.org/pdf/2402.19334) | 2024  | ACL |
 | [Merging Improves Self-Critique Against Jailbreak Attacks](https://arxiv.org/pdf/2406.07188) | 2024 |  Arxiv| Mistral-7B, Mixtral-8x7B|
 | [Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging](https://arxiv.org/pdf/2404.05188) |  2024 |  Arxiv| LLaMA-2-7B, LLaMA-2-7B-CHAT, WizardMath-7B-V1.0|
@@ -589,6 +592,7 @@ Thanks!
 ## Other Applications
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Tracking Universal Features Through Fine-Tuning and Model Merging](https://arxiv.org/pdf/2410.12391)| 2024 |  Arxiv| 
 | [HM3: Heterogeneous Multi-Class Model Merging](https://www.arxiv.org/pdf/2409.19173) | 2024 |  Arxiv| 
 | [Emotion Arithmetic: Emotional Speech Synthesis via Weight Space Interpolation](https://www.ee.iitb.ac.in/course/~daplab/publications/2024/kalyan24_interspeech.pdf) | 2024 | Interspeech
 | [Erasure Coded Neural Network Inference via Fisher Averaging](https://arxiv.org/pdf/2409.01420) | 2024 |  Arxiv| 
