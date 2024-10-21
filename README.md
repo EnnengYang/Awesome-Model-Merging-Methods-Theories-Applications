@@ -340,6 +340,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Unconstrained Model Merging for Enhanced LLM Reasoning](https://arxiv.org/pdf/2410.13699)|2024 |Arxiv |CodeLlama-7B-Ins, CodeLlama-70B-Ins, Deepseek-Coder-Ins-v1.5, Qwen2.5-Math-7B-Ins, WizardMath-7B-V1.1, OpenMath-Mistral 7B, MetaMath-7B, MetaMath-70B | 
   | [LoRA Soups: Merging LoRAs for Practical Skill Composition Tasks](https://arxiv.org/pdf/2410.13025)|2024 |Arxiv | Llama-7b, Llama2-7b-chat |
   | [Merge to Learn: Efficiently Adding Skills to Language Models with Model Merging](https://arxiv.org/pdf/2410.12937)|2024 |Arxiv | Llama 2 7B |
   | [Exploring Model Kinship for Merging Large Language Models](https://arxiv.org/pdf/2410.12613) |2024 |Arxiv |Mistral-7B, Mistral-7b-instruct-v0.2, MetaMath-mistral-7b, Open-chat-3.5-1210 |
