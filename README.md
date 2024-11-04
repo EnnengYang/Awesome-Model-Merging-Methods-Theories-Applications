@@ -547,6 +547,8 @@ Thanks!
 ####  Model Merging for Local Knowledge Aggregation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion](https://arxiv.org/pdf/2410.20380)| 2024 | Arxiv | 
+| [Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning](https://arxiv.org/pdf/2410.23660)| 2024 | Arxiv | 
 | [Closed-form merging of parameter-efficient modules for Federated Continual Learning](https://arxiv.org/pdf/2410.17961) | 2024 | Arxiv | 
 | [DIMAT: Decentralized Iterative Merging-And-Training for Deep Learning Models](https://openaccess.thecvf.com/content/CVPR2024/papers/Saadati_DIMAT_Decentralized_Iterative_Merging-And-Training_for_Deep_Learning_Models_CVPR_2024_paper.pdf) | 2024 | CVPR |
 | [FedFisher: Leveraging Fisher Information for One-Shot Federated Learning](https://proceedings.mlr.press/v238/jhunjhunwala24a/jhunjhunwala24a.pdf) | 2024 | AISTATS |
