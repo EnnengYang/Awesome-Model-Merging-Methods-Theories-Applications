@@ -604,6 +604,7 @@ Thanks!
 #### Model Merging as an Attack
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org/pdf/2411.16746) | 2024  | Arxiv |
 | [BadMerging: Backdoor Attacks Against Model Merging](https://arxiv.org/pdf/2408.07362) | 2024  | CCS |
 | [LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://arxiv.org/pdf/2403.00108) | 2024  | ACL | Llama-2-7B|
 
