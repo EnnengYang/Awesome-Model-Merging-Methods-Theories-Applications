@@ -272,6 +272,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Task Arithmetic Through The Lens Of One-Shot Federated Learning](https://arxiv.org/pdf/2411.18607)|  2024 |Arxiv | WizardLM-13B, WizardMath-13B, Llama-2-13B-Code-Alpaca, Llama2-13B|
 | [A Unified Analysis for Finite Weight Averaging](https://arxiv.org/pdf/2411.13169v1)|  2024 |Arxiv |
 | [WASH: Train your Ensemble with Communication-Efficient Weight Shuffling, then Average](https://arxiv.org/pdf/2405.17517) |  2024 |Arxiv |
 | [On the Emergence of Cross-Task Linearity in Pretraining-Finetuning Paradigm](https://arxiv.org/pdf/2402.03660)| 2024 | ICML |
