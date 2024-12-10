@@ -560,6 +560,7 @@ Thanks!
 ####  Model Merging for Local Knowledge Aggregation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices](https://arxiv.org/pdf/2412.05823)| 2024 | NeurIPS | 
 | [FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion](https://arxiv.org/pdf/2410.20380)| 2024 | Arxiv | 
 | [Local Superior Soups: A Catalyst for Model Merging in Cross-Silo Federated Learning](https://arxiv.org/pdf/2410.23660)| 2024 | Arxiv | 
 | [Closed-form merging of parameter-efficient modules for Federated Continual Learning](https://arxiv.org/pdf/2410.17961) | 2024 | Arxiv | 
