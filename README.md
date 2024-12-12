@@ -449,6 +449,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [DESIRE: Dynamic Knowledge Consolidation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2411.19154)| 2024 |Arxiv  |
   | [Adaptive LoRA Merging for Efficient Domain Incremental Learning](https://openreview.net/pdf?id=tlB5eonGEk)| 2024 | NeurIPS Workshop  |
   | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
   | [Model Tailor: Mitigating Catastrophic Forgetting in Multi-modal Large Language Models](https://arxiv.org/pdf/2402.12048) | 2024 |ICML  | InstructBLIP (Vicuna-7B), LLaVA-1.5 (Vicuna7B) |
