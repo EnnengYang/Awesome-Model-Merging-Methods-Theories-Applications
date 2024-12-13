@@ -626,6 +626,7 @@ Thanks!
 #### Model Merging as a Defense or Intellectual Property Protection
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks](https://arxiv.org/pdf/2412.05830)| 2024 |  Arxiv| Vicuna-7B, Vicuna-13B|
 | [Strong Copyright Protection for Language Models via Adaptive Model Fusion](https://openreview.net/pdf?id=vAG7GrZZUF) | 2024 |  ICML| LLaMa2 7B, StarCoder 7B |
 | [Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models](https://arxiv.org/pdf/2410.05951)| 2024 |  Arxiv| 
 | [REEF: Representation Encoding Fingerprints for Large Language Models](https://arxiv.org/pdf/2410.14273)| 2024 |  Arxiv| Evollm-jp-7b, Shisa-gamma-7b-v1, Wizardmath-7b-1.1, Abel-7b-002, Llama-2-7b, Openllama-2-7b, Mpt-7b,  Internlm2-chat-20b, Mixtral-8x7b-instruct, Qwen-1.5-chat-72b |
