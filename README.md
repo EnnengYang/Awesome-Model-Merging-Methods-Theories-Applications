@@ -266,7 +266,7 @@ Thanks!
 
 ### Other Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
-| --------------- | :----: | :----: | :----: |
+| --------------- | :----: | :----: | :----: | 
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [Multi-Task Model Merging via Adaptive Weight Disentanglement](https://arxiv.org/pdf/2411.18729)| 2024 | Arxiv | 
 | [ATM: Improving Model Merging by Alternating Tuning and Merging](https://arxiv.org/pdf/2411.03055)| 2024 | Arxiv | 
@@ -385,6 +385,19 @@ Thanks!
   | [Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://arxiv.org/pdf/2403.07816) |  2024 |Arxiv  | Llama-2 7B |
   | [Knowledge Fusion of Chat LLMs: A Preliminary Technical Report](https://arxiv.org/pdf/2402.16107) | 2024 |Arxiv  | NH2-Mixtral-8x7B, NH2-Solar-10.7B, OpenChat-3.5-7B|
 
+**Note: The following papers are from: [LLM Merging Competition at NeurIPS 2024](https://llm-merging.github.io/)**
+| **Paper Title** | **Year** | **Conference/Journal** | **Models** |
+| --------------- | :----: | :----: | :----: |
+| [Llm merging: Building llms efficiently through merging](https://openreview.net/forum?id=TiRQ4Gl4Ir)| 2024 | LLM Merging Competition at NeurIPS | - |
+| [Towards an approach combining Knowledge Graphs and Prompt Engineering for Merging Large Language Models](https://openreview.net/attachment?id=0I0yYOxHxV&name=pdf)| 2024 | LLM Merging Competition at NeurIPS | meta-llama/Llama-2-7b; microsoft_phi1/2/3 |
+| [Model Merging using Geometric Median of Task Vectors](https://openreview.net/pdf?id=4VD2jMqJbN)| 2024 | LLM Merging Competition at NeurIPS | flan_t5_xl |
+| [Interpolated Layer-Wise Merging for NeurIPS 2024 LLM Merging Competition](https://openreview.net/attachment?id=taHV1M0KlB&name=pdf)| 2024 | LLM Merging Competition at NeurIPS | suzume-llama-3-8B-multilingual-orpo-borda-top75, Barcenas-Llama3-8bORPO, Llama-3-8B-Ultra-Instruct-SaltSprinkle, MAmmoTH2-8B-Plus, Daredevil-8B|
+| [A Model Merging Method](https://openreview.net/pdf?id=zcnDi0i23y)| 2024 | LLM Merging Competition at NeurIPS | - |
+| [Differentiable DARE-TIES for NeurIPS 2024 LLM Merging Competition](https://openreview.net/attachment?id=4jqff9QeUD&name=pdf)| 2024 | LLM Merging Competition at NeurIPS | suzume-llama-3-8B-multilingualorpo-borda-top75, MAmmoTH2-8B-Plus and Llama-3-Refueled  |
+| [LLM Merging Competition Technical Report: Efficient Model Merging with Strategic Model Selection, Merging, and Hyperparameter Optimization](https://openreview.net/attachment?id=Xl8uuaNj1X&name=pdf)| 2024 | LLM Merging Competition at NeurIPS | MaziyarPanahi/Llama3-8B-Instruct-v0.8, MaziyarPanahi/Llama-3-8B-Instruct-v0.9, shenzhiwang/Llama3-8B-Chinese-Chat,  lightblue/suzume-llama-3-8B-multilingual |
+| [Simple Llama Merge: What Kind of LLM Do We Need?](https://openreview.net/attachment?id=VndTgXbAgz&name=pdf)| 2024 | LLM Merging Competition at NeurIPS | Hermes-2-Pro-Llama-3-8B, and Daredevil-8B |
+| [LLM Merging Competition Technical Report for NeurIPS 2024: Efficiently Building Large Language Models through Merging](https://openreview.net/attachment?id=rJ1miae6PJ&name=pdf) | 2024 | LLM Merging Competition at NeurIPS | Mistral-7B-Instruct94 v2, Llama3-8B-Instruct, Flan-T5-large, Gemma-7B-Instruct, and WizardLM-2-7B | 
+| [MoD: A Distribution-Based Approach for Merging Large Language Models](https://openreview.net/attachment?id=v2tZ9bNcS5&name=pdf) | 2024 | LLM Merging Competition at NeurIPS |  Qwen2.5-1.5B and Qwen2.5-7B | 
 
 
 ### Model Merging in Multimodal Large Language Models
