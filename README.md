@@ -462,6 +462,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Parameter Averaging is All You Need to Prevent Forgetting](https://poonehmousavi.github.io/assets/publications/2010_machine_readable_dictionaries/PARAMETER_AVERAGING_IS_ALL_YOU_NEED_TO_PREVENT_FORGETTING.pdf)| 2024 | SLT Workshop |
   | [DESIRE: Dynamic Knowledge Consolidation for Rehearsal-Free Continual Learning](https://arxiv.org/pdf/2411.19154)| 2024 |Arxiv  |
   | [Adaptive LoRA Merging for Efficient Domain Incremental Learning](https://openreview.net/pdf?id=tlB5eonGEk)| 2024 | NeurIPS Workshop  |
   | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
