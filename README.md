@@ -199,6 +199,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Non-Uniform Parameter-Wise Model Merging](https://arxiv.org/pdf/2412.15467)| 2024 |Arxiv  |
 | [How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging](https://arxiv.org/pdf/2412.08147)| 2024 |Arxiv  |
 | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
 | [Merging in a Bottle: Differentiable Adaptive Merging (DAM) and the Path from Averaging to Automation](https://arxiv.org/pdf/2410.08371)| 2024 |Arxiv  |shisa-gamma-7b, WizardMath-7B-V1.1, Abel-7B-002, Llama-3-SauerkrautLM-8b-Instruct, Llama-3-Open-Ko-8B, llama-3-sqlcoder-8b, Meta-Llama-3-8B |
@@ -367,6 +368,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Channel Merging: Preserving Specialization for Merged Experts](https://arxiv.org/pdf/2412.15283)|2025 |AAAI | Dolphin-2.2.1-Mistral-7B, Speechless-Code-Mistral-7B, MetaMathMistral-7B, Chinese-Mistral-7BInstruct-v0.1 |
   | [Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion](https://arxiv.org/pdf/2412.01289)|2024 |Arxiv | MiniGemini-8B and SLIME-8B |
   | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr)|2024 |Arxiv | Llama3.1-8B |
   | [JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging](https://arxiv.org/pdf/2411.09933) |2024 |Arxiv |Bunny-v1_1-Llama-3-8B-V, MMed-Llama-3-8B-EnIns, OpenBioLLM-Llama3-8B, Llama-3-Swallow-8B-Instruct-v0.1|
