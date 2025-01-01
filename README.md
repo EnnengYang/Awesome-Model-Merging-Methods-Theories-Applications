@@ -265,6 +265,7 @@ Thanks!
 #### Post-calibration based Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.19098)|2024  | Arxiv |
 | [Parameter-Efficient Interventions for Enhanced Model Merging](https://arxiv.org/pdf/2412.17023)|2024  | Arxiv |
 | [Rethink the Evaluation Protocol of Model Merging on Classification Task](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
 | [SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery](https://arxiv.org/pdf/2410.14389)|2024  | Arxiv |
