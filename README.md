@@ -224,6 +224,7 @@ Thanks!
 | --------------- | :----: | :----: |:----: | 
 | [Revisiting Weight Averaging for Model Merging](https://arxiv.org/pdf/2412.12153)| 2024  |Arxiv  | |
 | [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | 2024  |Arxiv  | |
+| [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054)|  2024 |Arxiv  |
 | [FREE-Merging: Fourier Transform for Model Merging with Lightweight Experts](https://arxiv.org/pdf/2411.16815)|2024  |Arxiv  | Qwen-14B (LoRA),  LLaMa2-13B, WizardLM-13B, WizardMath-13B, WizardCoderPython-13B |
 | [Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics](https://arxiv.org/pdf/2411.16139)|2024  |Arxiv  | |
 | [Parameter Competition Balancing for Model Merging](https://arxiv.org/pdf/2410.02396v1)| 2024 | NeurIPS  | Llama-2-7b |
@@ -246,7 +247,6 @@ Thanks!
 #### Routing-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054)|  2024 |Arxiv  |
 | [Adapting Foundation Models via Training-free Dynamic Weight Interpolation](https://openreview.net/pdf?id=yyv54uPM0z)|  2024 | NeurIPS 2024 Workshop  |
 | [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging](https://arxiv.org/pdf/2410.21804) |  2024 |Arxiv  |
 | [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  2024| ICML |
