@@ -223,6 +223,8 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
+| [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |  
 | [Revisiting Weight Averaging for Model Merging](https://arxiv.org/pdf/2412.12153)| 2024  |Arxiv  | |
 | [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | 2024  |Arxiv  | |
 | [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054)|  2024 |Arxiv  |
@@ -276,7 +278,6 @@ Thanks!
 ### Other Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: | 
-| [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |  
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [Multi-Task Model Merging via Adaptive Weight Disentanglement](https://arxiv.org/pdf/2411.18729)| 2024 | Arxiv | 
 | [Rethinking Weight-Averaged Model-merging](https://arxiv.org/pdf/2411.09263)| 2024 | Arxiv |
@@ -480,6 +481,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
   | [Soup to go: mitigating forgetting during continual learning with model averaging](https://arxiv.org/pdf/2501.05559) | 2025 |Arxiv  | Llama 2 (7B) |
   | [Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning](https://arxiv.org/pdf/2412.18219)| 2024 |Arxiv  |
   | [Parameter Averaging is All You Need to Prevent Forgetting](https://poonehmousavi.github.io/assets/publications/2010_machine_readable_dictionaries/PARAMETER_AVERAGING_IS_ALL_YOU_NEED_TO_PREVENT_FORGETTING.pdf)| 2024 | SLT Workshop |
