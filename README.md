@@ -112,6 +112,7 @@ Thanks!
 ## Benchmark/Evaluation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and  Harmlessness of Large Language Model via Model Merging](https://arxiv.org/pdf/2502.06876v1)| 2025 | Arxiv | Llama-3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](https://arxiv.org/pdf/2410.13841)| 2024 | Arxiv | LLaMA3-8B-Instruct,  Qwen2-7B-Instruct, Mistral-7B-Instruct-v0.3, 
 | [Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild](https://arxiv.org/pdf/2410.05357) |2024 | NeurIPS Track on Datasets and Benchmarks | Synthia-7B-v1.2, Llama-2-7b-evolcodealpaca, OpenHermes-7B, pygmalion-2-7b, Llama-2-7b-chat-hf, BeingWell_llama2_7b, MetaMath-7B-V1.0, vicuna-7b-v1.5, Platypus2-7B, GOAT-7B-Community, Llama-2-7b-WikiChat-fused, dolphin-llama2-7b, MetaMath-Llemma-7B, CodeLlama-7b-Instruct-hf, Magicoder-S-CL-7B , CrystalChat|
@@ -325,6 +326,8 @@ Thanks!
 #### Human Preference Alignment for LLMs
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model soup for better rlhf: Weight space averaging to improve alignment in llms](https://openreview.net/forum?id=QNW3Z3f5SD)| 2024 | NeurIPS 2024 Workshop  | Llama2-7B, Mistral-7B, Gemma-2B |
+| [Weighted-reward preference optimization for implicit model fusion](https://arxiv.org/pdf/2412.03187)| 2024 | Arxiv  | LLaMA3-8B-Instruct |
 | [SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation](https://arxiv.org/pdf/2412.10493)| 2024 | Arxiv  |
 | [H3Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs](https://arxiv.org/pdf/2411.17792)| 2024 | Arxiv  |LLaMA-2 7B
 | [Baichuan Alignment Technical Report](https://arxiv.org/pdf/2410.14940)| 2024 | Arxiv  | Qwen2-Nova-72B, Llama3-PBM-Nova-70B |
@@ -332,6 +335,7 @@ Thanks!
 | [DogeRM: Equipping Reward Models with Domain Knowledge through Model Merging](https://arxiv.org/pdf/2407.01470)| 2024 | Arxiv  | MetaMath-7B, MAmmoTH-7B, LLaMA2-7B|
 | [PAFT: A Parallel Training Paradigm for Effective LLM Fine-Tuning](https://arxiv.org/pdf/2406.17923)| 2024 | Arxiv  |Mistral-7B-v0.1, Llama-3-8B|
 | [Model Merging and Safety Alignment: One Bad Model Spoils the Bunch](https://arxiv.org/pdf/2406.14563) |  2024 | Arxiv  | Mistral-0.2-7B-Instruct, LLaMA-3-8B-Instruct, OpenBioLLM-8B, MAmmoTH2-7B, WizardMath-1.1-7B|
+| [Towards Comprehensive Post Safety Alignment of Large Language Models via Safety Patching](https://arxiv.org/pdf/2405.13820)|  2024 | Arxiv  |LLaMA-2-7B-Chat, LLaMA-3-8B-Instruct, Mistral7B-Instruct-v0.1 and Gemma1.1-7B-it|
 | [Disperse-Then-Merge: Pushing the Limits of Instruction Tuning via Alignment Tax Reduction](https://arxiv.org/pdf/2405.13432)| 2024 | Arxiv  | Llama-2-7b |
 | [Online Merging Optimizers for Boosting Rewards and Mitigating Tax in Alignment](https://arxiv.org/pdf/2405.17931) |  2024 | Arxiv  | Qwen1.5-7B, LLaMa3-8B | 
 | [A safety realignment framework via subspace-oriented model fusion for large language models](https://arxiv.org/pdf/2405.09055) |  2024 | Arxiv  | WizardLM-7B |
@@ -683,6 +687,7 @@ Thanks!
 ## Other Applications
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Mitigating Training Imbalance in LLM Fine-Tuning via Selective Parameter Merging](https://arxiv.org/pdf/2410.03743)| 2024 |  EMNLP | Llama-2-7b|
 | [Is Multiple Object Tracking a Matter of Specialization?](https://arxiv.org/pdf/2411.00553)| 2024 |  NeurIPS| 
 | [Tracking Universal Features Through Fine-Tuning and Model Merging](https://arxiv.org/pdf/2410.12391)| 2024 |  Arxiv| 
 | [HM3: Heterogeneous Multi-Class Model Merging](https://www.arxiv.org/pdf/2409.19173) | 2024 |  Arxiv| 
