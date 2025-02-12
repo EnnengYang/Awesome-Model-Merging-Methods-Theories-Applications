@@ -493,6 +493,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Cost-Efficient Continual Learning with Sufficient Exemplar Memory](https://arxiv.org/pdf/2502.07274)| 2025  |Arxiv  | |
   | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
   | [Soup to go: mitigating forgetting during continual learning with model averaging](https://arxiv.org/pdf/2501.05559) | 2025 |Arxiv  | Llama 2 (7B) |
   | [Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning](https://arxiv.org/pdf/2412.18219)| 2024 |Arxiv  |
