@@ -383,6 +383,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [An Open Recipe: Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging](https://arxiv.org/pdf/2502.09056)| 2025 | Arxiv |Typhoon2 70B Instruct, DeepSeek R1 70B Distill, Llama 3.1 70B, Llama 3.3 70B |
   | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, and llama-2-13b-code-alpaca |
   | [Skill Expansion and Composition in Parameter Space](https://arxiv.org/pdf/2502.05932)| 2025 | Arxiv
   | [Channel Merging: Preserving Specialization for Merged Experts](https://arxiv.org/pdf/2412.15283)|2025 |AAAI | Dolphin-2.2.1-Mistral-7B, Speechless-Code-Mistral-7B, MetaMathMistral-7B, Chinese-Mistral-7BInstruct-v0.1 |
