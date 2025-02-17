@@ -198,6 +198,7 @@ Thanks!
 | [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | 2023 | ICLR |
 | [Model fusion via optimal transport](https://proceedings.neurips.cc/paper/2020/file/fb2697869f56484404c8ceee2985b01d-Paper.pdf) |2020  | NeurIPS |
 | [Weight averaging for neural networks and local resampling schemes](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a34e789c0f76b860b6e3bc1b7fa04054ccb75c3b) | 1996 | AAAI Workshop  |
+| [Acceleration of stochastic approximation by averaging](https://epubs.siam.org/doi/abs/10.1137/0330046?journalCode=sjcodc)| 1992 | IAM Journal on Control and Optimization
 | [Animating rotation with quaternion curves (Spherical Linear Interpolation (SLERP) Model Merging)](https://dl.acm.org/doi/pdf/10.1145/325165.325242) | 1985 | SIGGRAPH Computer Graphics |
 
 
