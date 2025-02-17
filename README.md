@@ -301,6 +301,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SeWA: Selective Weight Average via Probabilistic Masking](https://arxiv.org/pdf/2502.10119)| 2025 | Arxiv |
 | [Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](https://arxiv.org/pdf/2502.01015)|  2025 |Arxiv |
 | [Task Arithmetic Through The Lens Of One-Shot Federated Learning](https://arxiv.org/pdf/2411.18607)|  2024 |Arxiv | WizardLM-13B, WizardMath-13B, Llama-2-13B-Code-Alpaca, Llama2-13B|
 | [A Unified Analysis for Finite Weight Averaging](https://arxiv.org/pdf/2411.13169v1)|  2024 |Arxiv |
@@ -308,6 +309,7 @@ Thanks!
 | [On the Emergence of Cross-Task Linearity in Pretraining-Finetuning Paradigm](https://arxiv.org/pdf/2402.03660)| 2024 | ICML |
 | [Diverse weight averaging for out-of-distribution generalization](https://proceedings.neurips.cc/paper_files/paper/2022/file/46108d807b50ad4144eb353b5d0e8851-Paper-Conference.pdf) | 2022 | NeurIPS |
 | [Ensemble of averages: Improving model selection and boosting performance in domain generalization](https://arxiv.org/pdf/2110.10832) | 2022 | NeurIPS |
+| [Stability analysis and generalization bounds of adversarial training](https://arxiv.org/pdf/2210.00960)| 2022 | NeurIPS |
 | [The role of permutation invariance in linear mode connectivity of neural networks](https://openreview.net/pdf?id=dNigytemkL) | 2022 | ICLR |
 | [Swad: Domain generalization by seeking flat minima](https://openreview.net/pdf?id=zkHlu_3sJYU) | 2021 |  NeurIPS|
 | [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://proceedings.mlr.press/v119/frankle20a/frankle20a.pdf) | 2020 | ICML |
