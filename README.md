@@ -715,6 +715,7 @@ Thanks!
 | [MedMerge: Merging Models for Effective Transfer Learning to Medical Imaging Tasks](https://arxiv.org/pdf/2403.11646) | 2024 |  Arxiv| 
 | [Experts Weights Averaging: A New General Training Scheme for Vision Transformers](https://arxiv.org/pdf/2308.06093)| 2023 | Arxiv |
 | [One Student Knows All Experts Know: From Sparse to Dense](https://arxiv.org/pdf/2201.10890)| 2022 | Arxiv |
+| [Meta-Learning PAC-Bayes Priors in Model Averaging](https://arxiv.org/pdf/1912.11252)| 2019 | AAAI |
 
 ----------
 
