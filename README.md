@@ -229,7 +229,7 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
 | [Superpose Singular Features for Model Merging](https://arxiv.org/pdf/2502.10698)| 2025 | Arxiv | Llama-2-7B
-| [STAR: Spectral Truncation and Rescale for Model Merging](https://arxiv.org/pdf/2502.10339)| 2025 | Arxiv |  Mistral-7B-Instruct|
+| [STAR: Spectral Truncation and Rescale for Model Merging](https://arxiv.org/pdf/2502.10339)| 2025 | NAACL |  Mistral-7B-Instruct|
 | [No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces](https://arxiv.org/pdf/2502.04959)| 2025 | Arxiv |  
 | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
 | [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |  
