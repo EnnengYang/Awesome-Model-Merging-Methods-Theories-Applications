@@ -393,6 +393,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487)| 2025 | Arxiv | Llama-3.2-11B-Vision -Instruct, Llama-3.1-Tulu-2-8B-uf-mean-rm, Llama-3.1-Tulu-3-8B-RM
   | [Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging](https://arxiv.org/pdf/2502.12217)| 2025 | Arxiv | Llama-2-13b, WizardMath-13B-V1.0, WizardLM13B-V1.2, llama-2-13b-codealpaca
   | [An Open Recipe: Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging](https://arxiv.org/pdf/2502.09056)| 2025 | Arxiv |Typhoon2 70B Instruct, DeepSeek R1 70B Distill, Llama 3.1 70B, Llama 3.3 70B |
   | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, and llama-2-13b-code-alpaca |
