@@ -9,6 +9,7 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 > [!IMPORTANT]
 > Contributions welcome:
 > - If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!  Or, you may also consider submitting 'Pull requests' directly, thank you!
+>
 > - If you think your paper is more suitable for another category, please [contact us](#contact) or submit 'Pull requests'. If your paper is accepted, you may consider updating the relevant information. Thank you!
 
 
@@ -24,9 +25,11 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 ## Abstract
 > Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, multimodal large language models, and 10+ machine learning subfields, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
 
+<!-- 
 <center>
 <img src="./imgs/modelmerging_demo.png" alt="Model Merging" width="800"/>
 </center>
+-->
 
 ## Citation
 
