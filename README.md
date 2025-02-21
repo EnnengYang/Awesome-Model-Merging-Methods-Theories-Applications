@@ -205,6 +205,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models](https://arxiv.org/pdf/2502.12420v1)| 2025 |Arxiv  | LLaMA-2 7B series, Mistral 7B series, LLaMA-2 13B series |
 | [Non-Uniform Parameter-Wise Model Merging](https://arxiv.org/pdf/2412.15467)| 2024 |Arxiv  |
 | [How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging](https://arxiv.org/pdf/2412.08147)| 2024 |Arxiv  |
 | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
@@ -290,6 +291,7 @@ Thanks!
 ### Other Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: | 
+| [MERGE3: Efficient Evolutionary Merging on Consumer-grade GPUs](https://arxiv.org/pdf/2502.10436)| 2025 | Arxiv  | Mistral-7B
 | [Activation-Informed Merging of Large Language Models](https://arxiv.org/pdf/2502.02421?)| 2025 | Arxiv | Llama-2-13b, WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
 | [Scalable Model Merging with Progressive Layer-wise Distillation](https://arxiv.org/pdf/2502.12706)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B and llama-2-13b-code-alpaca
 | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv |  Llama-2-13, WizardLM13B, WizardMath-13, llama-2-13b-code-alpaca |
@@ -396,6 +398,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging](https://arxiv.org/pdf/2502.10749)| 2025 | Arxiv | NuminaMath-7B, DeepSeek-Math-7B-Base, LLaMA-series models, WizardMath-13B
   | [Merging Language and Domain Specific Models: The Impact on Technical Vocabulary Acquisition](https://arxiv.org/pdf/2502.12001)| 2025 | Arxiv | ContactDoctor-8B
   | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487)| 2025 | Arxiv | Llama-3.2-11B-Vision -Instruct, Llama-3.1-Tulu-2-8B-uf-mean-rm, Llama-3.1-Tulu-3-8B-RM
   | [Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging](https://arxiv.org/pdf/2502.12217)| 2025 | Arxiv | Llama-2-13b, WizardMath-13B-V1.0, WizardLM13B-V1.2, llama-2-13b-codealpaca
