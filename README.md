@@ -312,6 +312,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Low-rank bias, weight decay, and model merging in neural networks](https://arxiv.org/pdf/2502.17340)| 2025 | Arxiv |
 | [Understanding SGD with Exponential Moving Average: A Case Study in Linear Regression](https://arxiv.org/pdf/2502.14123)| 2025 | Arxiv |
 | [SeWA: Selective Weight Average via Probabilistic Masking](https://arxiv.org/pdf/2502.10119)| 2025 | Arxiv |
 | [Efficient Model Editing with Task Vector Bases: A Theoretical Framework and Scalable Approach](https://arxiv.org/pdf/2502.01015)|  2025 |Arxiv |
@@ -402,6 +403,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation](https://arxiv.org/pdf/2502.15434)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
   | [LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging](https://arxiv.org/pdf/2502.10749)| 2025 | Arxiv | NuminaMath-7B, DeepSeek-Math-7B-Base, LLaMA-series models, WizardMath-13B
   | [Merging Language and Domain Specific Models: The Impact on Technical Vocabulary Acquisition](https://arxiv.org/pdf/2502.12001)| 2025 | Arxiv | ContactDoctor-8B
   | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487)| 2025 | Arxiv | Llama-3.2-11B-Vision -Instruct, Llama-3.1-Tulu-2-8B-uf-mean-rm, Llama-3.1-Tulu-3-8B-RM
