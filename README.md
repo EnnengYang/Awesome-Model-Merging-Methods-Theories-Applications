@@ -265,6 +265,7 @@ Thanks!
 #### Routing-based Merging Methods (Dynamic Merging)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [CAMEx: Curvature-aware Merging of Experts](https://arxiv.org/pdf/2502.18821)| 2025 | ICLR | 
 | [1bit-Merging: Dynamic Quantized Merging for Large Language Models](https://arxiv.org/pdf/2502.10743)| 2025 | Arxiv | LLaMA-2 7B, Mistral 7B, and LLaMA-2 13B |
 | [Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing](https://arxiv.org/pdf/2502.04411)|  2025 |Arxiv  | Qwen-2.5-7B, LLaMA-3.2-8B |
 | [Adapting Foundation Models via Training-free Dynamic Weight Interpolation](https://openreview.net/pdf?id=yyv54uPM0z)|  2024 | NeurIPS 2024 Workshop  |
