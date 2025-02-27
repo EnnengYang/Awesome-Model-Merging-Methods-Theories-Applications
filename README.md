@@ -233,6 +233,9 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation](https://arxiv.org/pdf/2502.17380)| 2025 | Arxiv |
+| [LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint](https://arxiv.org/pdf/2502.16770)| 2025 | Arxiv |Llama-3- 8B, Mistral-7B, and Llama2-13B |
+| [Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation](https://arxiv.org/pdf/2502.17159)| 2025 | Arxiv |
 | [Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging](https://arxiv.org/pdf/2502.12217)| 2025 | Arxiv | Llama-2-13b, WizardMath-13B-V1.0, WizardLM13B-V1.2, llama-2-13b-codealpaca
 | [Superpose Singular Features for Model Merging](https://arxiv.org/pdf/2502.10698)| 2025 | Arxiv | Llama-2-7B
 | [STAR: Spectral Truncation and Rescale for Model Merging](https://arxiv.org/pdf/2502.10339)| 2025 | NAACL |  Mistral-7B-Instruct|
@@ -265,6 +268,7 @@ Thanks!
 #### Routing-based Merging Methods (Dynamic Merging)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Dynamic Model Merging with Mixture of Weights](https://ieeexplore.ieee.org/abstract/document/10900479/)| 2025 | TCSVT | 
 | [CAMEx: Curvature-aware Merging of Experts](https://arxiv.org/pdf/2502.18821)| 2025 | ICLR | 
 | [1bit-Merging: Dynamic Quantized Merging for Large Language Models](https://arxiv.org/pdf/2502.10743)| 2025 | Arxiv | LLaMA-2 7B, Mistral 7B, and LLaMA-2 13B |
 | [Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing](https://arxiv.org/pdf/2502.04411)|  2025 |Arxiv  | Qwen-2.5-7B, LLaMA-3.2-8B |
@@ -703,6 +707,7 @@ Thanks!
 #### Model Merging as an Attack
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging](https://arxiv.org/pdf/2502.16094)| 2025  | Arxiv | 
 | [Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy](https://arxiv.org/pdf/2502.11533) | 2025  | Arxiv | 
 | [LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org/pdf/2411.16746) | 2024  | Arxiv |
 | [BadMerging: Backdoor Attacks Against Model Merging](https://arxiv.org/pdf/2408.07362) | 2024  | CCS |
@@ -727,6 +732,7 @@ Thanks!
 ## Other Applications
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MedForge: Building Medical Foundation Models Like Open Source Software Development](https://arxiv.org/pdf/2502.16055)| 2025 |  Arxiv| 
 | [Mitigating Training Imbalance in LLM Fine-Tuning via Selective Parameter Merging](https://arxiv.org/pdf/2410.03743)| 2024 |  EMNLP | Llama-2-7b|
 | [Is Multiple Object Tracking a Matter of Specialization?](https://arxiv.org/pdf/2411.00553)| 2024 |  NeurIPS| 
 | [Tracking Universal Features Through Fine-Tuning and Model Merging](https://arxiv.org/pdf/2410.12391)| 2024 |  Arxiv| 
