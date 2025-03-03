@@ -209,6 +209,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
 | [Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models](https://arxiv.org/pdf/2502.12420v1)| 2025 |Arxiv  | LLaMA-2 7B series, Mistral 7B series, LLaMA-2 13B series |
 | [Non-Uniform Parameter-Wise Model Merging](https://arxiv.org/pdf/2412.15467)| 2024 |Arxiv  |
 | [How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging](https://arxiv.org/pdf/2412.08147)| 2024 |Arxiv  |
@@ -408,6 +409,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
   | [Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation](https://arxiv.org/pdf/2502.15434)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
   | [LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging](https://arxiv.org/pdf/2502.10749)| 2025 | Arxiv | NuminaMath-7B, DeepSeek-Math-7B-Base, LLaMA-series models, WizardMath-13B
   | [Merging Language and Domain Specific Models: The Impact on Technical Vocabulary Acquisition](https://arxiv.org/pdf/2502.12001)| 2025 | Arxiv | ContactDoctor-8B
