@@ -318,6 +318,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Multi-Level Collaboration in Model Merging](https://arxiv.org/pdf/2503.01268) | 2025 | Arxiv |
 | [Low-rank bias, weight decay, and model merging in neural networks](https://arxiv.org/pdf/2502.17340)| 2025 | Arxiv |
 | [Understanding SGD with Exponential Moving Average: A Case Study in Linear Regression](https://arxiv.org/pdf/2502.14123)| 2025 | Arxiv |
 | [SeWA: Selective Weight Average via Probabilistic Masking](https://arxiv.org/pdf/2502.10119)| 2025 | Arxiv |
@@ -520,7 +521,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](https://arxiv.org/abs/2503.00948)|  2025 | CVPR | Dynamicrafter，SVD｜
+| [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](https://arxiv.org/abs/2503.00948)|  2025 | CVPR | Dynamicrafter，SVD |
 
 ----------
 
