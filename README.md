@@ -514,6 +514,13 @@ Thanks!
 | [SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data](https://arxiv.org/pdf/2403.06952) |  2024 | Arxiv |
 
 
+### Model Merging in Video Generative Models
+
+#### Enhancing Motion Modeling
+
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](https://arxiv.org/abs/2503.00948)|  2025 | CVPR |
 
 ----------
 
