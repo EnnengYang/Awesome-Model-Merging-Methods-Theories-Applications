@@ -234,6 +234,7 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach](https://arxiv.org/pdf/2503.03874)| 2025 | ICLR 2025 Workshop |Gemma-9b, LLaMA 3.1 8b |
 | [CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging](https://arxiv.org/pdf/2503.01874)| 2025 | Arxiv |Mistral-7b-v0.1, WildMarcoroni-Variant1-7B and WestSeverus-7B-DPO-v2 |
 | [Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation](https://arxiv.org/pdf/2502.17380)| 2025 | Arxiv |
 | [LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint](https://arxiv.org/pdf/2502.16770)| 2025 | Arxiv |Llama-3- 8B, Mistral-7B, and Llama2-13B |
@@ -412,6 +413,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Nature-Inspired Population-Based Evolution of Large Language Models](https://arxiv.org/pdf/2503.01155)| 2025 |Arxiv  |
   | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
   | [Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation](https://arxiv.org/pdf/2502.15434)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
   | [LoRE-Merging: Exploring Low-Rank Estimation For Large Language Model Merging](https://arxiv.org/pdf/2502.10749)| 2025 | Arxiv | NuminaMath-7B, DeepSeek-Math-7B-Base, LLaMA-series models, WizardMath-13B
