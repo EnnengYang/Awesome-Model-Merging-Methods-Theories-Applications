@@ -160,6 +160,7 @@ Thanks!
 #### Weight Alignment
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
 | [Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion](https://arxiv.org/pdf/2502.00264)| 2025 | Arxiv |
 | [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766)| 2024 | Arxiv |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | 2024 | ICML  |
@@ -234,6 +235,7 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
 | [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://openreview.net/pdf?id=8wt2eKkVe6) | | 2025 | ICLR 2025 Workshop |
 | [LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach](https://arxiv.org/pdf/2503.03874)| 2025 | ICLR 2025 Workshop |Gemma-9b, LLaMA 3.1 8b |
 | [CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging](https://arxiv.org/pdf/2503.01874)| 2025 | Arxiv |Mistral-7b-v0.1, WildMarcoroni-Variant1-7B and WestSeverus-7B-DPO-v2 |
