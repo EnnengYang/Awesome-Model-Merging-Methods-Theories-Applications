@@ -418,6 +418,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Extrapolation Merging: Keep Improving With Extrapolation and Merging](https://arxiv.org/pdf/2503.04834)| 2025 |Arxiv  |Qwen2-7B, Qwen1.5-14B|
   | [Nature-Inspired Population-Based Evolution of Large Language Models](https://arxiv.org/pdf/2503.01155)| 2025 |Arxiv  |
   | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
   | [Mixup Model Merge: Enhancing Model Merging Performance through Randomized Linear Interpolation](https://arxiv.org/pdf/2502.15434)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
