@@ -297,6 +297,7 @@ Thanks!
 #### Post-calibration based Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
 | [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.19098)|2024  | Arxiv |
 | [Parameter-Efficient Interventions for Enhanced Model Merging](https://arxiv.org/pdf/2412.17023)|2024  | Arxiv |
 | [Rethink the Evaluation Protocol of Model Merging on Classification Task](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
