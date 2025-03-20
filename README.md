@@ -309,6 +309,7 @@ Thanks!
 ### Other Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: | 
+| [FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization](https://arxiv.org/pdf/2503.12649)| 2025 | Arxiv  | LLaMA2-7B
 | [Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors](https://arxiv.org/pdf/2503.08099)| 2025 | Arxiv  | WizardLM-13B (LM), WizardMath-13B (Math), and llama-2-13bcodealpaca (Code) |
 | [GNNMERGE: Merging of GNN Models Without Accessing Training Data](https://arxiv.org/pdf/2503.03384)| 2025 | Arxiv  | 
 | [MERGE3: Efficient Evolutionary Merging on Consumer-grade GPUs](https://arxiv.org/pdf/2502.10436)| 2025 | Arxiv  | Mistral-7B
