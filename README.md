@@ -60,15 +60,15 @@ Thanks!
     + [During Merging Methods](#during-merging-methods)
       - [Basic Merging Methods](#basic-merging-methods)
       - [Weighted-based Merging Methods](#weighted-based-merging-methods)
-      - [Subspace-based Merging Methods](#subspace-based-merging-methods)
-      - [Routing-based Merging Methods](#routing-based-merging-methods)
+      - [Subspace-based Merging Method (Sparse or Low-rank Subspace)](#subspace-based-merging-method--sparse-or-low-rank-subspace-)
+      - [Routing-based Merging Methods (Dynamic Merging)](#routing-based-merging-methods--dynamic-merging-)
       - [Post-calibration based Methods](#post-calibration-based-methods)
     + [Other Merging Methods](#other-merging-methods)
     + [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
   * [Application of Model Merging in Foundation Models](#application-of-model-merging-in-foundation-models)
     + [Model Merging in Large Language Model](#model-merging-in-large-language-model)
       - [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
-      - [Detoxifcation of LLMs](#detoxifcation-of-llms)
+      - [Detoxification of LLMs](#detoxification-of-llms)
       - [Knowledge Unlearning of LLMs](#knowledge-unlearning-of-llms)
       - [Faster Training of LLMs](#faster-training-of-llms)
       - [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
@@ -78,7 +78,9 @@ Thanks!
     + [Model Merging in Image Generative Models](#model-merging-in-image-generative-models)
       - [Style Mixing in Generative Models](#style-mixing-in-generative-models)
       - [Reducing Training Cost of Generative Models](#reducing-training-cost-of-generative-models)
-      - [Enhancing the Faithfulness (or Generation Quality) of Diffusion Models](#enhancing-the-faithfulness--or-generation-quality-of-diffusion-models)
+      - [Enhancing the Faithfulness (or Generation Quality) of Diffusion Models](#enhancing-the-faithfulness--or-generation-quality--of-diffusion-models)
+    + [Model Merging in Video Generative Models](#model-merging-in-video-generative-models)
+      - [Enhancing Motion Modeling](#enhancing-motion-modeling)
   * [Application of Model Merging in Different Machine Learning Subfields](#application-of-model-merging-in-different-machine-learning-subfields)
     + [Model Merging in Continual Learning](#model-merging-in-continual-learning)
       - [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
@@ -99,7 +101,7 @@ Thanks!
       - [Model Merging as an Attack](#model-merging-as-an-attack)
       - [Model Merging as a Defense or Intellectual Property Protection](#model-merging-as-a-defense-or-intellectual-property-protection)
   * [Other Applications](#other-applications)
-
+  * [Contact](#contact)
 
 ----------
 ## Survey
