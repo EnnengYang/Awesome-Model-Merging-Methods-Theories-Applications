@@ -101,7 +101,6 @@ Thanks!
       - [Model Merging as an Attack](#model-merging-as-an-attack)
       - [Model Merging as a Defense or Intellectual Property Protection](#model-merging-as-a-defense-or-intellectual-property-protection)
   * [Other Applications](#other-applications)
-  * [Contact](#contact)
 
 ----------
 ## Survey
