@@ -239,6 +239,7 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2025 | Arxiv |
 | [Task Vector Quantization for Memory-Efficient Model Merging](https://arxiv.org/pdf/2503.06921)| 2025 | Arxiv |
 | [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
 | [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://openreview.net/pdf?id=8wt2eKkVe6) | | 2025 | ICLR 2025 Workshop |
