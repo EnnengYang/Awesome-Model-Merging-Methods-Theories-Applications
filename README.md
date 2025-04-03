@@ -1,6 +1,3 @@
-<img width="826" alt="image" src="https://github.com/user-attachments/assets/67beb820-8b03-4811-ba70-d3875ee2d93a" /># Awesome-Model-Merging-Methods-Theories-Applications
-[![Awesome](https://awesome.re/badge.svg)]()
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
 A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. Arxiv, 2024.](https://arxiv.org/pdf/2408.07666)'**.
 
