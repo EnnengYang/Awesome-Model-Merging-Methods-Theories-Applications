@@ -1,4 +1,4 @@
-# Awesome-Model-Merging-Methods-Theories-Applications
+<img width="826" alt="image" src="https://github.com/user-attachments/assets/67beb820-8b03-4811-ba70-d3875ee2d93a" /># Awesome-Model-Merging-Methods-Theories-Applications
 [![Awesome](https://awesome.re/badge.svg)]()
 <img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt=""/>
 
@@ -684,6 +684,7 @@ Thanks!
 ####  Model Merging for Local Knowledge Aggregation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors](https://arxiv.org/pdf/2503.15842)| 2025 | Arxiv | 
 | [Many-Task Federated Fine-Tuning via Unified Task Vectors](https://arxiv.org/pdf/2502.06376)| 2025 | Arxiv | 
 | [PrivFusion: Privacy-Preserving Model Fusion via Decentralized Federated Graph Matching](https://ieeexplore.ieee.org/document/10643309/)| 2024 | TKDE | 
 | [Model Trip: Enhancing Privacy and Fairness in Model Fusion Across Multi-Federations for Trustworthy Global Healthcare](https://ieeexplore.ieee.org/document/10597838/)| 2024 | ICDE | 
