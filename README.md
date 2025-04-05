@@ -500,7 +500,10 @@ Thanks!
   | --------------- | :----: | :----: | :----: |
   | [Multimodal Attention Merging for Improved Speech Recognition and Audio Event Classification](https://arxiv.org/pdf/2312.14378) |  2024 | ICASSP Workshop  |
 
-
+####  Combine the Capabilities of Expert MLLMs
+  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+  | --------------- | :----: | :----: | :----: |
+  | [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](https://arxiv.org/pdf/2503.23733)| 2025 | Arxiv | LLaVA-OneVision-7B, Qwen2-VL-7B, LLaVA-v1.5-7B, CogVLM-chat-7B|
 
 
 ### Model Merging in Image Generative Models
