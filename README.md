@@ -407,6 +407,7 @@ Thanks!
 | [ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging](https://arxiv.org/pdf/2503.21088) | 2025  | Arxiv | OLMo-7B-0724-Instruct
 | [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://openreview.net/pdf?id=u89LDBIyDe)|2025  |ICLR 2025 Workshop MCDC  | |
 | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583)|2024  |Arxiv  | |
+| [Split, Unlearn, Merge: Leveraging Data Attributes for More Effective Unlearning in LLMs](https://arxiv.org/abs/2406.11780)|2024  |Arxiv  | ZEPHYR-7B-BETA, LLAMA2-7B|
 | [Towards Safer Large Language Models through Machine Unlearning](https://arxiv.org/pdf/2402.10058) | 2024 | ACL | LLAMA2-7B, LLAMA2-13B |
 | [Editing models with task arithmetic](https://openreview.net/pdf?id=6t0Kwf8-jrj) | 2023 | ICLR |
 | [Forgetting before Learning: Utilizing Parametric Arithmetic for Knowledge Updating in Large Language Model](https://arxiv.org/pdf/2311.08011) | 2023 | Arxiv | LLAMA2-7B, LLAMA-7B, BLOOM-7B|
