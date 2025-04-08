@@ -403,6 +403,7 @@ Thanks!
 #### Knowledge Unlearning of LLMs
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://arxiv.org/pdf/2504.04626) | 2025  | Arxiv |
 | [ZJUKLAB at SemEval-2025 Task 4: Unlearning via Model Merging](https://arxiv.org/pdf/2503.21088) | 2025  | Arxiv | OLMo-7B-0724-Instruct
 | [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://openreview.net/pdf?id=u89LDBIyDe)|2025  |ICLR 2025 Workshop MCDC  | |
 | [NegMerge: Consensual Weight Negation for Strong Machine Unlearning](https://arxiv.org/pdf/2410.05583)|2024  |Arxiv  | |
