@@ -371,6 +371,7 @@ Thanks!
 #### Human Preference Alignment for LLMs
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SafeMERGE: Preserving Safety Alignment in Fine-Tuned LLMs via Selective Layer-Wise Model Merging](https://arxiv.org/pdf/2503.17239v1)| 2025 | Arxiv  |Llama-2-7B-Chat, Qwen-2-7B-Instruct |
 | [Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2502.10762)| 2025 | Arxiv  |LLaMA-2 7B
 | [Model soup for better rlhf: Weight space averaging to improve alignment in llms](https://openreview.net/forum?id=QNW3Z3f5SD)| 2024 | NeurIPS 2024 Workshop  | Llama2-7B, Mistral-7B, Gemma-2B |
 | [Weighted-reward preference optimization for implicit model fusion](https://arxiv.org/pdf/2412.03187)| 2024 | Arxiv  | LLaMA3-8B-Instruct |
@@ -430,8 +431,10 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Command A: An Enterprise-Ready Large Language Model](https://arxiv.org/pdf/2504.00698v1)| 2025 |Arxiv  | Command R7B
   | [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/pdf/2503.20641)| 2025 |Arxiv  | Qwen2.5-32B, DeepSeek-R1-32B | 
   | [Extrapolation Merging: Keep Improving With Extrapolation and Merging](https://arxiv.org/pdf/2503.04834)| 2025 |Arxiv  |Qwen2-7B, Meta-Llama-3-8B, Mistral-Nemo-Base-2407-12B, Qwen1.5-14B |
+  | [FuseChat-3.0: Preference Optimization Meets Heterogeneous Model Fusion](https://arxiv.org/pdf/2503.04222v1)| 2025 |Arxiv  |Gemma-2-27B-it, Mistral-Large-Instruct-2407, Qwen-2.5-72B-Instruct, and Llama-3.1-70B-Instruct |
   | [Superficial Self-Improved Reasoners Benefit from Model Merging](https://arxiv.org/pdf/2503.02103)| 2025 |Arxiv  |Llama2-7B
   | [Nature-Inspired Population-Based Evolution of Large Language Models](https://arxiv.org/pdf/2503.01155)| 2025 |Arxiv  |
   | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
@@ -508,13 +511,16 @@ Thanks!
 ####  Combine the Capabilities of Expert MLLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation](https://arxiv.org/pdf/2502.17159)| 2025 | Arxiv | LLaVA
   | [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](https://arxiv.org/pdf/2503.23733)| 2025 | Arxiv | LLaVA-OneVision-7B, Qwen2-VL-7B, LLaVA-v1.5-7B, CogVLM-chat-7B|
+  | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487v1)| 2025 | Arxiv | Llama-3.2-11B-Vision-Instruct, Llama-3.1-Tulu-2-8B-uf-meanrm, Llama-3.1-Tulu-3- 8B-RM, Llama-3.1-8B|
 
 
 ### Model Merging in Image Generative Models
 #### Style Mixing in Generative Models
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [BlockLoRA: Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation](https://arxiv.org/pdf/2503.08575v1)| 2025 | Arxiv |
 | [LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation](https://arxiv.org/pdf/2412.05148)| 2024 | Arxiv | LLaVA-Critic 7b |
 | [IterIS: Iterative Inference-Solving Alignment for LoRA Merging](https://arxiv.org/pdf/2411.15231) | 2024 | Arxiv |
 | [Diffusion Soup: Model Merging for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2406.08431) | 2024 | ECCV |
@@ -562,6 +568,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/pdf/2504.02666v1)| 2025  |Arxiv  | 
   | [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025  |Arxiv  | Llama-3-8B-Instruct |
   | [Cost-Efficient Continual Learning with Sufficient Exemplar Memory](https://arxiv.org/pdf/2502.07274)| 2025  |Arxiv  | |
   | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
@@ -690,6 +697,7 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [FedMerge: Federated Personalization via Model Merging](https://arxiv.org/pdf/2504.06768)| 2025 | Arxiv | 
+| [Personalized Language Models via Privacy-Preserving Evolutionary Model Merging](https://arxiv.org/pdf/2503.18008v1)| 2025 | Arxiv | Llama-2-7b, Mistral-7B-Instruct v0.2 |
 | [FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors](https://arxiv.org/pdf/2503.15842)| 2025 | Arxiv | 
 | [Many-Task Federated Fine-Tuning via Unified Task Vectors](https://arxiv.org/pdf/2502.06376)| 2025 | Arxiv | 
 | [PrivFusion: Privacy-Preserving Model Fusion via Decentralized Federated Graph Matching](https://ieeexplore.ieee.org/document/10643309/)| 2024 | TKDE | 
@@ -773,6 +781,9 @@ Thanks!
 ## Other Applications
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models](https://arxiv.org/pdf/2502.20516v1)| 2025 |  Arxiv|
+| [Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos](https://arxiv.org/pdf/2503.07799v1)| 2025 |  Arxiv|
+| [A Sliding Layer Merging Method for Efficient Depth-Wise Pruning in LLMs](https://arxiv.org/pdf/2502.19159v1)| 2025 |  Arxiv| LLaMA-2-7B
 | [Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos](https://arxiv.org/pdf/2503.07799)| 2025 |  Arxiv| 
 | [MedForge: Building Medical Foundation Models Like Open Source Software Development](https://arxiv.org/pdf/2502.16055)| 2025 |  Arxiv| 
 | [Mitigating Training Imbalance in LLM Fine-Tuning via Selective Parameter Merging](https://arxiv.org/pdf/2410.03743)| 2024 |  EMNLP | Llama-2-7b|
