@@ -328,6 +328,7 @@ Thanks!
 | [HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models](https://arxiv.org/pdf/2409.18893) | 2024 | Arxiv | Llama-2-7B-Chat, WizardMath-7B, CodeLlama-7B|
 | [Weight Scope Alignment: A Frustratingly Easy Method for Model Merging](https://arxiv.org/pdf/2408.12237) | 2024 | Arxiv |
 | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | 2024 | Arxiv | Qwen1.5-7B-Chat, Liberated-Qwen1.5-7B, firefly-qwen1.5-en-7B |
+| [Toward Data Efficient Model Merging between Different Datasets without Performance Degradation](https://arxiv.org/pdf/2306.05641v2)| 2024 | JMLR |
 | [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](http://arxiv.org/abs/2312.15166) | 2023 | Arxiv |SOLAR 10.7B, SOLAR 10.7B-Instruct|
 
 
@@ -764,6 +765,7 @@ Thanks!
 #### Model Merging as a Defense or Intellectual Property Protection
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge](https://arxiv.org/pdf/2503.00596v1)| 2025 |  Arxiv| Mistral-7B-Instruct-v0.2, Meta-Llama3-8B |
 | [Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](https://arxiv.org/pdf/2503.07661)| 2024 |  Arxiv|
 | [Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks](https://arxiv.org/pdf/2412.05830)| 2024 |  Arxiv| Vicuna-7B, Vicuna-13B|
 | [Strong Copyright Protection for Language Models via Adaptive Model Fusion](https://openreview.net/pdf?id=vAG7GrZZUF) | 2024 |  ICML| LLaMa2 7B, StarCoder 7B |
