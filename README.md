@@ -608,6 +608,7 @@ Thanks!
 #### Model Merging for Knowledge Transfer in Multi-Task Learning
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning](https://arxiv.org/pdf/2504.11268)| 2025 | Arxiv  | 
   | [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035)| 2024 |Arxiv  |
   | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
   | [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](https://arxiv.org/pdf/2410.10801)| 2024 |Arxiv  |Aya 23 8B|
