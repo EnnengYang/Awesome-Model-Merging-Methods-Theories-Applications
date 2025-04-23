@@ -168,7 +168,6 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Model Assembly Learning with Heterogeneous Layer Weight Merging](https://arxiv.org/pdf/2503.21657)| 2025 | ICLR Workshop |
-| [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
 | [Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion](https://arxiv.org/pdf/2502.00264)| 2025 | Arxiv |
 | [The Non-Local Model Merging Problem: Permutation Symmetries and Variance Collapse](https://arxiv.org/pdf/2410.12766)| 2024 | Arxiv |
 | [Equivariant Deep Weight Space Alignment](https://openreview.net/pdf/6d437eeb362255b4b2d75a5c6847880fb4a00e3c.pdf) | 2024 | ICML  |
