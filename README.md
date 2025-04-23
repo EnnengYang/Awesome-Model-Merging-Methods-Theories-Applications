@@ -132,7 +132,8 @@ Thanks!
 
 ### Pre-Merging Methods
 
-#### Linearization Fine-tuning
+#### Better Fine-tuning
+##### Linearization Fine-tuning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR | 
@@ -141,10 +142,16 @@ Thanks!
 | [Parameter Efficient Multi-task Model Fusion with Partial Linearization](https://openreview.net/pdf?id=iynRvVVAmH) |  2024 |ICLR  |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
 
-#### Sparse Fine-tuning
+##### Sparse Fine-tuning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Efficient Model Editing with Task-Localized Sparse Fine-tuning]() | 2024 | |
+| [Efficient Model Editing with Task-Localized Sparse Fine-tuning](https://arxiv.org/pdf/2504.02620) | 2024 | |
+
+##### Sharpness-aware Fine-tuning
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning](https://arxiv.org/pdf/2504.14662) | 2025 | |
+
 
 #### Architecture Transformation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
