@@ -217,6 +217,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs](https://openreview.net/pdf?id=irPcM6X5FV)| 2025 |ICLR  | Llama-2-7B and Llama-2-13B
 | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
 | [Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models](https://arxiv.org/pdf/2502.12420v1)| 2025 |Arxiv  | LLaMA-2 7B series, Mistral 7B series, LLaMA-2 13B series |
 | [Non-Uniform Parameter-Wise Model Merging](https://arxiv.org/pdf/2412.15467)| 2024 |Arxiv  |
@@ -291,6 +292,7 @@ Thanks!
 | [Mediator: Memory-efficient LLM Merging with Less Parameter Conflicts and Uncertainty Based Routing](https://arxiv.org/pdf/2502.04411)|  2025 |Arxiv  | Qwen-2.5-7B, LLaMA-3.2-8B |
 | [Adapting Foundation Models via Training-free Dynamic Weight Interpolation](https://openreview.net/pdf?id=yyv54uPM0z)|  2024 | NeurIPS 2024 Workshop  |
 | [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging](https://arxiv.org/pdf/2410.21804) |  2024 |Arxiv  |
+| [DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation](https://arxiv.org/pdf/2410.03782) | 2024 | NeurIPS 2024 Workshop |
 | [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  2024| ICML |
 | [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859)|2024  | ICML  |
 | [Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy](https://arxiv.org/pdf/2310.01334) |2024  | ICLR |
@@ -341,6 +343,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=iX7eHHE5Tx) | 2025 | ICLR |
 | [Multi-Level Collaboration in Model Merging](https://arxiv.org/pdf/2503.01268) | 2025 | Arxiv |
 | [Low-rank bias, weight decay, and model merging in neural networks](https://arxiv.org/pdf/2502.17340)| 2025 | Arxiv |
 | [Understanding SGD with Exponential Moving Average: A Case Study in Linear Regression](https://arxiv.org/pdf/2502.14123)| 2025 | Arxiv |
@@ -438,6 +441,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Adapting Language-Specific LLMs to a Reasoning Model in One Day via Model Merging -- An Open Recipe](https://arxiv.org/pdf/2502.09056)| 2025 |Arxiv  | Typhoon2 R1 70B, Deepseek R1 70B |
   | [Efficient Model Development through Fine-tuning Transfer](https://arxiv.org/pdf/2503.20110v1)| 2025 |Arxiv  | Llama 3.1 8B
   | [Command A: An Enterprise-Ready Large Language Model](https://arxiv.org/pdf/2504.00698v1)| 2025 |Arxiv  | Command R7B
   | [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/pdf/2503.20641)| 2025 |Arxiv  | Qwen2.5-32B, DeepSeek-R1-32B | 
@@ -519,6 +523,7 @@ Thanks!
 ####  Combine the Capabilities of Expert MLLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [REMEDY: Recipe Merging Dynamics in Large Vision-Language Models](https://openreview.net/pdf?id=iX7eHHE5Tx)| 2025 | ICLR | LLaVA-1.5 (Vicuna-7B)
   | [Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation](https://arxiv.org/pdf/2502.17159)| 2025 | Arxiv | LLaVA
   | [AdaMMS: Model Merging for Heterogeneous Multimodal Large Language Models with Unsupervised Coefficient Optimization](https://arxiv.org/pdf/2503.23733)| 2025 | Arxiv | LLaVA-OneVision-7B, Qwen2-VL-7B, LLaVA-v1.5-7B, CogVLM-chat-7B|
   | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487v1)| 2025 | Arxiv | Llama-3.2-11B-Vision-Instruct, Llama-3.1-Tulu-2-8B-uf-meanrm, Llama-3.1-Tulu-3- 8B-RM, Llama-3.1-8B|
