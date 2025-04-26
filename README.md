@@ -710,6 +710,7 @@ Thanks!
 ####  Model Merging for Local Knowledge Aggregation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection](https://arxiv.org/pdf/2504.13938)| 2025 | Arxiv | 
 | [FedMerge: Federated Personalization via Model Merging](https://arxiv.org/pdf/2504.06768)| 2025 | Arxiv | 
 | [Personalized Language Models via Privacy-Preserving Evolutionary Model Merging](https://arxiv.org/pdf/2503.18008v1)| 2025 | Arxiv | Llama-2-7b, Mistral-7B-Instruct v0.2 |
 | [FedAWA: Adaptive Optimization of Aggregation Weights in Federated Learning Using Client Vectors](https://arxiv.org/pdf/2503.15842)| 2025 | Arxiv | 
