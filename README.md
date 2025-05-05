@@ -295,6 +295,7 @@ Thanks!
 | [Efficient and Effective Weight-Ensembling Mixture of Experts for Multi-Task Model Merging](https://arxiv.org/pdf/2410.21804) |  2024 |Arxiv  |
 | [DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation](https://arxiv.org/pdf/2410.03782) | 2024 | NeurIPS 2024 Workshop |
 | [Merging Multi-Task Models via Weight-Ensembling Mixture of Experts](https://openreview.net/pdf/2aee8072945cd0485e619dd88c35566610cd5042.pdf) |  2024| ICML |
+| [Mixture of Latent Experts Using Tensor Products](https://arxiv.org/pdf/2405.16671)|  2024| TMLR | 
 | [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859)|2024  | ICML  |
 | [Merge, Then Compress: Demystify Efficient SMoE with Hints from Its Routing Policy](https://arxiv.org/pdf/2310.01334) |2024  | ICLR |
 | [Soft merging of experts with adaptive routing](https://arxiv.org/pdf/2306.03745) | 2024 | TMLR |
@@ -770,6 +771,7 @@ Thanks!
 | [LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild](https://arxiv.org/pdf/2402.09997)  | 2024 | ACL |
 | [Does Combining Parameter-efficient Modules Improve Few-shot Transfer Accuracy?](https://arxiv.org/pdf/2402.15414) |   2024 |Arxiv |
 | [MerA: Merging pretrained adapters for few-shot learning](https://arxiv.org/pdf/2308.15982) |2023  | Arxiv |
+| [Multi-Head Adapter Routing for Cross-Task Generalization](https://arxiv.org/pdf/2211.03831)|2023  | NeurIPS |
 
 ### Model Merging in Adversarial Learning
 #### Model Merging as an Attack
