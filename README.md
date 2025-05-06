@@ -285,6 +285,7 @@ Thanks!
 #### Routing-based Merging Methods (Dynamic Merging)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Dynamic Fisher-weighted Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2504.18992)| 2025 | Arxiv |
 | [Data-Adaptive Weight-Ensembling for Multi-task Model Fusion](https://link.springer.com/article/10.1007/s11263-025-02434-2)| 2025 | IJCV |
 | [MASS: MoErging through Adaptive Subspace Selection](https://arxiv.org/pdf/2504.05342))| 2025 | Arxiv |
 | [Dynamic Model Merging with Mixture of Weights](https://ieeexplore.ieee.org/abstract/document/10900479/)| 2025 | TCSVT | 
@@ -776,6 +777,7 @@ Thanks!
 #### Model Merging as an Attack
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [From Purity to Peril: Backdooring Merged Models From “Harmless” Benign Components](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-702-wang-lijin.pdf)| 2025  | Arxiv | LLaMA2-7B-chat, Mistral-7B-v0.1
 | [Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging](https://arxiv.org/pdf/2502.16094)| 2025  | Arxiv | 
 | [Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy](https://arxiv.org/pdf/2502.11533) | 2025  | Arxiv | 
 | [LoBAM: LoRA-Based Backdoor Attack on Model Merging](https://arxiv.org/pdf/2411.16746) | 2024  | Arxiv |
