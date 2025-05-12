@@ -795,6 +795,7 @@ Thanks!
 #### Model Merging as a Defense or Intellectual Property Protection
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](https://arxiv.org/pdf/2505.04015)| 2025 |  Arxiv|
 | [BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge](https://arxiv.org/pdf/2503.00596v1)| 2025 |  Arxiv| Mistral-7B-Instruct-v0.2, Meta-Llama3-8B |
 | [Disrupting Model Merging: A Parameter-Level Defense Without Sacrificing Accuracy](https://arxiv.org/pdf/2503.07661)| 2024 |  Arxiv|
 | [Large Language Models Merging for Enhancing the Link Stealing Attack on Graph Neural Networks](https://arxiv.org/pdf/2412.05830)| 2024 |  Arxiv| Vicuna-7B, Vicuna-13B|
