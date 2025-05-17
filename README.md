@@ -254,7 +254,7 @@ Thanks!
 | [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2025 | Arxiv |
 | [Task Vector Quantization for Memory-Efficient Model Merging](https://arxiv.org/pdf/2503.06921)| 2025 | Arxiv |
 | [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
-| [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://openreview.net/pdf?id=8wt2eKkVe6) | | 2025 | ICLR 2025 Workshop |
+| [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://openreview.net/pdf?id=8wt2eKkVe6) | 2025 | ICLR 2025 Workshop |
 | [LEWIS (LayEr WIse Sparsity) -- A Training Free Guided Model Merging Approach](https://arxiv.org/pdf/2503.03874)| 2025 | ICLR 2025 Workshop |Gemma-9b, LLaMA 3.1 8b |
 | [CABS: Conflict-Aware and Balanced Sparsification for Enhancing Model Merging](https://arxiv.org/pdf/2503.01874)| 2025 | Arxiv |Mistral-7b-v0.1, WildMarcoroni-Variant1-7B and WestSeverus-7B-DPO-v2 |
 | [Low-Rank and Sparse Model Merging for Multi-Lingual Speech Recognition and Translation](https://arxiv.org/pdf/2502.17380)| 2025 | Arxiv |
