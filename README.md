@@ -109,7 +109,7 @@ Thanks!
 ## Survey
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv |
+| [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv | 
 | [SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques](https://arxiv.org/pdf/2410.12927)| 2024 | Arxiv |
 | [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)| 2024 | Arxiv |
 | [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://www.arxiv.org/pdf/2408.07057)| 2024 | Arxiv |
@@ -120,6 +120,8 @@ Thanks!
 ## Benchmark/Evaluation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833)| 2025 | Arxiv |Llama-3.2-3B, Llama3.1-8B, Gemma-2-2B and Gemma-2-9B |
+| [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | Arxiv |Mistral-7B
 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and  Harmlessness of Large Language Model via Model Merging](https://arxiv.org/pdf/2502.06876v1)| 2025 | Arxiv | Llama-3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](https://arxiv.org/pdf/2410.10801)| 2024 | Arxiv |  Aya 23 8B
