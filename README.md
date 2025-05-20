@@ -388,7 +388,7 @@ Thanks!
 <img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
 </center>
 
-### Model Merging in Large Language Model
+### Model Merging in Large Language Models
 #### Human Preference Alignment for LLMs
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
@@ -443,6 +443,7 @@ Thanks!
 #### Faster Training of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Model Merging in Pre-training of Large Language Models](https://arxiv.org/pdf/2505.12082)| 2025 |  Arxiv |Seed-MoE-1.3B/13B, SeedMoE-10B/100B, Seed-MoE-15B/150B |
  | [Parameter-Efficient Checkpoint Merging via Metrics-Weighted Averaging](https://arxiv.org/pdf/2504.18580) | 2025 |  Arxiv |
  | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA  7B and 13B|
  | [Checkpoint Merging via Bayesian Optimization in LLM Pretraining](https://arxiv.org/pdf/2403.19390) | 2024 |  Arxiv | Baichuan2-220B, Baichuan2-440B, Baichuan2-660B, Baichuan2-1540B, Baichuan2-1760B, Baichuan2-1980B, Baichuan2-2200B, Baichuan2-2420B, DeepSeek-1400B, DeepSeek-1600B, DeepSeek-1800B, DeepSeek-2000B|
