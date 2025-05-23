@@ -225,6 +225,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [NAN: A Training-Free Solution to Coefficient Estimation in Model Merging](https://arxiv.org/pdf/2505.16148)| 2025 |Arxiv  |LLaMA2-13B, WizardLM-13B, WizardMath-13B, LLaVA-v1.5-13B, LLaVA-1.6-13B, Math-LLaVA|
 | [Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs](https://openreview.net/pdf?id=irPcM6X5FV)| 2025 |ICLR  | Llama-2-7B and Llama-2-13B
 | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
 | [Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models](https://arxiv.org/pdf/2502.12420v1)| 2025 |Arxiv  | LLaMA-2 7B series, Mistral 7B series, LLaMA-2 13B series |
@@ -443,6 +444,8 @@ Thanks!
 #### Faster Training of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging](https://arxiv.org/pdf/2505.14136)| 2025 |  Arxiv |
+ | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
  | [Model Merging in Pre-training of Large Language Models](https://arxiv.org/pdf/2505.12082)| 2025 |  Arxiv |Seed-MoE-1.3B/13B, SeedMoE-10B/100B, Seed-MoE-15B/150B |
  | [Parameter-Efficient Checkpoint Merging via Metrics-Weighted Averaging](https://arxiv.org/pdf/2504.18580) | 2025 |  Arxiv |
  | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA  7B and 13B|
@@ -452,9 +455,13 @@ Thanks!
  | [Stop wasting my time! saving days of imagenet and bert training with latest weight averaging](https://arxiv.org/pdf/2209.14981) | 2022 |NeurIPS Workshop  |
  | [Fusing finetuned models for better pretraining](https://arxiv.org/pdf/2204.03044) | 2022 |Arxiv  |
 
+
+
+
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](https://arxiv.org/pdf/2505.15798)| 2025 |  Arxiv|MetaMath-Mistral-7B, Dolphin-2.1-Mistral-7B and Speechless-Code-Mistral-7Bv1.0
   | [Training-free LLM Merging for Multi-task Learning](https://openreview.net/pdf?id=m6A6HoCKvt)| 2025 |ACL  | Echelon-AI/Med-Qwen2-7B, shtdbb/qwen2-7b-med, Qwen2-Instruct |
   | [Beyond ‘Aha!’: Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/pdf/2505.10554)| 2025 |Arxiv  |Qwen2.5-7B, Qwen2.5-32B|
   | [Unified Multi-Task Learning & Model Fusion for Efficient Language Model Guardrailing](https://arxiv.org/pdf/2504.19333)| 2025 |Arxiv  |
@@ -599,6 +606,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging](https://arxiv.org/pdf/2505.11883)| 2025  |Arxiv  | 
   | [Analysis of Model Merging Methods for Continual Updating of Foundation Models in Distributed Data Settings](https://www.mdpi.com/2076-3417/15/9/5196)| 2025  |Arxiv  |  Applied Sciences
   | [BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/pdf/2504.02666v1)| 2025  |Arxiv  | 
   | [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025  |Arxiv  | Llama-3-8B-Instruct |
@@ -820,6 +828,7 @@ Thanks!
 ## Other Applications
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving](https://arxiv.org/pdf/2505.16524)| 2025 |  Arxiv| 
 | [Mixture of Latent Experts Using Tensor Products](https://arxiv.org/pdf/2405.16671)|  2024| TMLR | 
 | [In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models](https://arxiv.org/pdf/2502.20516v1)| 2025 |  Arxiv|
 | [Self-supervised Normality Learning and Divergence Vector-guided Model Merging for Zero-shot Congenital Heart Disease Detection in Fetal Ultrasound Videos](https://arxiv.org/pdf/2503.07799v1)| 2025 |  Arxiv|
