@@ -225,6 +225,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SeMe: Training-Free Language Model Merging via Semantic Alignment](https://arxiv.org/pdf/2505.20144)| 2025 |Arxiv  |
 | [NAN: A Training-Free Solution to Coefficient Estimation in Model Merging](https://arxiv.org/pdf/2505.16148)| 2025 |Arxiv  |LLaMA2-13B, WizardLM-13B, WizardMath-13B, LLaVA-v1.5-13B, LLaVA-1.6-13B, Math-LLaVA|
 | [Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs](https://openreview.net/pdf?id=irPcM6X5FV)| 2025 |ICLR  | Llama-2-7B and Llama-2-13B
 | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
@@ -355,6 +356,7 @@ Thanks!
 ### Theories and Analysis of Model Merging
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Why Do More Experts Fail? A Theoretical Analysis of Model Merging](https://arxiv.org/pdf/2505.21226) | 2025 | Arxiv |
 | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=iX7eHHE5Tx) | 2025 | ICLR |
 | [Multi-Level Collaboration in Model Merging](https://arxiv.org/pdf/2503.01268) | 2025 | Arxiv |
 | [Low-rank bias, weight decay, and model merging in neural networks](https://arxiv.org/pdf/2502.17340)| 2025 | Arxiv |
@@ -461,6 +463,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs](https://arxiv.org/pdf/2505.18356)| 2025 |  Arxiv|FALCON 3 7B, QWEN2.5 7B Instruct, LLAMA 3.1 8B Instruct, AYA Expanse 8B
   | [Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](https://arxiv.org/pdf/2505.15798)| 2025 |  Arxiv|MetaMath-Mistral-7B, Dolphin-2.1-Mistral-7B and Speechless-Code-Mistral-7Bv1.0
   | [Training-free LLM Merging for Multi-task Learning](https://openreview.net/pdf?id=m6A6HoCKvt)| 2025 |ACL  | Echelon-AI/Med-Qwen2-7B, shtdbb/qwen2-7b-med, Qwen2-Instruct |
   | [Beyond ‘Aha!’: Toward Systematic Meta-Abilities Alignment in Large Reasoning Models](https://arxiv.org/pdf/2505.10554)| 2025 |Arxiv  |Qwen2.5-7B, Qwen2.5-32B|
