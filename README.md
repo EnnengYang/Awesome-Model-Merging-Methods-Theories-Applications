@@ -120,6 +120,7 @@ Thanks!
 ## Benchmark/Evaluation
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
 | [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833)| 2025 | Arxiv |Llama-3.2-3B, Llama3.1-8B, Gemma-2-2B and Gemma-2-9B |
 | [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | Arxiv |Mistral-7B
 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and  Harmlessness of Large Language Model via Model Merging](https://arxiv.org/pdf/2502.06876v1)| 2025 | Arxiv | Llama-3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
@@ -150,9 +151,10 @@ Thanks!
 | [Parameter Efficient Multi-task Model Fusion with Partial Linearization](https://openreview.net/pdf?id=iynRvVVAmH) |  2024 |ICLR  |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
 
-##### Sparse Fine-tuning
+##### Subspace Fine-tuning
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Unraveling LoRA Interference: Orthogonal Subspaces for Robust Model Merging](https://arxiv.org/pdf/2505.22934) | 2025 | Llama3-8B |
 | [Efficient Model Editing with Task-Localized Sparse Fine-tuning](https://arxiv.org/pdf/2504.02620) | 2024 | |
 
 ##### Sharpness-aware Fine-tuning
@@ -253,6 +255,7 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking](https://arxiv.org/pdf/2505.23117)| 2025 | Arxiv | LLaMA3.1-8B
 | [CAT Merging: A Training-Free Approach for Resolving Conflicts in Model Merging](https://arxiv.org/pdf/2505.06977)| 2025 | Arxiv | 
 | [LoRI: Reducing Cross-Task Interference in Multi-Task LowRank Adaptation](https://arxiv.org/pdf/2504.07448)| 2025 | Arxiv | Llama-3-8B and Mistral-7B |
 | [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2025 | Arxiv |
@@ -609,6 +612,7 @@ Thanks!
 #### Model Merging to Mitigate Catastrophic Forgetting
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning](https://arxiv.org/pdf/2505.22389)| 2025  |Arxiv  | 
   | [MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging](https://arxiv.org/pdf/2505.11883)| 2025  |Arxiv  | 
   | [Analysis of Model Merging Methods for Continual Updating of Foundation Models in Distributed Data Settings](https://www.mdpi.com/2076-3417/15/9/5196)| 2025  |Arxiv  |  Applied Sciences
   | [BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/pdf/2504.02666v1)| 2025  |Arxiv  | 
