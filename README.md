@@ -703,6 +703,7 @@ Thanks!
 #### Model Merging for Better Out-of-Distribution Generalization
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Out-of-Distribution Graph Models Merging](https://arxiv.org/pdf/2506.03674)| 2025 | Arxiv |
 | [SeWA: Selective Weight Average via Probabilistic Masking](https://arxiv.org/pdf/2502.10119)| 2025 | Arxiv |
 | [When, Where and Why to Average Weights?](https://arxiv.org/pdf/2502.06761)| 2025 | Arxiv |
 | [DaWin: Training-free Dynamic Weight Interpolation for Robust Adaptation](https://arxiv.org/pdf/2410.03782) | 2024 | NeurIPS 2024 Workshop |
