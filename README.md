@@ -257,6 +257,7 @@ Thanks!
 #### Subspace-based Merging Method (Sparse or Low-rank Subspace)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: | 
+| [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)| 2025 | Arxiv | Mistral-7B, Llama3-8B |
 | [Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation](https://arxiv.org/pdf/2505.23651)| 2025 | ICML | 
 | [Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation](https://arxiv.org/pdf/2505.24174)| 2025 | ACL | Llama-3-8B-Instruct
 | [Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking](https://arxiv.org/pdf/2505.23117)| 2025 | Arxiv | LLaMA3.1-8B
