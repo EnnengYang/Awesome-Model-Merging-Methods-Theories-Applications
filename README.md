@@ -228,6 +228,7 @@ Thanks!
 #### Weighted-based Merging Methods
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation](https://arxiv.org/pdf/2506.04567)| 2025 |Arxiv  |
 | [Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://arxiv.org/pdf/2505.23859)| 2025 |Arxiv  |
 | [SeMe: Training-Free Language Model Merging via Semantic Alignment](https://arxiv.org/pdf/2505.20144)| 2025 |Arxiv  |
 | [NAN: A Training-Free Solution to Coefficient Estimation in Model Merging](https://arxiv.org/pdf/2505.16148)| 2025 |Arxiv  |LLaMA2-13B, WizardLM-13B, WizardMath-13B, LLaVA-v1.5-13B, LLaVA-1.6-13B, Math-LLaVA|
@@ -304,7 +305,8 @@ Thanks!
 #### Routing-based Merging Methods (Dynamic Merging)
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Dynamic Fisher-weighted Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2504.18992)| 2025 | Arxiv |
+| [Adaptive Task Vectors for Large Language Models](https://arxiv.org/pdf/2506.03426) | 2025 | Arxiv |LLaMA3-8B and Mistral-7
+| [Dynamic Fisher-weighted Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2504.18992)| 2025 | Arxiv | 
 | [Data-Adaptive Weight-Ensembling for Multi-task Model Fusion](https://link.springer.com/article/10.1007/s11263-025-02434-2)| 2025 | IJCV |
 | [MASS: MoErging through Adaptive Subspace Selection](https://arxiv.org/pdf/2504.05342))| 2025 | Arxiv |
 | [Dynamic Model Merging with Mixture of Weights](https://ieeexplore.ieee.org/abstract/document/10900479/)| 2025 | TCSVT | 
@@ -430,6 +432,7 @@ Thanks!
 #### Detoxification of LLMs
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation](https://arxiv.org/pdf/2506.02973) | 2025 |  Arxiv | LLAMA3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [Bias Vector: Mitigating Biases in Language Models with Task Arithmetic Approach](https://arxiv.org/pdf/2412.11679) | 2024 |  Arxiv | 
 | [Separate the Wheat from the Chaff: Model Deficiency Unlearning via Parameter-Efficient Module Operation](https://arxiv.org/pdf/2308.08090) | 2024 |  AAAI | LLaMA-7B  |
 | [Mitigating Social Biases in Language Models through Unlearning](https://arxiv.org/pdf/2406.13551) | 2024 |  Arxiv | LLaMA-2 7B |
@@ -472,6 +475,7 @@ Thanks!
 ####  Combine the Capabilities of Expert LLMs
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/pdf/2505.24262)| 2025 |  Arxiv| LLaMA2-7B
   | [The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs](https://arxiv.org/pdf/2505.18356)| 2025 |  Arxiv|FALCON 3 7B, QWEN2.5 7B Instruct, LLAMA 3.1 8B Instruct, AYA Expanse 8B
   | [Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](https://arxiv.org/pdf/2505.15798)| 2025 |  Arxiv|MetaMath-Mistral-7B, Dolphin-2.1-Mistral-7B and Speechless-Code-Mistral-7Bv1.0
   | [Training-free LLM Merging for Multi-task Learning](https://openreview.net/pdf?id=m6A6HoCKvt)| 2025 |ACL  | Echelon-AI/Med-Qwen2-7B, shtdbb/qwen2-7b-med, Qwen2-Instruct |
@@ -813,6 +817,7 @@ Thanks!
 #### Model Merging as an Attack
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](https://arxiv.org/pdf/2505.23561)| 2025  | Arxiv | LLaMA3.1-8B
 | [From Purity to Peril: Backdooring Merged Models From “Harmless” Benign Components](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-702-wang-lijin.pdf)| 2025  | Arxiv | LLaMA2-7B-chat, Mistral-7B-v0.1
 | [Merger-as-a-Stealer: Stealing Targeted PII from Aligned LLMs with Model Merging](https://arxiv.org/pdf/2502.16094)| 2025  | Arxiv | 
 | [Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy](https://arxiv.org/pdf/2502.11533) | 2025  | Arxiv | 
