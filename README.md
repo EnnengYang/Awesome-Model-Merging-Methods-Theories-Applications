@@ -354,6 +354,7 @@ Thanks!
 | [Scalable Model Merging with Progressive Layer-wise Distillation](https://arxiv.org/pdf/2502.12706)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B and llama-2-13b-code-alpaca
 | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv |  Llama-2-13, WizardLM13B, WizardMath-13, llama-2-13b-code-alpaca |
 | [Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts](https://arxiv.org/pdf/2501.15065)| 2025 | ICLR |  
+| [Fine-tuning Aligned Classifiers for Merging Outputs: Towards a Superior Evaluation Protocol in Model Merging](https://arxiv.org/abs/2412.13526)| 2024 | Arxiv | 
 | [Multi-Task Model Merging via Adaptive Weight Disentanglement](https://arxiv.org/pdf/2411.18729)| 2024 | Arxiv | 
 | [Rethinking Weight-Averaged Model-merging](https://arxiv.org/pdf/2411.09263)| 2024 | Arxiv |
 | [ATM: Improving Model Merging by Alternating Tuning and Merging](https://arxiv.org/pdf/2411.03055)| 2024 | Arxiv | 
