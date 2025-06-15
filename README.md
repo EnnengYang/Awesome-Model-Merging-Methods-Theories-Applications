@@ -763,6 +763,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Harmonizing and Merging Source Models for CLIP-based Domain Generalization](https://arxiv.org/pdf/2506.09446)| 2025 | Arxiv |
 | [Realistic Evaluation of Model Merging for Compositional Generalization](https://arxiv.org/pdf/2409.18314)| 2024 | Arxiv |
 | [Layer-wise Model Merging for Unsupervised Domain Adaptation in Segmentation Tasks](https://arxiv.org/pdf/2409.15813)| 2024 | Arxiv |
 | [Training-Free Model Merging for Multi-target Domain Adaptation](https://arxiv.org/pdf/2407.13771)| 2024 | Arxiv |
