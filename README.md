@@ -268,6 +268,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [NegMerge: Sign-Consensual Weight Merging for Machine Unlearning](https://openreview.net/pdf?id=ZbWXovStjD)| 2025 | ICML |
 | [Subspace-Boosted Model Merging](https://arxiv.org/pdf/2506.16506)| 2025 | Arxiv |
 | [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/pdf/2506.12379)| 2025 | Arxiv |
 | [Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data](https://arxiv.org/pdf/2506.09093)| 2025 | Arxiv |
@@ -319,6 +320,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging](https://arxiv.org/pdf/2506.18135) | 2025 | Arxiv |
 | [Adaptive Task Vectors for Large Language Models](https://arxiv.org/pdf/2506.03426) | 2025 | Arxiv |LLaMA3-8B and Mistral-7B |
 | [Dynamic Fisher-weighted Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2504.18992)| 2025 | Arxiv |
 | [Data-Adaptive Weight-Ensembling for Multi-task Model Fusion](https://link.springer.com/article/10.1007/s11263-025-02434-2)| 2025 | IJCV |
@@ -708,6 +710,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Pareto Merging: Multi-Objective Optimization for Preference-Aware Model Merging](https://openreview.net/pdf?id=D7qRwx6BOS)| 2025 | ICML  |
   | [Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2502.10762)| 2025 | Arxiv  |LLaMA-2 7B
   | [You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging](https://arxiv.org/pdf/2408.12105) |  2024 |Arxiv  |
   | [Towards Efficient Pareto Set Approximation via Mixture of Experts Based Model Fusion](https://arxiv.org/pdf/2406.09770) |  2024 |Arxiv  |
@@ -876,6 +879,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Towards Model Merging for Tabular Telecommunications Data](https://www.diva-portal.org/smash/get/diva2:1968615/FULLTEXT01.pdf)| 2025 |  Arxiv|
+| [CultureMERT: Continual Pre-Training for Cross-Cultural Music Representation Learning](https://arxiv.org/pdf/2506.17818)| 2025 |  Arxiv|
+| [U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation](https://iris.unimore.it/handle/11380/1380716)| 2025 |  International Conference on Medical Image Computing and Computer Assisted Intervention|
 | [CodeMerge: Codebook-Guided Model Merging for Robust Test-Time Adaptation in Autonomous Driving](https://arxiv.org/pdf/2505.16524)| 2025 |  Arxiv|
 | [Mixture of Latent Experts Using Tensor Products](https://arxiv.org/pdf/2405.16671)|  2024| TMLR |
 | [In-Model Merging for Enhancing the Robustness of Medical Imaging Classification Models](https://arxiv.org/pdf/2502.20516v1)| 2025 |  Arxiv|
