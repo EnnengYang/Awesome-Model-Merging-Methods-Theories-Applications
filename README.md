@@ -496,7 +496,7 @@ Thanks!
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
- | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts] | 2023 |EMNLP  | 
+ | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  | 
 
  
 #### Combine the Capabilities of Expert LLMs
