@@ -490,6 +490,15 @@ Thanks!
  | [Stop wasting my time! saving days of imagenet and bert training with latest weight averaging](https://arxiv.org/pdf/2209.14981) | 2022 |NeurIPS Workshop  |
  | [Fusing finetuned models for better pretraining](https://arxiv.org/pdf/2204.03044) | 2022 |Arxiv  |
 
+
+#### Improving Computational Efficiency of MoE-based LLM
+
+ | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+ | --------------- | :----: | :----: | :----: |
+ | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
+ | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts] | 2023 |EMNLP  | 
+
+ 
 #### Combine the Capabilities of Expert LLMs
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -879,6 +888,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Generative Representational Learning of Foundation Models for Recommendation](https://arxiv.org/pdf/2506.11999)| 2025 |  Arxiv|
 | [Towards Model Merging for Tabular Telecommunications Data](https://www.diva-portal.org/smash/get/diva2:1968615/FULLTEXT01.pdf)| 2025 |  Arxiv|
 | [CultureMERT: Continual Pre-Training for Cross-Cultural Music Representation Learning](https://arxiv.org/pdf/2506.17818)| 2025 |  Arxiv|
 | [U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation](https://iris.unimore.it/handle/11380/1380716)| 2025 |  International Conference on Medical Image Computing and Computer Assisted Intervention|
