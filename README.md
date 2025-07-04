@@ -503,6 +503,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merging Large Language Models for Enhanced Code Generation: A Comparative Study of Model Merging Techniques Across Programming Languages](https://www.diva-portal.org/smash/get/diva2:1973270/FULLTEXT01.pdf)| 2025 |  Open Access in DiVA |CodeQwen1.5-7B, DeepSeek-Coder-6.7b-Base, CodeLlama-34B |
   | [On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/pdf/2505.24262)| 2025 |  Arxiv| LLaMA2-7B
   | [The Unreasonable Effectiveness of Model Merging for Cross-Lingual Transfer in LLMs](https://arxiv.org/pdf/2505.18356)| 2025 |  Arxiv|FALCON 3 7B, QWEN2.5 7B Instruct, LLAMA 3.1 8B Instruct, AYA Expanse 8B
   | [Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning](https://arxiv.org/pdf/2505.15798)| 2025 |  Arxiv|MetaMath-Mistral-7B, Dolphin-2.1-Mistral-7B and Speechless-Code-Mistral-7Bv1.0
