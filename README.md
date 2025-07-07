@@ -596,6 +596,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs](https://arxiv.org/pdf/2506.23940)| 2025 | Arxiv | Qwen2-VL-2B |
+  | [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
   | [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/pdf/2505.05464)| 2025 |ICML  | LLaVA-NeXT-8B, Idefics2-8B, InternVL2-76B |
   | [REMEDY: Recipe Merging Dynamics in Large Vision-Language Models](https://openreview.net/pdf?id=iX7eHHE5Tx)| 2025 | ICLR | LLaVA-1.5 (Vicuna-7B)
   | [Parameter Efficient Merging for Multimodal Large Language Models with Complementary Parameter Adaptation](https://arxiv.org/pdf/2502.17159)| 2025 | Arxiv | LLaVA
