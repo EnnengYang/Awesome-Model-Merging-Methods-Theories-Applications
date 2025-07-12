@@ -895,6 +895,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Oscillation-Reduced MXFP4 Training for Vision Transformers](https://arxiv.org/pdf/2502.20853v2)| 2025 |  ICML |
 | [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
 | [Temporal Information Retrieval via Time-Specifier Model Merging](https://arxiv.org/pdf/2507.06782)| 2025 |  Arxiv|
 | [Generative Representational Learning of Foundation Models for Recommendation](https://arxiv.org/pdf/2506.11999)| 2025 |  Arxiv|
