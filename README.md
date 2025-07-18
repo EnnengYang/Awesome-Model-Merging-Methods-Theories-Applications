@@ -663,6 +663,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [RegCL: Continual Adaptation of Segment Anything Model via Model Merging](https://arxiv.org/pdf/2507.12297) | 2025 | Arxiv |
   | [Continual Learning in Vision-Language Models via Aligned Model Merging](http://arxiv.org/abs/2506.03189) | 2025 | Arxiv |
   | [Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning](https://arxiv.org/pdf/2505.22389)| 2025  |Arxiv  |
   | [MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging](https://arxiv.org/pdf/2505.11883)| 2025  |Arxiv  |
