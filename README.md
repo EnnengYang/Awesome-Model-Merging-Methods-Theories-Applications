@@ -386,6 +386,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2025 | Arxiv | Ling-mini-16B
 | [Why Do More Experts Fail? A Theoretical Analysis of Model Merging](https://arxiv.org/pdf/2505.21226) | 2025 | Arxiv |
 | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=iX7eHHE5Tx) | 2025 | ICLR |
 | [Multi-Level Collaboration in Model Merging](https://arxiv.org/pdf/2503.01268) | 2025 | Arxiv |
@@ -505,6 +506,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging](https://arxiv.org/pdf/2507.17706)| 2025 |  Arxiv|
   | [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://arxiv.org/pdf/2507.07140)| 2025 |  Arxiv|
   | [Merging Large Language Models for Enhanced Code Generation: A Comparative Study of Model Merging Techniques Across Programming Languages](https://www.diva-portal.org/smash/get/diva2:1973270/FULLTEXT01.pdf)| 2025 |  Open Access in DiVA |CodeQwen1.5-7B, DeepSeek-Coder-6.7b-Base, CodeLlama-34B |
   | [On Fairness of Task Arithmetic: The Role of Task Vectors](https://arxiv.org/pdf/2505.24262)| 2025 |  Arxiv| LLaMA2-7B
