@@ -269,6 +269,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [One Size Does Not Fit All: A Distribution-Aware Sparsification for More Precise Model Merging](https://arxiv.org/pdf/2508.06163)| 2025 | Arxiv |
 | [NegMerge: Sign-Consensual Weight Merging for Machine Unlearning](https://openreview.net/pdf?id=ZbWXovStjD)| 2025 | ICML |
 | [Subspace-Boosted Model Merging](https://arxiv.org/pdf/2506.16506)| 2025 | Arxiv |
 | [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/pdf/2506.12379)| 2025 | Arxiv |
