@@ -674,6 +674,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/pdf/2508.08165)| 2025 | ICCV |
   | [Forgetting of task-specific knowledge in model merging-based continual learning](https://arxiv.org/pdf/2507.23311)| 2025 | Arxiv |
   | [Modular Delta Merging with Orthogonal Constraints: A Scalable Framework for Continual and Reversible Model Composition](https://arxiv.org/pdf/2507.20997) | 2025 | Arxiv |
   | [RegCL: Continual Adaptation of Segment Anything Model via Model Merging](https://arxiv.org/pdf/2507.12297) | 2025 | Arxiv |
@@ -890,6 +891,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [POSTER: Investigating Transferability of Adversarial Examples in Model Merging](https://dl.acm.org/doi/abs/10.1145/3708821.3735347)| 2025 |  ASIA CCS |
 | [RouteMark: A Fingerprint for Intellectual Property Attribution in Routing-based Model Merging](https://arxiv.org/pdf/2508.01784)| 2025 |  Arxiv|
 | [MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](https://arxiv.org/pdf/2505.04015)| 2025 |  Arxiv|
 | [BadJudge: Backdoor Vulnerabilities of LLM-As-A-Judge](https://arxiv.org/pdf/2503.00596v1)| 2025 |  Arxiv| Mistral-7B-Instruct-v0.2, Meta-Llama3-8B |
