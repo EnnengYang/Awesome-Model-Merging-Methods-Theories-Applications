@@ -435,7 +435,6 @@ Thanks!
 | [Model soup for better rlhf: Weight space averaging to improve alignment in llms](https://openreview.net/forum?id=QNW3Z3f5SD)| 2024 | NeurIPS 2024 Workshop  | Llama2-7B, Mistral-7B, Gemma-2B |
 | [Safeguard Fine-Tuned LLMs Through Pre- and Post-Tuning Model Merging](https://arxiv.org/pdf/2412.19512)| 2024 | Arxiv  | Llama-3-8B-Instruct
 | [SafetyDPO: Scalable Safety Alignment for Text-to-Image Generation](https://arxiv.org/pdf/2412.10493)| 2024 | Arxiv  |
-| [Weighted-reward preference optimization for implicit model fusion](https://arxiv.org/pdf/2412.03187)| 2024 | Arxiv  | LLaMA3-8B-Instruct |
 | [H3Fusion: Helpful, Harmless, Honest Fusion of Aligned LLMs](https://arxiv.org/pdf/2411.17792)| 2024 | Arxiv  |LLaMA-2 7B
 | [Baichuan Alignment Technical Report](https://arxiv.org/pdf/2410.14940)| 2024 | Arxiv  | Qwen2-Nova-72B, Llama3-PBM-Nova-70B |
 | [Conditioned Language Policy: A General Framework for Steerable Multi-Objective Finetuning](https://arxiv.org/pdf/2407.15762)| 2024 | Arxiv  |
@@ -541,6 +540,7 @@ Thanks!
   | [Skill Expansion and Composition in Parameter Space](https://arxiv.org/pdf/2502.05932)| 2025 | Arxiv
   | [InfiFusion: A Unified Framework for Enhanced Cross-Model Reasoning via LLM Fusion](https://arxiv.org/pdf/2501.02795)| 2025 | Arxiv | Qwen2.5-Coder-14B-Instruct, Qwen2.5-14B-Instruct, and Mistral-Small-24B-Instruct-2501 |
   | [Channel Merging: Preserving Specialization for Merged Experts](https://arxiv.org/pdf/2412.15283)|2025 |AAAI | Dolphin-2.2.1-Mistral-7B, Speechless-Code-Mistral-7B, MetaMathMistral-7B, Chinese-Mistral-7BInstruct-v0.1 |
+  | [Weighted-reward preference optimization for implicit model fusion](https://arxiv.org/pdf/2412.03187)| 2025 | ICLR  | LLaMA3-8B-Instruct |
   | [Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion](https://arxiv.org/pdf/2412.01289)|2024 |Arxiv | MiniGemini-8B and SLIME-8B |
   | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr)|2024 |Arxiv | Llama3.1-8B |
   | [JRadiEvo: A Japanese Radiology Report Generation Model Enhanced by Evolutionary Optimization of Model Merging](https://arxiv.org/pdf/2411.09933) |2024 |Arxiv |Bunny-v1_1-Llama-3-8B-V, MMed-Llama-3-8B-EnIns, OpenBioLLM-Llama3-8B, Llama-3-Swallow-8B-Instruct-v0.1|
@@ -555,6 +555,7 @@ Thanks!
   | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://arxiv.org/pdf/2410.01335) |2024 |Arxiv | LLAMA 3.1 8B |
   | [What Matters for Model Merging at Scale?](https://arxiv.org/pdf/2410.03617)| 2024 | Arxiv | PaLM-2 (1B, 8B, 24B, 64B), PaLM-2-IT (1B, 8B, 24B, 64B)|
   | [HM3: Hierarchical Multi-Objective Model Merging for Pretrained Models](https://arxiv.org/pdf/2409.18893) | 2024 | Arxiv | Llama-2-7B-Chat, WizardMath-7B, CodeLlama-7B|
+  | [FUSECHAT: Knowledge Fusion of Chat Models](https://arxiv.org/pdf/2408.07990) | 2024 |  Arxiv| OpenChat-3.5-7B, Starling-LM-7B-alpha, NH2-SOLAR-10.7B, InternLM2-Chat-20B, Mixtral-8x7B-Instruct, and Qwen-1.5-Chat-72B|
   | [SQL-GEN: Bridging the Dialect Gap for Text-to-SQL Via Synthetic Data And Model Merging](https://arxiv.org/pdf/2408.12733) | 2024 |  Arxiv|CodeLlama 7B|
   | [It’s Morphing Time: Unleashing the Potential of Multiple LLMs via Multi-objective Optimization](https://arxiv.org/pdf/2407.00487) | 2024 | Arxiv | Qwen1.5-7B-Chat, Liberated-Qwen1.5-7B, firefly-qwen1.5-en-7B |
   | [Knowledge Fusion By Evolving Weights of Language Models](https://arxiv.org/pdf/2406.12208) | 2024 | ACL |
@@ -814,6 +815,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/pdf/2508.12386)| 2025 | Arxiv |
 | [A Single Merging Suffices: Recovering Server-based Learning Performance in Decentralized Learning](https://arxiv.org/pdf/2507.06542)| 2025 | Arxiv |
 | [Closed-form merging of parameter-efficient modules for Federated Continual Learning](https://arxiv.org/pdf/2410.17961) | 2025 | ICLR |
 | [Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection](https://arxiv.org/pdf/2504.13938)| 2025 | Arxiv |
@@ -913,6 +915,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation](https://arxiv.org/pdf/2508.11032)| 2025 |  Arxiv|
 | [Oscillation-Reduced MXFP4 Training for Vision Transformers](https://arxiv.org/pdf/2502.20853v2)| 2025 |  ICML |
 | [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
 | [Temporal Information Retrieval via Time-Specifier Model Merging](https://arxiv.org/pdf/2507.06782)| 2025 |  Arxiv|
@@ -959,4 +962,4 @@ We welcome all researchers to contribute to this repository **'model merging in 
 
 If you have a related paper that was not added to the library, please contact us.
 
-Email: <ennengyang@stumail.neu.edu.cn> / <ennengyang@gmail.com>
+Email: <ennengyang@qq.com> / <ennengyang@gmail.com>
