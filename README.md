@@ -127,7 +127,7 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
 | [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833)| 2025 | Arxiv |Llama-3.2-3B, Llama3.1-8B, Gemma-2-2B and Gemma-2-9B |
-| [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | Arxiv |Mistral-7B
+| [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | System Demonstrations |Mistral-7B
 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and  Harmlessness of Large Language Model via Model Merging](https://arxiv.org/pdf/2502.06876v1)| 2025 | Arxiv | Llama-3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](https://arxiv.org/pdf/2410.10801)| 2024 | Arxiv |  Aya 23 8B
@@ -296,7 +296,7 @@ Thanks!
 | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |Arxiv  | |
 | [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |  
 | [Revisiting Weight Averaging for Model Merging](https://arxiv.org/pdf/2412.12153)| 2024  |Arxiv  | |
-| [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | 2024  |Arxiv  | |
+| [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | 2025  |CVPR  | |
 | [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054)|  2024 |Arxiv  |
 | [FREE-Merging: Fourier Transform for Model Merging with Lightweight Experts](https://arxiv.org/pdf/2411.16815)|2024  |Arxiv  | Qwen-14B (LoRA),  LLaMa2-13B, WizardLM-13B, WizardMath-13B, WizardCoderPython-13B |
 | [Beyond Task Vectors: Selective Task Arithmetic Based on Importance Metrics](https://arxiv.org/pdf/2411.16139)|2024  |Arxiv  | |
@@ -370,7 +370,7 @@ Thanks!
 | [FW-Merging: Scaling Model Merging with Frank-Wolfe Optimization](https://arxiv.org/pdf/2503.12649)| 2025 | Arxiv  | LLaMA2-7B
 | [Whoever Started the Interference Should End It: Guiding Data-Free Model Merging via Task Vectors](https://arxiv.org/pdf/2503.08099)| 2025 | Arxiv  | WizardLM-13B (LM), WizardMath-13B (Math), and llama-2-13bcodealpaca (Code) |
 | [GNNMERGE: Merging of GNN Models Without Accessing Training Data](https://arxiv.org/pdf/2503.03384)| 2025 | Arxiv  |
-| [MERGE3: Efficient Evolutionary Merging on Consumer-grade GPUs](https://arxiv.org/pdf/2502.10436)| 2025 | Arxiv  | Mistral-7B
+| [MERGE3: Efficient Evolutionary Merging on Consumer-grade GPUs](https://arxiv.org/pdf/2502.10436)| 2025 | ICML  | Mistral-7B
 | [Activation-Informed Merging of Large Language Models](https://arxiv.org/pdf/2502.02421?)| 2025 | Arxiv | Llama-2-13b, WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
 | [Scalable Model Merging with Progressive Layer-wise Distillation](https://arxiv.org/pdf/2502.12706)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B and llama-2-13b-code-alpaca
 | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv |  Llama-2-13, WizardLM13B, WizardMath-13, llama-2-13b-code-alpaca |
