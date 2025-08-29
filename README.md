@@ -247,6 +247,7 @@ Thanks!
 | [Leveraging Submodule Linearity Enhances Task Arithmetic Performance in LLMs](https://openreview.net/pdf?id=irPcM6X5FV)| 2025 |ICLR  | Llama-2-7B and Llama-2-13B
 | [Layer-Aware Task Arithmetic: Disentangling Task-Specific and Instruction-Following Knowledge](https://arxiv.org/pdf/2502.20186)| 2025 |Arxiv  | Gemma-2-9B, Llama-3-8B |
 | [Sens-Merging: Sensitivity-Guided Parameter Balancing for Merging Large Language Models](https://arxiv.org/pdf/2502.12420v1)| 2025 |Arxiv  | LLaMA-2 7B series, Mistral 7B series, LLaMA-2 13B series |
+| [RankMean: Module-Level Importance Score for Merging Fine-tuned Large Language Models](https://aclanthology.org/2024.findings-acl.104.pdf)| 2024 | ACL  |
 | [Non-Uniform Parameter-Wise Model Merging](https://arxiv.org/pdf/2412.15467)| 2024 |Arxiv  |
 | [How to Weight Multitask Finetuning? Fast Previews via Bayesian Model-Merging](https://arxiv.org/pdf/2412.08147)| 2024 |Arxiv  |
 | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
@@ -269,6 +270,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Efficient Multi-Source Knowledge Transfer by Model Merging](https://arxiv.org/pdf/2508.19353)| 2025 | Arxiv |
 | [One Size Does Not Fit All: A Distribution-Aware Sparsification for More Precise Model Merging](https://arxiv.org/pdf/2508.06163)| 2025 | Arxiv |
 | [NegMerge: Sign-Consensual Weight Merging for Machine Unlearning](https://openreview.net/pdf?id=ZbWXovStjD)| 2025 | ICML |
 | [Subspace-Boosted Model Merging](https://arxiv.org/pdf/2506.16506)| 2025 | Arxiv |
@@ -363,6 +365,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Competition and Attraction Improve Model Fusion](https://arxiv.org/pdf/2508.16204)| 2025 | Arxiv  | WizardMath 7B v1.0, AgentEvol 7B
+| [PSO-Merging: Merging Models Based on Particle Swarm Optimization](https://arxiv.org/pdf/2508.19839)| 2025 | Arxiv  | Llama-3-8B, Llama-2-13B, and Mistral-7B-v0.3 | 
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://arxiv.org/pdf/2508.01148)| 2025 | Arxiv  |
 | [Navigating the Accuracy-Size Trade-Off with Flexible Model Merging](https://arxiv.org/pdf/2505.23209)| 2025 | Arxiv  |
 | [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?)| 2025 | Arxiv  |
