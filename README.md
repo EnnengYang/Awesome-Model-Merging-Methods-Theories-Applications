@@ -515,6 +515,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Surrogate Benchmarks for Model Merging Optimization](https://arxiv.org/pdf/2509.02555)| 2025 |  Arxiv| EvoLLM-JP-v1-7B, shisa-gamma-7b-v1 |
   | [Tensorized Clustered LoRA Merging for Multi-Task Interference](https://arxiv.org/pdf/2508.03999)| 2025 |  Arxiv| Mistral-7B
   | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140)| 2025 |  Arxiv| Qwen2.5-7B, Llama3.1-8B
   | [Efficient Compositional Multi-tasking for On-device Large Language Models](https://arxiv.org/pdf/2507.16083)| 2025 |  Arxiv|  Llama 3.1 70B
@@ -728,6 +729,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108)| 2025 | Arxiv  |
   | [Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning](https://arxiv.org/pdf/2504.11268)| 2025 | Arxiv  |
   | [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035)| 2024 |Arxiv  |
   | [LiNeS: Post-training Layer Scaling Prevents Forgetting and Enhances Model Merging](https://arxiv.org/pdf/2410.17146)| 2024 |Arxiv  |
@@ -901,6 +903,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Unmerging: Making Your Models Unmergeable for Secure Model Sharing](https://arxiv.org/pdf/2509.01548)| 2025 |  Arxiv|
 | [POSTER: Investigating Transferability of Adversarial Examples in Model Merging](https://dl.acm.org/doi/abs/10.1145/3708821.3735347)| 2025 |  ASIA CCS |
 | [RouteMark: A Fingerprint for Intellectual Property Attribution in Routing-based Model Merging](https://arxiv.org/pdf/2508.01784)| 2025 |  Arxiv|
 | [MergeGuard: Efficient Thwarting of Trojan Attacks in Machine Learning Models](https://arxiv.org/pdf/2505.04015)| 2025 |  Arxiv|
