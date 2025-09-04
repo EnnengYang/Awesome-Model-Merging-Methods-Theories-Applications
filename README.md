@@ -462,6 +462,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://arxiv.org/abs/2410.03415) | 2025 |  ICLR | GEMMA-7B-IT, LLAMA2-7B/13B/70B-CHAT, LLAMA3-8B-INST | 
 | [3DM: Distill, Dynamic Drop, and Merge for Debiasing Multi-modal Large Language Models](https://aclanthology.org/2025.findings-acl.722.pdf) | 2025 |  ACL | LLaVA-1.5-7b, InternVL-2.5-8b, LLaVA-1.5-7b and ChatGLM4-9b |
 | [Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation](https://arxiv.org/pdf/2506.02973) | 2025 |  Arxiv | LLAMA3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [Bias Vector: Mitigating Biases in Language Models with Task Arithmetic Approach](https://arxiv.org/pdf/2412.11679) | 2024 |  Arxiv |
