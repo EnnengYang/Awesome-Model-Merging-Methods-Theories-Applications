@@ -125,6 +125,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FBMS: An R Package for Flexible Bayesian Model Selection and Model Averaging](https://arxiv.org/pdf/2509.00753)| 2025 | Arxiv |
 | [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
 | [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833)| 2025 | Arxiv |Llama-3.2-3B, Llama3.1-8B, Gemma-2-2B and Gemma-2-9B |
 | [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | System Demonstrations |Mistral-7B
@@ -516,6 +517,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic](https://arxiv.org/pdf/2509.01363)| 2025 |  Arxiv | QWEN2.5-7B|
   | [Surrogate Benchmarks for Model Merging Optimization](https://arxiv.org/pdf/2509.02555)| 2025 |  Arxiv| EvoLLM-JP-v1-7B, shisa-gamma-7b-v1 |
   | [Tensorized Clustered LoRA Merging for Multi-Task Interference](https://arxiv.org/pdf/2508.03999)| 2025 |  Arxiv| Mistral-7B
   | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140)| 2025 |  Arxiv| Qwen2.5-7B, Llama3.1-8B
@@ -685,6 +687,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](https://arxiv.org/pdf/2506.21260)| 2025 | Arxiv |
   | [Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/pdf/2508.08165)| 2025 | ICCV |
   | [Forgetting of task-specific knowledge in model merging-based continual learning](https://arxiv.org/pdf/2507.23311)| 2025 | Arxiv |
   | [Modular Delta Merging with Orthogonal Constraints: A Scalable Framework for Continual and Reversible Model Composition](https://arxiv.org/pdf/2507.20997) | 2025 | Arxiv |
@@ -857,7 +860,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Investigating Task Arithmetic for Zero-Shot Information Retrieval](https://arxiv.org/pdf/2505.00649) |2025 |Arxiv |  LLama-2-7b
+| [Investigating Task Arithmetic for Zero-Shot Information Retrieval](https://arxiv.org/pdf/2505.00649) |2025 |SIGIR |  LLama-2-7b
 | [Retraining-Free Merging of Sparse Mixture-of-Experts via Hierarchical Clustering](https://arxiv.org/pdf/2410.08589) |2024 |Arxiv | Qwen 60x2.7B, Qwen 45x2.7B, Qwen 30x2.7B, Mixtral 8x7B, Mixtral 6x7B, Mixtral 4x7B|
 | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://arxiv.org/pdf/2410.01335) |2024 |Arxiv | LLAMA 3.1 8B |
 | [Learning to Route Among Specialized Experts for Zero-Shot Generalization](https://arxiv.org/pdf/2402.05859)|2024  | ICML  |
@@ -927,6 +930,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Look the Other Way: Designing ‘Positive’ Molecules with Negative Data via Task Arithmetic](https://arxiv.org/pdf/2507.17876)| 2025 |  Arxiv|
+| [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
+| [Distilling a speech and music encoder with task arithmetic](https://arxiv.org/pdf/2505.13270)| 2025 |  Arxiv|
 | [MedSAMix: A Training-Free Model Merging Approach for Medical Image Segmentation](https://arxiv.org/pdf/2508.11032)| 2025 |  Arxiv|
 | [Oscillation-Reduced MXFP4 Training for Vision Transformers](https://arxiv.org/pdf/2502.20853v2)| 2025 |  ICML |
 | [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
