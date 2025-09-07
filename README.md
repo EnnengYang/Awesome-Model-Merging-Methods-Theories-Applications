@@ -188,6 +188,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Understanding Mode Connectivity via Parameter Space Symmetry](https://openreview.net/pdf?id=E8dMQGsKZv) | 2025 | ICML |
 | [Update Your Transformer to the Latest Release: Re-Basin of Task Vectors](https://arxiv.org/pdf/2505.22697)| 2025 | ICML  |
 | [Model Assembly Learning with Heterogeneous Layer Weight Merging](https://arxiv.org/pdf/2503.21657)| 2025 | ICLR Workshop |
 | [Beyond the Permutation Symmetry of Transformers: The Role of Rotation for Model Fusion](https://arxiv.org/pdf/2502.00264)| 2025 | Arxiv |
@@ -493,6 +494,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Soup-of-Experts: Pretraining Specialist Models via Parameters Averaging](https://openreview.net/forum?id=MFNIka7nx0)| 2025 |  ICML |
  | [Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging](https://arxiv.org/pdf/2505.14136)| 2025 |  Arxiv |
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
  | [Model Merging in Pre-training of Large Language Models](https://arxiv.org/pdf/2505.12082)| 2025 |  Arxiv |Seed-MoE-1.3B/13B, SeedMoE-10B/100B, Seed-MoE-15B/150B |
@@ -688,6 +690,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
   | [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](https://arxiv.org/pdf/2506.21260)| 2025 | Arxiv |
   | [Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/pdf/2508.08165)| 2025 | ICCV |
   | [Forgetting of task-specific knowledge in model merging-based continual learning](https://arxiv.org/pdf/2507.23311)| 2025 | Arxiv |
