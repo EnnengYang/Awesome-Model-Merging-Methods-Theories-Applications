@@ -517,6 +517,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Kwai Keye-VL 1.5 Technical Report](https://arxiv.org/pdf/2509.01563)| 2025 |  Arxiv |Keye-VL-8B
   | [Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic](https://arxiv.org/pdf/2509.01363)| 2025 |  Arxiv | QWEN2.5-7B|
   | [Surrogate Benchmarks for Model Merging Optimization](https://arxiv.org/pdf/2509.02555)| 2025 |  Arxiv| EvoLLM-JP-v1-7B, shisa-gamma-7b-v1 |
   | [Tensorized Clustered LoRA Merging for Multi-Task Interference](https://arxiv.org/pdf/2508.03999)| 2025 |  Arxiv| Mistral-7B
