@@ -519,6 +519,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Harnessing Optimization Dynamics for Curvature-Informed Model Merging](https://arxiv.org/pdf/2509.11167)| 2025 |  Arxiv | Llama-3.1-8B
   | [Kwai Keye-VL 1.5 Technical Report](https://arxiv.org/pdf/2509.01563)| 2025 |  Arxiv |Keye-VL-8B
   | [Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic](https://arxiv.org/pdf/2509.01363)| 2025 |  Arxiv | QWEN2.5-7B|
   | [Surrogate Benchmarks for Model Merging Optimization](https://arxiv.org/pdf/2509.02555)| 2025 |  Arxiv| EvoLLM-JP-v1-7B, shisa-gamma-7b-v1 |
