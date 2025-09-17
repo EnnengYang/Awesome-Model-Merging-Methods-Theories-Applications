@@ -367,6 +367,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Black-box Model Merging for Language-Model-as-a-Service with Massive Model Repositories](https://arxiv.org/pdf/2509.12951)| 2025 | Arxiv  |
 | [Rethinking Layer-wise Model Merging through Chain of Merges](https://arxiv.org/pdf/2508.21421v1)| 2025 | Arxiv  |Llama 3-8B
 | [Competition and Attraction Improve Model Fusion](https://arxiv.org/pdf/2508.16204)| 2025 | Arxiv  | WizardMath 7B v1.0, AgentEvol 7B
 | [PSO-Merging: Merging Models Based on Particle Swarm Optimization](https://arxiv.org/pdf/2508.19839)| 2025 | Arxiv  | Llama-3-8B, Llama-2-13B, and Mistral-7B-v0.3 | 
@@ -691,6 +692,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [HAM: Hierarchical Adapter Merging for Scalable Continual Learning](https://arxiv.org/pdf/2509.13211)| 2025 | Arxiv |
   | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
   | [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](https://arxiv.org/pdf/2506.21260)| 2025 | Arxiv |
   | [Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/pdf/2508.08165)| 2025 | ICCV |
