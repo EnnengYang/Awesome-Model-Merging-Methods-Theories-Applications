@@ -836,6 +836,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://arxiv.org/pdf/2509.12697)| 2025 | Arxiv | LLaMA-7B
 | [Intrinsic Training Signals for Federated Learning Aggregation](https://arxiv.org/pdf/2507.06813)| 2025 | ICIAP |
 | [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/pdf/2508.12386)| 2025 | Arxiv |
 | [A Single Merging Suffices: Recovering Server-based Learning Performance in Decentralized Learning](https://arxiv.org/pdf/2507.06542)| 2025 | Arxiv |
