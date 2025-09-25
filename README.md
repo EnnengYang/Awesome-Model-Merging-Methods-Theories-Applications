@@ -240,6 +240,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Variational Task Vector Composition](https://arxiv.org/pdf/2509.18208)| 2025 |NeurIPS  |
 | [RegMean++: Enhancing Effectiveness and Generalization of Regression Mean for Model Merging](https://arxiv.org/pdf/2508.03121)| 2025 |Arxiv  |
 | [CALM: Consensus-Aware Localized Merging for Multi-Task Learning](https://arxiv.org/pdf/2506.13406)| 2025 |ICML  |
 | [StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation](https://arxiv.org/pdf/2506.04567)| 2025 |Arxiv  |
