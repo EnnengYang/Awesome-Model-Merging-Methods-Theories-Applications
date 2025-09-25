@@ -272,6 +272,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Accurate and Efficient Low-Rank Model Merging in Core Space](https://arxiv.org/pdf/2509.17786)| 2025 | NeurIPS |
 | [Efficient Multi-Source Knowledge Transfer by Model Merging](https://arxiv.org/pdf/2508.19353)| 2025 | Arxiv |
 | [One Size Does Not Fit All: A Distribution-Aware Sparsification for More Precise Model Merging](https://arxiv.org/pdf/2508.06163)| 2025 | Arxiv |
 | [NegMerge: Sign-Consensual Weight Merging for Machine Unlearning](https://openreview.net/pdf?id=ZbWXovStjD)| 2025 | ICML |
@@ -439,6 +440,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Personality Vector: Modulating Personality of Large Language Models by Model Merging](https://arxiv.org/pdf/2509.19727)| 2025 | EMNLP  | Llama-3.1-8B-Instruct, Qwen2.5-7B-Instruct |
 | [SafeMERGE: Preserving Safety Alignment in Fine-Tuned LLMs via Selective Layer-Wise Model Merging](https://arxiv.org/pdf/2503.17239v1)| 2025 | Arxiv  |Llama-2-7B-Chat, Qwen-2-7B-Instruct |
 | [Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2502.10762)| 2025 | Arxiv  |LLaMA-2 7B
 | [Model soup for better rlhf: Weight space averaging to improve alignment in llms](https://openreview.net/forum?id=QNW3Z3f5SD)| 2024 | NeurIPS 2024 Workshop  | Llama2-7B, Mistral-7B, Gemma-2B |
@@ -692,6 +694,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [AIMMerging: Adaptive Iterative Model Merging Using Training Trajectories for Language Model Continual Learning](https://arxiv.org/pdf/2509.17348)| 2025 | EMNLP | LLaMA2-7B, LLaMA2-13B |
   | [HAM: Hierarchical Adapter Merging for Scalable Continual Learning](https://arxiv.org/pdf/2509.13211)| 2025 | Arxiv |
   | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
   | [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](https://arxiv.org/pdf/2506.21260)| 2025 | Arxiv |
