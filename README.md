@@ -943,6 +943,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.19781)| 2025 |  Arxiv|
 | [Look the Other Way: Designing ‘Positive’ Molecules with Negative Data via Task Arithmetic](https://arxiv.org/pdf/2507.17876)| 2025 |  Arxiv|
 | [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
 | [Distilling a speech and music encoder with task arithmetic](https://arxiv.org/pdf/2505.13270)| 2025 |  Arxiv|
