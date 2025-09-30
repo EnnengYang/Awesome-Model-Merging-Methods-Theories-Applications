@@ -695,6 +695,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Null-Space Filtering for Data-Free Continual Model Merging: Preserving Transparency, Promoting Fidelity](https://arxiv.org/pdf/2509.21413v1)| 2025  |Arxiv  |
   | [AIMMerging: Adaptive Iterative Model Merging Using Training Trajectories for Language Model Continual Learning](https://arxiv.org/pdf/2509.17348)| 2025 | EMNLP | LLaMA2-7B, LLaMA2-13B |
   | [HAM: Hierarchical Adapter Merging for Scalable Continual Learning](https://arxiv.org/pdf/2509.13211)| 2025 | Arxiv |
   | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
@@ -705,7 +706,7 @@ Thanks!
   | [RegCL: Continual Adaptation of Segment Anything Model via Model Merging](https://arxiv.org/pdf/2507.12297) | 2025 | Arxiv |
   | [Continual Learning in Vision-Language Models via Aligned Model Merging](http://arxiv.org/abs/2506.03189) | 2025 | Arxiv |
   | [Train with Perturbation, Infer after Merging: A Two-Stage Framework for Continual Learning](https://arxiv.org/pdf/2505.22389)| 2025  |Arxiv  |
-  | [MINGLE: Mixtures of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging](https://arxiv.org/pdf/2505.11883)| 2025  |Arxiv  |
+  | [MINGLE: Mixture of Null-Space Gated Low-Rank Experts for Test-Time Continual Model Merging](https://arxiv.org/pdf/2505.11883)| 2025  |NeurIPS  |
   | [Analysis of Model Merging Methods for Continual Updating of Foundation Models in Distributed Data Settings](https://www.mdpi.com/2076-3417/15/9/5196)| 2025  |Arxiv  |  Applied Sciences
   | [BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/pdf/2504.02666v1)| 2025  |Arxiv  |
   | [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025  |Arxiv  | Llama-3-8B-Instruct |
