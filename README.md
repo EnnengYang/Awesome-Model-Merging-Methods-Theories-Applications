@@ -526,6 +526,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](https://arxiv.org/pdf/2510.00810)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
   | [The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging](https://arxiv.org/pdf/2509.22034)| 2025 | Arxiv | Qwen3-30B-A3B-Thinking-2507, Qwen3-30B-A3B-Instruct-2507 |
   | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
@@ -635,6 +636,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models](https://arxiv.org/pdf/2510.01845)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
   | [UQ-Merge: Uncertainty Guided Multimodal Large Language Model Merging](https://aclanthology.org/2025.findings-acl.73.pdf)| 2025 | ACL |  LLaVA-v1.5-7B |
   | [Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs](https://arxiv.org/pdf/2506.23940)| 2025 | Arxiv | Qwen2-VL-2B |
