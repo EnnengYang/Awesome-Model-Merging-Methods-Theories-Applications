@@ -401,6 +401,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [How does the optimizer implicitly bias the model merging loss landscape?](https://arxiv.org/pdf/2510.04686)| 2025 | Arxiv |
 | [On Task Vectors and Gradients](https://www.arxiv.org/pdf/2508.16082)| 2025 | Arxiv |
 | [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2025 | Arxiv | Ling-mini-16B
 | [Why Do More Experts Fail? A Theoretical Analysis of Model Merging](https://arxiv.org/pdf/2505.21226) | 2025 | Arxiv |
@@ -653,6 +654,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Rethinking Inter-LoRA Orthogonality in Adapter Merging: Insights from Orthogonal Monte Carlo Dropout](https://arxiv.org/pdf/2510.03262)| 2025 | Arxiv |
 | [BlockLoRA: Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation](https://arxiv.org/pdf/2503.08575v1)| 2025 | Arxiv |
 | [LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation](https://arxiv.org/pdf/2412.05148)| 2024 | Arxiv | LLaVA-Critic 7b |
 | [IterIS: Iterative Inference-Solving Alignment for LoRA Merging](https://arxiv.org/pdf/2411.15231) | 2024 | Arxiv |
@@ -782,6 +784,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merge and Guide: Unifying Model Merging and Guided Decoding for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2510.03782) | 2025 | Arxiv  | LLaMA-2-7B
   | [Pareto Merging: Multi-Objective Optimization for Preference-Aware Model Merging](https://openreview.net/pdf?id=D7qRwx6BOS)| 2025 | ICML  |
   | [Bone Soups: A Seek-and-Soup Model Merging Approach for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2502.10762)| 2025 | Arxiv  |LLaMA-2 7B
   | [You Only Merge Once: Learning the Pareto Set of Preference-Aware Model Merging](https://arxiv.org/pdf/2408.12105) |  2024 |Arxiv  |
@@ -924,6 +927,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Backdoor Vectors: a Task Arithmetic View on Backdoor Attacks and Defenses](https://arxiv.org/pdf/2510.08016)| 2025  | Arxiv |
 | [Merge Now, Regret Later: The Hidden Cost of Model Merging is Adversarial Transferability](https://arxiv.org/pdf/2509.23689)| 2025  | Arxiv |
 | [Be Cautious When Merging Unfamiliar LLMs: A Phishing Model Capable of Stealing Privacy](https://aclanthology.org/2025.findings-acl.713.pdf)| 2025  | ACL | Llama-3.2-3b-it, Gemma-2-2b-it, Qwen-2.5-3b-it, and Phi-3.5-mini-it |
 | [Merge Hijacking: Backdoor Attacks to Model Merging of Large Language Models](https://arxiv.org/pdf/2505.23561)| 2025  | Arxiv | LLaMA3.1-8B
