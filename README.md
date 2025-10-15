@@ -79,6 +79,7 @@ Thanks!
     - [Detoxification of LLMs](#detoxification-of-llms)
     - [Knowledge Editing/Unlearning of LLMs](#knowledge-editingunlearning-of-llms)
     - [Faster Training of LLMs](#faster-training-of-llms)
+    - [Faster Reasoning of LLMs](#faster-reasoning-of-llms)
     - [Improving Computational Efficiency of MoE-based LLM](#improving-computational-efficiency-of-moe-based-llm)
     - [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
   - [Model Merging in Multimodal Large Language Models](#model-merging-in-multimodal-large-language-models)
