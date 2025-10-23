@@ -545,7 +545,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
-  | [Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](https://arxiv.org/pdf/2510.14915)| 2025 | Arxiv | Llama-3.1-8B-Instruct and Gemma-3-12BInstruct
+  | [Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](https://arxiv.org/pdf/2510.14915)| 2025 | Arxiv | Llama-3.1-8B-Instruct and Gemma-3-12B-Instruct
   | [ABC: Towards a Universal Code Styler through Model Merging](https://dl.acm.org/doi/pdf/10.1145/3763104)| 2025 | ACM on Programming Languages | Qwen2.5-Coder, Deepseek-Coder |
   | [Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](https://arxiv.org/pdf/2510.00810)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
@@ -656,7 +656,6 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
-
   | [Tiny-R1V: Lightweight Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/pdf/2510.08987)| 2025 | Arxiv |
   | [Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models](https://arxiv.org/pdf/2510.01845)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
