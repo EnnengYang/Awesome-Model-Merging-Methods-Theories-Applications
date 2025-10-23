@@ -342,6 +342,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MIN-Merging: Merge the Important Neurons for Model Merging](https://arxiv.org/pdf/2510.17890) | 2025 | Arxiv |
 | [SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging](https://arxiv.org/pdf/2506.18135) | 2025 | Arxiv |
 | [Adaptive Task Vectors for Large Language Models](https://arxiv.org/pdf/2506.03426) | 2025 | Arxiv |LLaMA3-8B and Mistral-7B |
 | [Dynamic Fisher-weighted Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2504.18992)| 2025 | Arxiv |
@@ -455,6 +456,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426)| 2025 | Arxiv  | Gemma-3-12B, Gemma-3-27B, Qwen2.5-7B |
 | [BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation](https://arxiv.org/pdf/2510.10157)| 2025 | Arxiv  |Qwen-2.5-7B-Instruct, Llama-3.1-8B-Instruct |
 | [Personality Vector: Modulating Personality of Large Language Models by Model Merging](https://arxiv.org/pdf/2509.19727)| 2025 | EMNLP  | Llama-3.1-8B-Instruct, Qwen2.5-7B-Instruct |
 | [SafeMERGE: Preserving Safety Alignment in Fine-Tuned LLMs via Selective Layer-Wise Model Merging](https://arxiv.org/pdf/2503.17239v1)| 2025 | Arxiv  |Llama-2-7B-Chat, Qwen-2-7B-Instruct |
@@ -535,6 +537,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Expert Merging in Sparse Mixture of Experts with Nash Bargaining](https://arxiv.org/pdf/2510.16138)| 2025 |Arxiv  |Qwen1.5-MoE-14B, DeepSeek-MoE-16B |
  | [MergeMoE: Efficient Compression of MoE Models via Expert Output Merging](https://arxiv.org/pdf/2510.14436)| 2025 |Arxiv  | DeepSeekMoE, Qwen1.5-MoE-A2.7B, and Qwen3-30B-A3B |
  | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  | 
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
@@ -545,6 +548,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Adapting Multilingual Models to Code-Mixed Tasks via Model Merging](https://arxiv.org/pdf/2510.19782)| 2025 | Arxiv |
   | [Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](https://arxiv.org/pdf/2510.14915)| 2025 | Arxiv | Llama-3.1-8B-Instruct and Gemma-3-12B-Instruct
   | [ABC: Towards a Universal Code Styler through Model Merging](https://dl.acm.org/doi/pdf/10.1145/3763104)| 2025 | ACM on Programming Languages | Qwen2.5-Coder, Deepseek-Coder |
   | [Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](https://arxiv.org/pdf/2510.00810)| 2025 | Arxiv |
