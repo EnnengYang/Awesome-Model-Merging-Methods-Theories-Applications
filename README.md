@@ -736,6 +736,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging](https://arxiv.org/pdf/2510.20479)| 2025  |Arxiv  |Qwen2-7B-Instruct, Llama-2-7B-chat |
   | [DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection](https://arxiv.org/pdf/2503.09271)| 2025 | NeurIPS |
   | [K-Merge: Online Continual Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2510.13537)| 2025  |Arxiv  |
   | [Toward a Holistic Approach to Continual Model Merging](https://arxiv.org/pdf/2509.23592)| 2025  |Arxiv  |
