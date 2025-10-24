@@ -121,6 +121,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.sciencedirect.com/science/article/pii/S295016012500049X)| 2025 | Arxiv |
 | [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv |
 | [SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques](https://arxiv.org/pdf/2410.12927)| 2024 | Arxiv |
 | [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)| 2024 | Arxiv |
@@ -133,6 +134,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Towards Performance Consistency in Multi-Level Model Collaboration](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Towards_Performance_Consistency_in_Multi-Level_Model_Collaboration_ICCV_2025_paper.pdf)| 2025 | ICCV |
 | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
 | [FBMS: An R Package for Flexible Bayesian Model Selection and Model Averaging](https://arxiv.org/pdf/2509.00753)| 2025 | Arxiv |
 | [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
