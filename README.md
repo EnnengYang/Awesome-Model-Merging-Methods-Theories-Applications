@@ -385,6 +385,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging with Functional Dual Anchors](https://arxiv.org/pdf/2510.21223)| 2025 | Arxiv  |
 | [Black-box Model Merging for Language-Model-as-a-Service with Massive Model Repositories](https://arxiv.org/pdf/2509.12951)| 2025 | Arxiv  |
 | [Rethinking Layer-wise Model Merging through Chain of Merges](https://arxiv.org/pdf/2508.21421v1)| 2025 | Arxiv  |Llama 3-8B
 | [Competition and Attraction Improve Model Fusion](https://arxiv.org/pdf/2508.16204)| 2025 | Arxiv  | WizardMath 7B v1.0, AgentEvol 7B
@@ -994,6 +995,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging](https://arxiv.org/pdf/2510.26546)| 2025 |  Arxiv | Qwen2-7B
 | [Effect of Model Merging in Domain-Specific Ad-hoc Retrieval](https://arxiv.org/pdf/2509.21966)| 2025 |  Arxiv|
 | [Look the Other Way: Designing ‘Positive’ Molecules with Negative Data via Task Arithmetic](https://arxiv.org/pdf/2507.17876)| 2025 |  Arxiv|
 | [Transferring Visual Explainability of Self-Explaining Models through Task Arithmetic](https://arxiv.org/pdf/2507.04380)| 2025 |  Arxiv|
