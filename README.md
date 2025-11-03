@@ -251,6 +251,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis](https://arxiv.org/pdf/2510.27265)| 2025 | Arxiv |
 | [Weight Weaving: Parameter Pooling for Data-Free Model Merging](https://arxiv.org/pdf/2510.13921)| 2025 | Arxiv |
 | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
 | [Variational Task Vector Composition](https://arxiv.org/pdf/2509.18208)| 2025 |NeurIPS  |
