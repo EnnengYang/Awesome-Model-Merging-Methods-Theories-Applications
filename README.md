@@ -251,6 +251,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Superpose Task-specific Features for Model Merging](https://aclanthology.org/2025.emnlp-main.210.pdf)| 2025 | EMNLP | Llama-2-7B
 | [T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis](https://arxiv.org/pdf/2510.27265)| 2025 | Arxiv |
 | [Weight Weaving: Parameter Pooling for Data-Free Model Merging](https://arxiv.org/pdf/2510.13921)| 2025 | Arxiv |
 | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
@@ -541,6 +542,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | 
  | [Expert Merging in Sparse Mixture of Experts with Nash Bargaining](https://arxiv.org/pdf/2510.16138)| 2025 |Arxiv  |Qwen1.5-MoE-14B, DeepSeek-MoE-16B |
  | [MergeMoE: Efficient Compression of MoE Models via Expert Output Merging](https://arxiv.org/pdf/2510.14436)| 2025 |Arxiv  | DeepSeekMoE, Qwen1.5-MoE-A2.7B, and Qwen3-30B-A3B |
  | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  | 
@@ -552,6 +554,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Extracting and Combining Abilities For Building Multi-lingual Ability-enhanced Large Language Models](https://aclanthology.org/2025.emnlp-main.887.pdf)| 2025 | EMNLP | LLaMA-3 8B
+  | [Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging](https://aclanthology.org/2025.arabicnlp-main.27.pdf)| 2025 | arabicnlp | 
   | [Adapting Multilingual Models to Code-Mixed Tasks via Model Merging](https://arxiv.org/pdf/2510.19782)| 2025 | Arxiv |
   | [Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](https://arxiv.org/pdf/2510.14915)| 2025 | Arxiv | Llama-3.1-8B-Instruct and Gemma-3-12B-Instruct
   | [ABC: Towards a Universal Code Styler through Model Merging](https://dl.acm.org/doi/pdf/10.1145/3763104)| 2025 | ACM on Programming Languages | Qwen2.5-Coder, Deepseek-Coder |
@@ -760,6 +764,7 @@ Thanks!
   | [BECAME: BayEsian Continual Learning with Adaptive Model MErging](https://arxiv.org/pdf/2504.02666v1)| 2025  |Arxiv  |
   | [Merge then Realign: Simple and Effective Modality-Incremental Continual Learning for Multimodal LLMs](https://arxiv.org/pdf/2503.07663)| 2025  |Arxiv  | Llama-3-8B-Instruct |
   | [Cost-Efficient Continual Learning with Sufficient Exemplar Memory](https://arxiv.org/pdf/2502.07274)| 2025  |Arxiv  | |
+  | [Continual Model Merging without Data: Dual Projections for Balancing Stability and Plasticity](https://openreview.net/pdf?id=zD5cUX67b9)| 2025  |NeurIPS  | |
   | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |NeurIPS  | |
   | [Soup to go: mitigating forgetting during continual learning with model averaging](https://arxiv.org/pdf/2501.05559) | 2025 |Arxiv  | Llama 2 (7B) |
   | [Adapter Merging with Centroid Prototype Mapping for Scalable Class-Incremental Learning](https://arxiv.org/pdf/2412.18219)| 2024 |Arxiv  |
