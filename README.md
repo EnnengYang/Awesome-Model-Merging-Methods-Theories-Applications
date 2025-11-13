@@ -542,7 +542,8 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
- | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | 
+ | [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference](https://arxiv.org/pdf/2511.04805)| 2025 | Arxiv  | Mixtral-8x7B, Deepseek-MoE
+ | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | LLaMA-3.1-8B
  | [Expert Merging in Sparse Mixture of Experts with Nash Bargaining](https://arxiv.org/pdf/2510.16138)| 2025 |Arxiv  |Qwen1.5-MoE-14B, DeepSeek-MoE-16B |
  | [MergeMoE: Efficient Compression of MoE Models via Expert Output Merging](https://arxiv.org/pdf/2510.14436)| 2025 |Arxiv  | DeepSeekMoE, Qwen1.5-MoE-A2.7B, and Qwen3-30B-A3B |
  | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  | 
@@ -554,6 +555,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SPEAR-MM: Selective Parameter Evaluation and Restoration via Model Merging for Efficient Financial LLM Adaptation](https://arxiv.org/pdf/2511.08500)| 2025 | Arxiv |
   | [Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance](https://arxiv.org/pdf/2511.02451)| 2025 | Arxiv | Llama-3-8B, Llama-2-7B 
   | [Extracting and Combining Abilities For Building Multi-lingual Ability-enhanced Large Language Models](https://aclanthology.org/2025.emnlp-main.887.pdf)| 2025 | EMNLP | LLaMA-3 8B
   | [Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging](https://aclanthology.org/2025.arabicnlp-main.27.pdf)| 2025 | arabicnlp | 
@@ -930,6 +932,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models](https://arxiv.org/pdf/2511.05171) |2025 |NeurIPS Workshop | LLAMA-3.1-8B-INSTRUCT
 | [Investigating Task Arithmetic for Zero-Shot Information Retrieval](https://arxiv.org/pdf/2505.00649) |2025 |SIGIR |  LLama-2-7b
 | [Retraining-Free Merging of Sparse Mixture-of-Experts via Hierarchical Clustering](https://arxiv.org/pdf/2410.08589) |2024 |Arxiv | Qwen 60x2.7B, Qwen 45x2.7B, Qwen 30x2.7B, Mixtral 8x7B, Mixtral 6x7B, Mixtral 4x7B|
 | [Layer Swapping for Zero-Shot Cross-Lingual Transfer in Large Language Models](https://arxiv.org/pdf/2410.01335) |2024 |Arxiv | LLAMA 3.1 8B |
