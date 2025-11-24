@@ -121,7 +121,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
-| [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.sciencedirect.com/science/article/pii/S295016012500049X)| 2025 | Arxiv |
+| [Scaling Intelligence Through Model Merging: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290780/preprint_pdf/716bd23c7315eead7ee9fd24fa7b4290.pdf)| 2025 | Preprint |
+| [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.sciencedirect.com/science/article/pii/S295016012500049X)| 2025 | Preprint |
 | [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv |
 | [SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques](https://arxiv.org/pdf/2410.12927)| 2024 | Arxiv |
 | [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)| 2024 | Arxiv |
@@ -144,7 +145,7 @@ Thanks!
 | [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
 | [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](https://arxiv.org/pdf/2410.10801)| 2024 | Arxiv |  Aya 23 8B
 | [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](https://arxiv.org/pdf/2410.13841)| 2024 | Arxiv | LLaMA3-8B-Instruct,  Qwen2-7B-Instruct, Mistral-7B-Instruct-v0.3,
-| [Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild](https://arxiv.org/pdf/2410.05357) |2024 | NeurIPS Track on Datasets and Benchmarks | Synthia-7B-v1.2, Llama-2-7b-evolcodealpaca, OpenHermes-7B, pygmalion-2-7b, Llama-2-7b-chat-hf, BeingWell_llama2_7b, MetaMath-7B-V1.0, vicuna-7b-v1.5, Platypus2-7B, GOAT-7B-Community, Llama-2-7b-WikiChat-fused, dolphin-llama2-7b, MetaMath-Llemma-7B, CodeLlama-7b-Instruct-hf, Magicoder-S-CL-7B , CrystalChat|
+| [Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild](https://arxiv.org/pdf/2410.05357) |2024 | NeurIPS Track on Datasets and Benchmarks | Synthia-7B-v1.2, Llama-2-7b-evolcodealpaca, OpenHermes-7B, pygmalion-2-7b, Llama-2-7b-chat-hf, BeingWell_llama2_7b, MetaMath-7B-V1.0, vicuna-7b-v1.5, Platypus2-7B, GOAT-7B-Community, Llama-2-7b-WikiChat-fused, dolphin-llama2-7b, MetaMath-Llemma-7B, CodeLlama-7b-Instruct-hf, Magicoder-S-CL-7B, CrystalChat|
 | [What Matters for Model Merging at Scale?](https://arxiv.org/pdf/2410.03617)| 2024 | Arxiv | PaLM-2 (1B, 8B, 24B, 64B), PaLM-2-IT (1B, 8B, 24B, 64B)|
 | [Realistic Evaluation of Model Merging for Compositional Generalization](https://arxiv.org/pdf/2409.18314)| 2024 | Arxiv |
 | [Fine-tuning large language models for domain adaptation: Exploration of training strategies, scaling, model merging and synergistic capabilities](https://arxiv.org/pdf/2409.03444) | 2024 | Arxiv |Llama-3.1-8B, Mistral-7B-v0.3|
