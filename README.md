@@ -558,6 +558,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140) | 2026 |  AAAI | Qwen2.5-7B, Llama3.1-8B
   | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
   | [SPEAR-MM: Selective Parameter Evaluation and Restoration via Model Merging for Efficient Financial LLM Adaptation](https://arxiv.org/pdf/2511.08500)| 2025 | Arxiv |
   | [Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance](https://arxiv.org/pdf/2511.02451)| 2025 | Arxiv | Llama-3-8B, Llama-2-7B 
@@ -575,7 +576,6 @@ Thanks!
   | [Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic](https://arxiv.org/pdf/2509.01363)| 2025 |  Arxiv | QWEN2.5-7B|
   | [Surrogate Benchmarks for Model Merging Optimization](https://arxiv.org/pdf/2509.02555)| 2025 |  Arxiv| EvoLLM-JP-v1-7B, shisa-gamma-7b-v1 |
   | [Tensorized Clustered LoRA Merging for Multi-Task Interference](https://arxiv.org/pdf/2508.03999)| 2025 |  Arxiv| Mistral-7B
-  | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140)| 2025 |  Arxiv| Qwen2.5-7B, Llama3.1-8B
   | [Efficient Compositional Multi-tasking for On-device Large Language Models](https://arxiv.org/pdf/2507.16083)| 2025 |  Arxiv|  Llama 3.1 70B
   | [HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging](https://arxiv.org/pdf/2507.17706)| 2025 |  Arxiv|
   | [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://arxiv.org/pdf/2507.07140)| 2025 |  Arxiv|
