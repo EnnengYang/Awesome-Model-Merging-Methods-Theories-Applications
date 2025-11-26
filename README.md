@@ -390,6 +390,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Escaping Optimization Stagnation: Taking Steps Beyond Task Arithmetic via Difference Vectors](https://arxiv.org/pdf/2511.17987)| 2025 | Arxiv  |
 | [Model Merging with Functional Dual Anchors](https://arxiv.org/pdf/2510.21223)| 2025 | Arxiv  |
 | [Black-box Model Merging for Language-Model-as-a-Service with Massive Model Repositories](https://arxiv.org/pdf/2509.12951)| 2025 | Arxiv  |
 | [Rethinking Layer-wise Model Merging through Chain of Merges](https://arxiv.org/pdf/2508.21421v1)| 2025 | Arxiv  |Llama 3-8B
@@ -675,6 +676,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning](https://arxiv.org/pdf/2511.08246)| 2026 | AAAI | Qwen-VL-7B, Idefics2-8B
+  | [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](https://arxiv.org/pdf/2511.19434)| 2025 | Arxiv | Qwen2.5-0.5B
   | [Tiny-R1V: Lightweight Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/pdf/2510.08987)| 2025 | Arxiv |
   | [Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models](https://arxiv.org/pdf/2510.01845)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
@@ -751,6 +754,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merging without Forgetting: Continual Fusion of Task-Specific Models via Optimal Transport](https://arxiv.org/pdf/2511.19561)| 2025  |Arxiv  |
   | [MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/pdf/2511.13099)| 2025  |Arxiv  |
   | [RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via Hierarchical Model Merging](https://arxiv.org/pdf/2510.20479)| 2025  |Arxiv  |Qwen2-7B-Instruct, Llama-2-7B-chat |
   | [DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection](https://arxiv.org/pdf/2503.09271)| 2025 | NeurIPS |
