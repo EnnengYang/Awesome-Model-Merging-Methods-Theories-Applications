@@ -135,6 +135,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/pdf/2511.21437)| 2025 | Arxiv | Llama-3.2-3B-Instruct, Llama-3.1-8B-Instruct, Qwen3-4B, Qwen3-8B
 | [FusionBench: A Comprehensive Benchmark of Deep Model Fusion](https://arxiv.org/pdf/2406.03280)| 2025 | JMLR | Mistral-7B-v0.1, MetaMath-Mistral-7B, dolphin-2.1-mistral-7b, speechless-code-mistral-7b-v1.0
 | [Towards Performance Consistency in Multi-Level Model Collaboration](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Towards_Performance_Consistency_in_Multi-Level_Model_Collaboration_ICCV_2025_paper.pdf)| 2025 | ICCV |
 | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
@@ -167,10 +168,12 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR |
-| [Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic](https://arxiv.org/pdf/2407.07089) | 2024 |  Arxiv |
 | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/pdf?id=VLFhbOCz5D) | 2024 |ICLR  |
 | [Parameter Efficient Multi-task Model Fusion with Partial Linearization](https://openreview.net/pdf?id=iynRvVVAmH) |  2024 |ICLR  |
 | [Task Arithmetic in the Tangent Space: Improved Editing of Pre-Trained Models](https://openreview.net/pdf?id=0A9f2jZDGW) | 2023 | NeurIPS |
+
+<!-- | [Fine-Tuning Linear Layers Only Is a Simple yet Effective Way for Task Arithmetic](https://arxiv.org/pdf/2407.07089) | 2024 |  Arxiv | -->
+
 
 ##### Subspace Fine-tuning
 
