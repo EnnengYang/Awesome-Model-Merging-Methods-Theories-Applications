@@ -1020,6 +1020,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://arxiv.org/pdf/2511.18660)| 2025 |  Arxiv | 
 | [RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation](https://le-wu.com/files/Publications/CONFERENCES/AAAI26-RecCocktail.pdf)| 2025 |  AAAI | Llama-3.1-8B
 | [A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/pdf/2511.13373)| 2025 |  Arxiv | Mistral-7B
 | [WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging](https://arxiv.org/pdf/2510.26546)| 2025 |  Arxiv | Qwen2-7B
