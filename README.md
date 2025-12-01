@@ -384,9 +384,8 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
 | [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G)|2025  | ICML |
-| [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.19098)|2024  | Arxiv |
 | [Parameter-Efficient Interventions for Enhanced Model Merging](https://arxiv.org/pdf/2412.17023)|2024  | Arxiv |
-| [Rethink the Evaluation Protocol of Model Merging on Classification Task](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
+| [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
 | [SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery](https://arxiv.org/pdf/2410.14389)|2024  | Arxiv |
 | [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf/602906ec02919eb95d78d634321fcba1b68a2f03.pdf) |2024  | ICML |
 
