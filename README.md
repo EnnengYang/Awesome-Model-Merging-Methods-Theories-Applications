@@ -383,6 +383,7 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
+| [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G)|2025  | ICML |
 | [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.19098)|2024  | Arxiv |
 | [Parameter-Efficient Interventions for Enhanced Model Merging](https://arxiv.org/pdf/2412.17023)|2024  | Arxiv |
 | [Rethink the Evaluation Protocol of Model Merging on Classification Task](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
@@ -1020,6 +1021,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Group-Aware Partial Model Merging for Children’s Automatic Speech Recognition](https://arxiv.org/pdf/2511.23098)| 2025 |  Arxiv | 
 | [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://arxiv.org/pdf/2511.18660)| 2025 |  Arxiv | 
 | [RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation](https://le-wu.com/files/Publications/CONFERENCES/AAAI26-RecCocktail.pdf)| 2025 |  AAAI | Llama-3.1-8B
 | [A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/pdf/2511.13373)| 2025 |  Arxiv | Mistral-7B
