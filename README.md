@@ -263,7 +263,6 @@ Thanks!
 | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
 | [Variational Task Vector Composition](https://arxiv.org/pdf/2509.18208)| 2025 |NeurIPS  |
 | [RegMean++: Enhancing Effectiveness and Generalization of Regression Mean for Model Merging](https://arxiv.org/pdf/2508.03121)| 2025 |Arxiv  |
-| [CALM: Consensus-Aware Localized Merging for Multi-Task Learning](https://arxiv.org/pdf/2506.13406)| 2025 |ICML  |
 | [StatsMerging: Statistics-Guided Model Merging via Task-Specific Teacher Distillation](https://arxiv.org/pdf/2506.04567)| 2025 |Arxiv  |
 | [SeMe: Training-Free Language Model Merging via Semantic Alignment](https://arxiv.org/pdf/2505.20144)| 2025 |Arxiv  |
 | [NAN: A Training-Free Solution to Coefficient Estimation in Model Merging](https://arxiv.org/pdf/2505.16148)| 2025 |Arxiv  |LLaMA2-13B, WizardLM-13B, WizardMath-13B, LLaVA-v1.5-13B, LLaVA-1.6-13B, Math-LLaVA|
@@ -303,6 +302,7 @@ Thanks!
 | [Training-free LLM Merging for Multi-task Learning](https://arxiv.org/pdf/2506.12379)| 2025 | Arxiv |
 | [Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data](https://arxiv.org/pdf/2506.09093)| 2025 | Arxiv |
 | [Locate-then-Merge: Neuron-Level Parameter Fusion for Mitigating Catastrophic Forgetting in Multimodal LLMs](https://arxiv.org/pdf/2505.16703)| 2025 | Arxiv | Mistral-7B, Llama3-8B |
+| [CALM: Consensus-Aware Localized Merging for Multi-Task Learning](https://arxiv.org/pdf/2506.13406)| 2025 |ICML  |
 | [Merge-Friendly Post-Training Quantization for Multi-Target Domain Adaptation](https://arxiv.org/pdf/2505.23651)| 2025 | ICML |
 | [Adaptive LoRA Merge with Parameter Pruning for Low-Resource Generation](https://arxiv.org/pdf/2505.24174)| 2025 | ACL | Llama-3-8B-Instruct
 | [Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking](https://arxiv.org/pdf/2505.23117)| 2025 | Arxiv | LLaMA3.1-8B
