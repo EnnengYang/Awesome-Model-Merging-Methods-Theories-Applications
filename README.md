@@ -567,6 +567,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv | 
   | [Adapting Chat Language Models Using Only Target Unlabeled Language Data](https://openreview.net/pdf?id=6IdoIKowfe)| 2025 | TMLR | Qwen2.5 7B, Llama 3.1 8B, Qwen3 14B
   | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140) | 2026 |  AAAI | Qwen2.5-7B, Llama3.1-8B
   | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
