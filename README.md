@@ -296,6 +296,7 @@ Thanks!
 | [Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging](https://arxiv.org/pdf/2512.01461) | 2025 | Arxiv |  Qwen-14B
 | [Towards Reversible Model Merging For Low-rank Weights](https://arxiv.org/pdf/2510.14163) | 2025 | Arxiv |
 | [Purifying Task Vectors in Knowledge-Aware Subspace for Model Merging](https://arxiv.org/pdf/2510.14697)| 2025 | Arxiv | LLaMA-2-7B
+| [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://arxiv.org/pdf/2502.17159v3)| 2025 | NeurIPS | LLaVA
 | [Accurate and Efficient Low-Rank Model Merging in Core Space](https://arxiv.org/pdf/2509.17786)| 2025 | NeurIPS |
 | [Efficient Multi-Source Knowledge Transfer by Model Merging](https://arxiv.org/pdf/2508.19353)| 2025 | Arxiv |
 | [One Size Does Not Fit All: A Distribution-Aware Sparsification for More Precise Model Merging](https://arxiv.org/pdf/2508.06163)| 2025 | Arxiv |
