@@ -569,6 +569,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/pdf/2512.16245)| 2025 | Arxiv | LLaMA-3 8B, Mistral 7B, Qwen 2, Phi-3.5, Gemma 2
   | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv | 
   | [Adapting Chat Language Models Using Only Target Unlabeled Language Data](https://openreview.net/pdf?id=6IdoIKowfe)| 2025 | TMLR | Qwen2.5 7B, Llama 3.1 8B, Qwen3 14B
   | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140) | 2026 |  AAAI | Qwen2.5-7B, Llama3.1-8B
