@@ -384,6 +384,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |
 | [Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://arxiv.org/pdf/2505.23859)| 2025 |NeurIPS  |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
 | [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G)|2025  | ICML |
@@ -396,6 +397,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Bridging Training and Merging Through Momentum-Aware Optimization](https://arxiv.org/pdf/2512.17109)| 2025 | Arxiv  |
 | [From Coefficients to Directions: Rethinking Model Merging with Directional Alignment](https://arxiv.org/pdf/2512.00391)| 2025 | Arxiv  |
 | [Escaping Optimization Stagnation: Taking Steps Beyond Task Arithmetic via Difference Vectors](https://arxiv.org/pdf/2511.17987)| 2025 | Arxiv  |
 | [Model Merging with Functional Dual Anchors](https://arxiv.org/pdf/2510.21223)| 2025 | Arxiv  |
