@@ -397,6 +397,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging via Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2512.21288)| 2025 | Arxiv  |
 | [Bridging Training and Merging Through Momentum-Aware Optimization](https://arxiv.org/pdf/2512.17109)| 2025 | Arxiv  |
 | [From Coefficients to Directions: Rethinking Model Merging with Directional Alignment](https://arxiv.org/pdf/2512.00391)| 2025 | Arxiv  |
 | [Escaping Optimization Stagnation: Taking Steps Beyond Task Arithmetic via Difference Vectors](https://arxiv.org/pdf/2511.17987)| 2025 | Arxiv  |
