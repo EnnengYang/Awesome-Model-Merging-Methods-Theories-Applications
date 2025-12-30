@@ -770,6 +770,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Merge before Forget: A Single LoRA Continual Learning via Continual Merging](https://arxiv.org/pdf/2512.23017)| 2025  |Arxiv  |Llama-2-7B-chat, Llama-2-13B-chat, Qwen2.5-7B
   | [Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging](https://arxiv.org/pdf/2512.08333)| 2025  |Arxiv  |
   | [Merging without Forgetting: Continual Fusion of Task-Specific Models via Optimal Transport](https://arxiv.org/pdf/2511.19561)| 2025  |Arxiv  |
   | [MergeSlide: Continual Model Merging and Task-to-Class Prompt-Aligned Inference for Lifelong Learning on Whole Slide Images](https://arxiv.org/pdf/2511.13099)| 2025  |Arxiv  |
