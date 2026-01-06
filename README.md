@@ -862,6 +862,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
   | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA-7B, OpenLLaMA-13B |
   | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) | 2023 |Arxiv  |
 
@@ -1036,6 +1037,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
 | [System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/pdf/2512.09563)| 2025 | Arxiv |Qwen2.5-7B-Instruct
 | [Group-Aware Partial Model Merging for Children’s Automatic Speech Recognition](https://arxiv.org/pdf/2511.23098)| 2025 |  Arxiv | 
 | [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://arxiv.org/pdf/2511.18660)| 2025 |  Arxiv | 
