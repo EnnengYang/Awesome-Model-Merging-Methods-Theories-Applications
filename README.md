@@ -5,20 +5,15 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 
 > [!IMPORTANT]
 > Contributions welcome:
->
-> - If you have a relevant paper not included in the library, or have any clarification about the content of the [paper](https://arxiv.org/pdf/2408.07666), please [contact us](#contact)!  Or, you may also consider submitting 'Pull requests' directly, thank you!
->
-> - If you think your paper is more suitable for another category, please [contact us](#contact) or submit 'Pull requests'.
->
-> - If your paper is accepted, you may consider updating the relevant information.
->
-> - Thank you!
+> 
+> [Contact us](#contact) or submit a pull request for unlisted relevant papers, content clarifications, or categorization adjustments, and update relevant information once your paper is accepted. Thank you!
 
 ---
 
 ## 💥 News 💥
 
-- 🔥🔥🔥 We marked the papers that used model size **$\geq$ 7B** in experiments.
+- 🔥🔥🔥 Our [survey](https://arxiv.org/pdf/2408.07666), accepted by ACM Computing Surveys, please [cite](#citation) it or the library if helpful.
+- 🔥🔥🔥 We flagged papers using models of size **$\geq$ 7B** (or small-sized mainstream LLMs) in their experiments.
 
 ---
 
