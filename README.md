@@ -26,11 +26,10 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 >
 > Model merging is an efficient empowerment technique in the machine learning community that does not require the collection of raw training data and does not require expensive computation. As model merging becomes increasingly prevalent across various fields, it is crucial to understand the available model merging techniques comprehensively. However, there is a significant gap in the literature regarding a systematic and thorough review of these techniques. To address this gap, this survey provides a comprehensive overview of model merging methods and theories, their applications in various domains and settings, and future research directions. Specifically, we first propose a new taxonomic approach that exhaustively discusses existing model merging methods. Secondly, we discuss the application of model merging techniques in large language models, multimodal large language models, and 10+ machine learning subfields, including continual learning, multi-task learning, few-shot learning, etc. Finally, we highlight the remaining challenges of model merging and discuss future research directions.
 
-<!-- 
+
 <center>
 <img src="./imgs/intro.png" alt="Model Merging" width="800"/>
 </center>
--->
 
 ## Citation
 
@@ -156,6 +155,10 @@ Thanks!
 
 ## Advanced Methods
 
+
+<center>
+<img src="./imgs/methodv2.png" alt="Model Merging" width="800"/>
+</center>
 
 
 ### Pre-Merging Methods
@@ -477,10 +480,15 @@ Thanks!
 ## Application of Model Merging in Foundation Models
 
 <center>
-<img src="./imgs/llm.png" alt="Model Merging" width="800"/>
+<img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
 </center>
 
+
 ### Model Merging in Large Language Models
+
+<center>
+<img src="./imgs/llm.png" alt="Model Merging" width="800"/>
+</center>
 
 #### Human Preference Alignment for LLMs
 
@@ -723,6 +731,10 @@ Thanks!
   | [Transferring Textual Preferences to Vision-Language Understanding through Model Merging](https://arxiv.org/pdf/2502.13487v1)| 2025 | Arxiv | Llama-3.2-11B-Vision-Instruct, Llama-3.1-Tulu-2-8B-uf-meanrm, Llama-3.1-Tulu-3- 8B-RM, Llama-3.1-8B|
 
 ### Model Merging in Image Generative Models
+
+<center>
+<img src="./imgs/mllm.png" alt="Model Merging" width="800"/>
+</center>
 
 #### Style Mixing in Generative Models
 
