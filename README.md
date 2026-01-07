@@ -28,7 +28,7 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 
 <!-- 
 <center>
-<img src="./imgs/modelmerging_demo.png" alt="Model Merging" width="800"/>
+<img src="./imgs/intro.png" alt="Model Merging" width="800"/>
 </center>
 -->
 
@@ -156,11 +156,14 @@ Thanks!
 
 ## Advanced Methods
 
-<center>
-<img src="./imgs/methods.png" alt="Model Merging" width="800"/>
-</center>
+
 
 ### Pre-Merging Methods
+
+<center>
+<img src="./imgs/premerging.png" alt="Model Merging" width="800"/>
+</center>
+
 
 #### Better Fine-tuning
 
@@ -241,6 +244,13 @@ Thanks!
 | [Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs](https://papers.nips.cc/paper_files/paper/2018/file/be3087e74e9100d4bc4c6268cdbe8456-Paper.pdf)|  2018 | NeurIPS |
 
 ### During Merging Methods
+
+
+<center>
+<img src="./imgs/method.png" alt="Model Merging" width="800"/>
+</center>
+
+
 
 #### Basic Merging Methods
 
@@ -467,7 +477,7 @@ Thanks!
 ## Application of Model Merging in Foundation Models
 
 <center>
-<img src="./imgs/applications_lms.png" alt="Model Merging" width="800"/>
+<img src="./imgs/llm.png" alt="Model Merging" width="800"/>
 </center>
 
 ### Model Merging in Large Language Models
@@ -673,6 +683,10 @@ Thanks!
 | [MoD: A Distribution-Based Approach for Merging Large Language Models](https://openreview.net/attachment?id=v2tZ9bNcS5&name=pdf) | 2024 | LLM Merging Competition at NeurIPS |  Qwen2.5-1.5B and Qwen2.5-7B |
 
 ### Model Merging in Multimodal Large Language Models
+
+<center>
+<img src="./imgs/mllm.png" alt="Model Merging" width="800"/>
+</center>
 
 #### Model Merging for Multimodal Fusion
 
