@@ -572,6 +572,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Reliable Cultural Knowledge Preservation in Multilingual LLMs through Model Merging](https://raw.githubusercontent.com/mlresearch/v310/main/assets/nguyen25b/nguyen25b.pdf)| 2025 | Arxiv |Qwen-2.5-3B
   | [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/pdf/2512.16245)| 2025 | Arxiv | LLaMA-3 8B, Mistral 7B, Qwen 2, Phi-3.5, Gemma 2
   | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv | 
   | [Adapting Chat Language Models Using Only Target Unlabeled Language Data](https://openreview.net/pdf?id=6IdoIKowfe)| 2025 | TMLR | Qwen2.5 7B, Llama 3.1 8B, Qwen3 14B
@@ -587,6 +588,7 @@ Thanks!
   | [Family Matters: Language Transfer and Merging for Adapting Small LLMs to Faroese](https://arxiv.org/pdf/2510.00810)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
   | [The Thinking Spectrum: An Empirical Study of Tunable Reasoning in LLMs through Model Merging](https://arxiv.org/pdf/2509.22034)| 2025 | Arxiv | Qwen3-30B-A3B-Thinking-2507, Qwen3-30B-A3B-Instruct-2507 |
+  | [MLM: Multi-linguistic LoRA Merging](https://openreview.net/attachment?id=VAnFWVbYxG&name=pdf) 2025 | NeurIPS WorkShop | LLaMA-3.2 (1B and 3B)
   | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
   | [Harnessing Optimization Dynamics for Curvature-Informed Model Merging](https://arxiv.org/pdf/2509.11167)| 2025 |  Arxiv | Llama-3.1-8B
   | [Kwai Keye-VL 1.5 Technical Report](https://arxiv.org/pdf/2509.01563)| 2025 |  Arxiv |Keye-VL-8B
