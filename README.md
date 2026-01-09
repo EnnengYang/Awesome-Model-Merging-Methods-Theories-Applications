@@ -564,6 +564,7 @@ Thanks!
 #### Faster Reasoning of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Reasoning Pattern Alignment Merging for Adaptive Reasoning](https://arxiv.org/pdf/2601.03506) | 2026 | Arxiv | (i) Qwen3-4B-Thinking (Long-CoT) and Qwen3-4B-Instruct (Short-CoT); (ii) DeepSeekR1-Distill-Qwen-1.5B (Long-CoT) and Qwen2.5- Math-1.5B (Short-CoT)
  | [Revisiting Model Interpolation for Efficient Reasoning](https://arxiv.org/abs/2510.10977) | 2025 | Arxiv | Qwen3-4B
  | [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/pdf/2503.20641)| 2025 |Arxiv  | Qwen2.5-32B, DeepSeek-R1-32B |
   
