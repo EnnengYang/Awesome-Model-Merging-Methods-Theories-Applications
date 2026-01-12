@@ -587,6 +587,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/pdf/2601.05560)| 2026 | Arxiv | QwQ-32B-Preview, Meditron3-Qwen2.5-7B and MMed-Llama3-8B, WiroAIFinance-Qwen-7B and WiroAI-Finance-Llama8B
   | [Reliable Cultural Knowledge Preservation in Multilingual LLMs through Model Merging](https://raw.githubusercontent.com/mlresearch/v310/main/assets/nguyen25b/nguyen25b.pdf)| 2025 | Arxiv |Qwen-2.5-3B
   | [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/pdf/2512.16245)| 2025 | Arxiv | LLaMA-3 8B, Mistral 7B, Qwen 2, Phi-3.5, Gemma 2
   | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv | 
