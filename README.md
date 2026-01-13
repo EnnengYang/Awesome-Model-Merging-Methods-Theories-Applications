@@ -31,11 +31,12 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 If you find our paper or this resource helpful, please consider cite:
 
 ```
-@article{Survery_ModelMerging_2024,
-  title={Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities},
+@article{yang2024model,
+  title={Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications, and Opportunities},
   author={Yang, Enneng and Shen, Li and Guo, Guibing and Wang, Xingwei and Cao, Xiaochun and Zhang, Jie and Tao, Dacheng},
   journal={ACM Computing Surveys},
-  year={2025}
+  year={2024},
+  publisher={ACM New York, NY}
 }
 ```
 
@@ -66,7 +67,7 @@ Thanks!
     - [Routing-based Merging Methods (Dynamic Merging)](#routing-based-merging-methods-dynamic-merging)
     - [Post-calibration based Methods](#post-calibration-based-methods)
   - [Other Merging Methods](#other-merging-methods)
-  - [Theories and Analysis of Model Merging](#theories-and-analysis-of-model-merging)
+  - [Theories or Analysis of Model Merging](#theories-or-analysis-of-model-merging)
 - [Application of Model Merging in Foundation Models](#application-of-model-merging-in-foundation-models)
   - [Model Merging in Large Language Models](#model-merging-in-large-language-models)
     - [Human Preference Alignment for LLMs](#human-preference-alignment-for-llms)
@@ -75,6 +76,7 @@ Thanks!
     - [Faster Training of LLMs](#faster-training-of-llms)
     - [Faster Reasoning of LLMs](#faster-reasoning-of-llms)
     - [Improving Computational Efficiency of MoE-based LLM](#improving-computational-efficiency-of-moe-based-llm)
+    - [LLM Agent Merging](#llm-agent-merging)
     - [Combine the Capabilities of Expert LLMs](#combine-the-capabilities-of-expert-llms)
   - [Model Merging in Multimodal Large Language Models](#model-merging-in-multimodal-large-language-models)
     - [Model Merging for Multimodal Fusion](#model-merging-for-multimodal-fusion)
@@ -108,6 +110,8 @@ Thanks!
     - [Model Merging as a Defense or Intellectual Property Protection](#model-merging-as-a-defense-or-intellectual-property-protection)
 - [Other Applications](#other-applications)
 - [Contact](#contact)
+
+
 
 ----------
 
@@ -437,10 +441,11 @@ Thanks!
 | [Toward Data Efficient Model Merging between Different Datasets without Performance Degradation](https://arxiv.org/pdf/2306.05641v2)| 2024 | JMLR |
 | [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](http://arxiv.org/abs/2312.15166) | 2023 | Arxiv |SOLAR 10.7B, SOLAR 10.7B-Instruct|
 
-### Theories and Analysis of Model Merging
+### Theories or Analysis of Model Merging
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Will it Merge? On The Causes of Model Mergeability](https://arxiv.org/pdf/2601.06672)| 2026 | Arxiv | Llama-3.2-3B、Qwen-2.5-3B、Mistral-7B-Instruct-v0.2
 | [How does the optimizer implicitly bias the model merging loss landscape?](https://arxiv.org/pdf/2510.04686)| 2025 | Arxiv |
 | [On Task Vectors and Gradients](https://www.arxiv.org/pdf/2508.16082)| 2025 | Arxiv |
 | [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2025 | Arxiv | Ling-mini-16B
@@ -573,7 +578,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
- | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  |
+ | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  | 
  | [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference](https://arxiv.org/pdf/2511.04805)| 2025 | Arxiv  | Mixtral-8x7B, Deepseek-MoE
  | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | LLaMA-3.1-8B
  | [Expert Merging in Sparse Mixture of Experts with Nash Bargaining](https://arxiv.org/pdf/2510.16138)| 2025 |Arxiv  |Qwen1.5-MoE-14B, DeepSeek-MoE-16B |
@@ -582,11 +587,19 @@ Thanks!
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
  | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  | 
 
+#### LLM Agent Merging
+  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+  | --------------- | :----: | :----: | :----: |
+  | [ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging](https://arxiv.org/pdf/2601.07309)| 2026 | Arxiv | Simia-Tau-SFT-Qwen3-8B, SimiaOfficeBench-SFT-Qwen3-8B, and Simia-AgentBench-SFT-Qwen3-8B
+  | [Divide, Optimize, Merge: Scalable Fine-Grained Generative Optimization for LLM Agents](https://aclanthology.org/2025.findings-emnlp.1034/)| 2025 | EMNLP | o3-mini
+  | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr))| 2024 | NeurIPS | Llama3.1-8B 
+  | [Agent Skill Acquisition for Large Language Models via CycleQD](https://arxiv.org/pdf/2410.14735) |2024 |Arxiv | Llama3-8B-Instruct|
  
 #### Combine the Capabilities of Expert LLMs
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Multi-Stage Evolutionary Model Merging with Meta Data Driven Curriculum Learning for Sentiment-Specialized Large Language Modeling](https://arxiv.org/pdf/2601.06780)| 2026 | Arxiv |
   | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/pdf/2601.05560)| 2026 | Arxiv | QwQ-32B-Preview, Meditron3-Qwen2.5-7B and MMed-Llama3-8B, WiroAIFinance-Qwen-7B and WiroAI-Finance-Llama8B
   | [Reliable Cultural Knowledge Preservation in Multilingual LLMs through Model Merging](https://raw.githubusercontent.com/mlresearch/v310/main/assets/nguyen25b/nguyen25b.pdf)| 2025 | Arxiv |Qwen-2.5-3B
   | [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/pdf/2512.16245)| 2025 | Arxiv | LLaMA-3 8B, Mistral 7B, Qwen 2, Phi-3.5, Gemma 2
@@ -714,6 +727,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/pdf/2601.07645)| 2026 | Arxiv |LLaVA-v1.5-7B, Qwen2.5-VL-7B-Instruct, Qwen3-VL-8B-Instruct
   | [Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning](https://arxiv.org/pdf/2511.08246)| 2026 | AAAI | Qwen-VL-7B, Idefics2-8B
   | [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](https://arxiv.org/pdf/2511.19434)| 2025 | Arxiv | Qwen2.5-0.5B
   | [Tiny-R1V: Lightweight Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/pdf/2510.08987)| 2025 | Arxiv |
