@@ -599,6 +599,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SimMerge: Learning to Select Merge Operators from Similarity Signals](https://arxiv.org/pdf/2601.09473)| 2026 | Arxiv | 7B to 111B
   | [Multi-Stage Evolutionary Model Merging with Meta Data Driven Curriculum Learning for Sentiment-Specialized Large Language Modeling](https://arxiv.org/pdf/2601.06780)| 2026 | Arxiv |
   | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/pdf/2601.05560)| 2026 | Arxiv | QwQ-32B-Preview, Meditron3-Qwen2.5-7B and MMed-Llama3-8B, WiroAIFinance-Qwen-7B and WiroAI-Finance-Llama8B
   | [Reliable Cultural Knowledge Preservation in Multilingual LLMs through Model Merging](https://raw.githubusercontent.com/mlresearch/v310/main/assets/nguyen25b/nguyen25b.pdf)| 2025 | Arxiv |Qwen-2.5-3B
