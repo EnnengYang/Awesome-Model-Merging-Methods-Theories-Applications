@@ -599,6 +599,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/pdf/2601.16127)| 2026 | Arxiv | Llama-3.1-8b-Instruct
   | [SimMerge: Learning to Select Merge Operators from Similarity Signals](https://arxiv.org/pdf/2601.09473)| 2026 | Arxiv | 7B to 111B
   | [Multi-Stage Evolutionary Model Merging with Meta Data Driven Curriculum Learning for Sentiment-Specialized Large Language Modeling](https://arxiv.org/pdf/2601.06780)| 2026 | Arxiv |
   | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/pdf/2601.05560)| 2026 | Arxiv | QwQ-32B-Preview, Meditron3-Qwen2.5-7B and MMed-Llama3-8B, WiroAIFinance-Qwen-7B and WiroAI-Finance-Llama8B
@@ -904,6 +905,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/pdf/2601.15930) | 2026 | Arxiv  | Qwen3-0.6B 
   | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
   | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA-7B, OpenLLaMA-13B |
   | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) | 2023 |Arxiv  |
