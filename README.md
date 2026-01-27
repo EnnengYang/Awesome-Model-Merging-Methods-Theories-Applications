@@ -587,6 +587,13 @@ Thanks!
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
  | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  | 
 
+#### Mixing Datasets via Model Merging
+ | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+ | --------------- | :----: | :----: | :----: |
+ | [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](https://arxiv.org/pdf/2601.17858)| 2026 |  Arxiv | 8B and 16B MoE
+ | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
+
+ 
 #### LLM Agent Merging
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
@@ -599,6 +606,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Data-driven Clustering and Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2601.17441)| 2026 | Arxiv |  Llama 3.2 3B, Qwen 2.5 1.5B and StableLM 2 1.6B
   | [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/pdf/2601.16127)| 2026 | Arxiv | Llama-3.1-8b-Instruct
   | [SimMerge: Learning to Select Merge Operators from Similarity Signals](https://arxiv.org/pdf/2601.09473)| 2026 | Arxiv | 7B to 111B
   | [Multi-Stage Evolutionary Model Merging with Meta Data Driven Curriculum Learning for Sentiment-Specialized Large Language Modeling](https://arxiv.org/pdf/2601.06780)| 2026 | Arxiv |
