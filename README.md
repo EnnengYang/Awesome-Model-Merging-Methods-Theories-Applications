@@ -764,6 +764,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2601.18585)| 2026 | Arxiv |
 | [Rethinking Inter-LoRA Orthogonality in Adapter Merging: Insights from Orthogonal Monte Carlo Dropout](https://arxiv.org/pdf/2510.03262)| 2025 | Arxiv |
 | [BlockLoRA: Modular Customization of Diffusion Models via Blockwise-Parameterized Low-Rank Adaptation](https://arxiv.org/pdf/2503.08575v1)| 2025 | Arxiv |
 | [LoRA.rar: Learning to Merge LoRAs via Hypernetworks for Subject-Style Conditioned Image Generation](https://arxiv.org/pdf/2412.05148)| 2024 | Arxiv | LLaVA-Critic 7b |
@@ -1091,6 +1092,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When Domain Pretraining Interferes with Instruction Alignment: An Empirical Study of Adapter Merging in Medical LLMs](https://arxiv.org/pdf/2601.18350)| 2026 | Arxiv | 14B-parameter LLM
 | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
 | [System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/pdf/2512.09563)| 2025 | Arxiv |Qwen2.5-7B-Instruct
 | [Group-Aware Partial Model Merging for Children’s Automatic Speech Recognition](https://arxiv.org/pdf/2511.23098)| 2025 |  Arxiv | 
