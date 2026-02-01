@@ -446,6 +446,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Understanding Model Merging: A Unified Generalization Framework for Heterogeneous Experts](https://arxiv.org/pdf/2601.21690)| 2026 | Arxiv |
 | [Will it Merge? On The Causes of Model Mergeability](https://arxiv.org/pdf/2601.06672)| 2026 | Arxiv | Llama-3.2-3B、Qwen-2.5-3B、Mistral-7B-Instruct-v0.2
 | [How does the optimizer implicitly bias the model merging loss landscape?](https://arxiv.org/pdf/2510.04686)| 2025 | Arxiv |
 | [On Task Vectors and Gradients](https://www.arxiv.org/pdf/2508.16082)| 2025 | Arxiv |
@@ -738,6 +739,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](https://arxiv.org/pdf/2601.21187)| 2026 | Arxiv | Qwen2.5-VL-7B-Instruct, DeepSeekR1-Distill-Qwen-7B, Qwen2.5-VL-32B-Instruct, QwQ-32B
   | [PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/pdf/2601.07645)| 2026 | Arxiv |LLaVA-v1.5-7B, Qwen2.5-VL-7B-Instruct, Qwen3-VL-8B-Instruct
   | [Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning](https://arxiv.org/pdf/2511.08246)| 2026 | AAAI | Qwen-VL-7B, Idefics2-8B
   | [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](https://arxiv.org/pdf/2511.19434)| 2025 | Arxiv | Qwen2.5-0.5B
@@ -882,6 +884,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Multi-task Code LLMs: Data Mix or Model Merge?](https://arxiv.org/pdf/2601.21115)| 2026 | Arxiv  | Qwen Coder 2.5 7B, DeepSeek 7B
   | [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108)| 2025 | Arxiv  |
   | [Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning](https://arxiv.org/pdf/2504.11268)| 2025 | Arxiv  |
   | [Improving General Text Embedding Model: Tackling Task Conflict and Data Imbalance through Model Merging](https://arxiv.org/pdf/2410.15035)| 2024 |Arxiv  |
