@@ -411,6 +411,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [AutoMerge: Search-Based Model Merging Framework for Effective Model Reuse](https://arxiv.org/pdf/2601.22748)| 2026 | Arxiv  | Llama2-7B-Chat, Llama2-7B-Code
 | [Model Merging via Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2512.21288)| 2025 | Arxiv  |
 | [Bridging Training and Merging Through Momentum-Aware Optimization](https://arxiv.org/pdf/2512.17109)| 2025 | Arxiv  |
 | [From Coefficients to Directions: Rethinking Model Merging with Directional Alignment](https://arxiv.org/pdf/2512.00391)| 2025 | Arxiv  |
@@ -446,6 +447,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](https://arxiv.org/pdf/2601.22285)| 2026 | Arxiv |
 | [Understanding Model Merging: A Unified Generalization Framework for Heterogeneous Experts](https://arxiv.org/pdf/2601.21690)| 2026 | Arxiv |
 | [Will it Merge? On The Causes of Model Mergeability](https://arxiv.org/pdf/2601.06672)| 2026 | Arxiv | Llama-3.2-3B、Qwen-2.5-3B、Mistral-7B-Instruct-v0.2
 | [How does the optimizer implicitly bias the model merging loss landscape?](https://arxiv.org/pdf/2510.04686)| 2025 | Arxiv |
