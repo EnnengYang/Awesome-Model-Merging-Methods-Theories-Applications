@@ -594,6 +594,7 @@ Thanks!
 #### Mixing Datasets via Model Merging
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/pdf/2602.00747)| 2026 |  Arxiv | Qwen3-1.7B
  | [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](https://arxiv.org/pdf/2601.17858)| 2026 |  Arxiv | 8B and 16B MoE
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
 
