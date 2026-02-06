@@ -308,6 +308,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Orthogonal Model Merging](https://arxiv.org/pdf/2602.05943)| 2026 | Arxiv |  Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Llama-3.2-3B
 | [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
 | [Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations](https://arxiv.org/pdf/2602.03237)| 2026 | Arxiv |  Qwen2.5-7B, Qwen2.5-14B
 | [Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/pdf/2512.22511)| 2025 | Arxiv | 
