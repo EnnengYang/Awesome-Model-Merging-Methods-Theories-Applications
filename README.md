@@ -617,6 +617,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/pdf/2602.05787)| 2026 | Arxiv |  Qwen3-4B
   | [Data-driven Clustering and Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2601.17441)| 2026 | Arxiv |  Llama 3.2 3B, Qwen 2.5 1.5B and StableLM 2 1.6B
   | [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/pdf/2601.16127)| 2026 | Arxiv | Llama-3.1-8b-Instruct
   | [SimMerge: Learning to Select Merge Operators from Similarity Signals](https://arxiv.org/pdf/2601.09473)| 2026 | Arxiv | 7B to 111B
