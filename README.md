@@ -211,6 +211,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Transport and Merge: Cross-Architecture Merging for Large Language Models](https://arxiv.org/pdf/2602.05495) | 2026 |  Arxiv | LLaMA-3 8B
 | [Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization](https://arxiv.org/pdf/2511.12601) | 2025 | TAG-DS |
 | [Understanding Mode Connectivity via Parameter Space Symmetry](https://openreview.net/pdf?id=E8dMQGsKZv) | 2025 | ICML |
 | [Update Your Transformer to the Latest Release: Re-Basin of Task Vectors](https://arxiv.org/pdf/2505.22697)| 2025 | ICML  |
@@ -307,6 +308,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
 | [Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations](https://arxiv.org/pdf/2602.03237)| 2026 | Arxiv |  Qwen2.5-7B, Qwen2.5-14B
 | [Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/pdf/2512.22511)| 2025 | Arxiv | 
 | [Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging](https://arxiv.org/pdf/2512.01461) | 2025 | Arxiv |  Qwen-14B
@@ -597,6 +599,7 @@ Thanks!
 #### Mixing Datasets via Model Merging
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization](https://arxiv.org/pdf/2602.04937)| 2026 |  Arxiv | Qwen2-VL-2B and Intern3.5-VL-2B
  | [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/pdf/2602.00747)| 2026 |  Arxiv | Qwen3-1.7B
  | [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](https://arxiv.org/pdf/2601.17858)| 2026 |  Arxiv | 8B and 16B MoE
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
@@ -1103,6 +1106,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging](https://arxiv.org/pdf/2602.04731)| 2026 | Arxiv |  Qwen3-0.6B, Gemma-2B, Phi4-3.8B
 | [When Domain Pretraining Interferes with Instruction Alignment: An Empirical Study of Adapter Merging in Medical LLMs](https://arxiv.org/pdf/2601.18350)| 2026 | Arxiv | 14B-parameter LLM
 | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
 | [Rare Word Recognition and Translation Without Fine-Tuning via Task Vector in Speech Models](https://arxiv.org/pdf/2512.21894)| 2025 | Arxiv | 
