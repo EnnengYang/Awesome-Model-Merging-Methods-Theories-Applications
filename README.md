@@ -1082,6 +1082,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv | 
 | [Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/pdf/2601.04448)| 2026 |  Arxiv | Llama2-7B and Qwen3-8B 
 | [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/pdf/2511.10712)| 2026 |  AAAI|  LLaMA-2-13B, WizardLM-13B, WizardMath-13B, LLaMA-2-13B-Code Alpaca |
 | [Defending Unauthorized Model Merging via Dual-Stage Weight Protection](https://arxiv.org/pdf/2511.11851)| 2025 |  Arxiv|
