@@ -373,6 +373,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Fine-Grained Model Merging via Modular Expert Recombination](https://arxiv.org/pdf/2602.06552)| 2026 | Arxiv |
 | [MIN-Merging: Merge the Important Neurons for Model Merging](https://arxiv.org/pdf/2510.17890) | 2025 | Arxiv |
 | [SE-Merging: A Self-Enhanced Approach for Dynamic Model Merging](https://arxiv.org/pdf/2506.18135) | 2025 | Arxiv |
 | [Adaptive Task Vectors for Large Language Models](https://arxiv.org/pdf/2506.03426) | 2025 | Arxiv |LLaMA3-8B and Mistral-7B |
