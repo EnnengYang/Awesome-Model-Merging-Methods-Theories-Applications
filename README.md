@@ -1,5 +1,5 @@
 
-A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Computing Surveys, 2025.](https://arxiv.org/pdf/2408.07666)'**.
+A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities. ACM Computing Surveys, 2026.](https://arxiv.org/pdf/2408.07666)'**.
 
 ---
 
@@ -12,7 +12,7 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 
 ## 💥 News 💥
 
-- 🔥🔥🔥 Our [survey](https://arxiv.org/pdf/2408.07666), accepted by ACM Computing Surveys, please [cite](#citation) it or the library if helpful.
+- 🔥🔥🔥 Our [survey](https://dl.acm.org/doi/10.1145/3787849), accepted by ACM Computing Surveys, please [cite](#citation) it or the library if helpful.
 - 🔥🔥🔥 We flagged papers using models of size **$\geq$ 7B** (or small-sized mainstream LLMs) in their experiments.
 
 ---
@@ -31,12 +31,22 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 If you find our paper or this resource helpful, please consider cite:
 
 ```
-@article{yang2024model,
-  title={Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications, and Opportunities},
-  author={Yang, Enneng and Shen, Li and Guo, Guibing and Wang, Xingwei and Cao, Xiaochun and Zhang, Jie and Tao, Dacheng},
-  journal={ACM Computing Surveys},
-  year={2024},
-  publisher={ACM New York, NY}
+@article{yang2026ModelMergingSurvey,
+  author = {Yang, Enneng and Shen, Li and Guo, Guibing and Wang, Xingwei and Cao, Xiaochun and Zhang, Jie and Tao, Dacheng},
+  title = {Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications, and Opportunities},
+  year = {2026},
+  issue_date = {June 2026},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {58},
+  number = {8},
+  issn = {0360-0300},
+  url = {https://doi.org/10.1145/3787849},
+  doi = {10.1145/3787849},
+  journal = {ACM Comput. Surv.},
+  month = feb,
+  articleno = {216},
+  numpages = {41}
 }
 ```
 
