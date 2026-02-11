@@ -282,6 +282,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv | 
 | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
 | [Superpose Task-specific Features for Model Merging](https://aclanthology.org/2025.emnlp-main.210.pdf)| 2025 | EMNLP | Llama-2-7B
 | [T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis](https://arxiv.org/pdf/2510.27265)| 2025 | Arxiv |
