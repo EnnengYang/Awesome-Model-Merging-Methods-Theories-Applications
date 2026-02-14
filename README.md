@@ -206,6 +206,12 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [Mitigating Parameter Interference in Model Merging via Sharpness-Aware Fine-Tuning](https://arxiv.org/pdf/2504.14662) | 2025 | ICLR |
 
+##### Others
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) | 2026 | ICLR | Llama3.1-8B-Instruct
+
+
 #### Architecture Transformation
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -319,6 +325,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/pdf/2602.11717)| 2026 | Arxiv | Mistral-7B, Qwen2.5-14B, and Qwen2.5-32B
 | [Orthogonal Model Merging](https://arxiv.org/pdf/2602.05943)| 2026 | Arxiv |  Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Llama-3.2-3B
 | [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
 | [Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations](https://arxiv.org/pdf/2602.03237)| 2026 | Arxiv |  Qwen2.5-7B, Qwen2.5-14B
@@ -428,6 +435,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
 | [Sparsity-Aware Evolution for Model Merging](https://arxiv.org/pdf/2602.08218)| 2026 | Arxiv |
 | [AutoMerge: Search-Based Model Merging Framework for Effective Model Reuse](https://arxiv.org/pdf/2601.22748)| 2026 | Arxiv  | Llama2-7B-Chat, Llama2-7B-Code
 | [Model Merging via Multi-Teacher Knowledge Distillation](https://arxiv.org/pdf/2512.21288)| 2025 | Arxiv  |
@@ -465,13 +473,14 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](https://openreview.net/pdf?id=N4l4Jp50R4)| 2026 | ICLR | Llama-3.2-3B, Llama-3.1-8B, and Mistral-Small-3-24B
 | [M-Loss: Quantifying Model Merging Compatibility with Limited Unlabeled Data](https://arxiv.org/pdf/2602.08564)| 2026 | Arxiv |
+| [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2026 | ICLR | Ling-mini-16B
 | [Demystifying Mergeability: Interpretable Properties to Predict Model Merging Success](https://arxiv.org/pdf/2601.22285)| 2026 | Arxiv |
 | [Understanding Model Merging: A Unified Generalization Framework for Heterogeneous Experts](https://arxiv.org/pdf/2601.21690)| 2026 | Arxiv |
 | [Will it Merge? On The Causes of Model Mergeability](https://arxiv.org/pdf/2601.06672)| 2026 | Arxiv | Llama-3.2-3B、Qwen-2.5-3B、Mistral-7B-Instruct-v0.2
 | [How does the optimizer implicitly bias the model merging loss landscape?](https://arxiv.org/pdf/2510.04686)| 2025 | Arxiv |
 | [On Task Vectors and Gradients](https://www.arxiv.org/pdf/2508.16082)| 2025 | Arxiv |
-| [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2025 | Arxiv | Ling-mini-16B
 | [Why Do More Experts Fail? A Theoretical Analysis of Model Merging](https://arxiv.org/pdf/2505.21226) | 2025 | Arxiv |
 | [When is Task Vector Provably Effective for Model Editing? A Generalization Analysis of Nonlinear Transformers](https://openreview.net/pdf?id=iX7eHHE5Tx) | 2025 | ICLR |
 | [Multi-Level Collaboration in Model Merging](https://arxiv.org/pdf/2503.01268) | 2025 | Arxiv |
@@ -632,6 +641,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [LS-Merge: Merging Language Models in Latent Space](https://openreview.net/pdf?id=VSDV0SWwOC)| 2026 | ICLR | Gemma-3-1B-it, Gemma-3-4B-it, Llama-3-1B-instruct, Llama-2-7b
   | [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/pdf/2602.05787)| 2026 | Arxiv |  Qwen3-4B
   | [Data-driven Clustering and Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2601.17441)| 2026 | Arxiv |  Llama 3.2 3B, Qwen 2.5 1.5B and StableLM 2 1.6B
   | [Improving Training Efficiency and Reducing Maintenance Costs via Language Specific Model Merging](https://arxiv.org/pdf/2601.16127)| 2026 | Arxiv | Llama-3.1-8b-Instruct
@@ -764,6 +774,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://openreview.net/pdf?id=RU76KTF1Da)| 2026 | ICLR | VisCodex-8B, VisCodex-33B
   | [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](https://arxiv.org/pdf/2601.21187)| 2026 | Arxiv | Qwen2.5-VL-7B-Instruct, DeepSeekR1-Distill-Qwen-7B, Qwen2.5-VL-32B-Instruct, QwQ-32B
   | [PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/pdf/2601.07645)| 2026 | Arxiv |LLaVA-v1.5-7B, Qwen2.5-VL-7B-Instruct, Qwen3-VL-8B-Instruct
   | [Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning](https://arxiv.org/pdf/2511.08246)| 2026 | AAAI | Qwen-VL-7B, Idefics2-8B
@@ -850,6 +861,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Mapping Post-Training Forgetting in Language Models at Scale](https://openreview.net/pdf?id=qCIg2WGudx)| 2026  |ICLR  |
+  | [LCA: Local Classifier Alignment for Continual Learning](https://openreview.net/pdf?id=3uINmRldVW)| 2026  |ICLR  |
   | [MERGETUNE: Continued fine-tuning of vision-language models](https://arxiv.org/pdf/2601.10497)| 2026  |Arxiv  |
   | [Merge before Forget: A Single LoRA Continual Learning via Continual Merging](https://arxiv.org/pdf/2512.23017)| 2025  |Arxiv  |Llama-2-7B-chat, Llama-2-13B-chat, Qwen2.5-7B
   | [Robust Finetuning of Vision-Language-Action Robot Policies via Parameter Merging](https://arxiv.org/pdf/2512.08333)| 2025  |Arxiv  |
@@ -910,6 +923,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [G-Merging: Graph Models Merging for Parameter-Efficient Multi-Task Knowledge Consolidation](https://openreview.net/pdf?id=FoTtvLkkfU)| 2026 | ICLR  |
   | [Multi-task Code LLMs: Data Mix or Model Merge?](https://arxiv.org/pdf/2601.21115)| 2026 | Arxiv  | Qwen Coder 2.5 7B, DeepSeek 7B
   | [DivMerge: A divergence-based model merging method for multi-tasking](https://arxiv.org/pdf/2509.02108)| 2025 | Arxiv  |
   | [Single-Input Multi-Output Model Merging: Leveraging Foundation Models for Dense Multi-Task Learning](https://arxiv.org/pdf/2504.11268)| 2025 | Arxiv  |
@@ -1012,6 +1026,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://openreview.net/pdf?id=zrFnwRHuQo)| 2026 | ICLR |
 | [Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://arxiv.org/pdf/2509.12697)| 2025 | Arxiv | LLaMA-7B
 | [Intrinsic Training Signals for Federated Learning Aggregation](https://arxiv.org/pdf/2507.06813)| 2025 | ICIAP |
 | [Breaking the Aggregation Bottleneck in Federated Recommendation: A Personalized Model Merging Approach](https://arxiv.org/pdf/2508.12386)| 2025 | Arxiv |
@@ -1097,6 +1112,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR | 
 | [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv | 
 | [Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/pdf/2601.04448)| 2026 |  Arxiv | Llama2-7B and Qwen3-8B 
 | [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/pdf/2511.10712)| 2026 |  AAAI|  LLaMA-2-13B, WizardLM-13B, WizardMath-13B, LLaMA-2-13B-Code Alpaca |
