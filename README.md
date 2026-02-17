@@ -435,6 +435,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273)| 2026 | Arxiv | Llama3.1-8B, Llama-3.2-3B, Qwen3-0.6B, Qwen3-1.7B, and Qwen3-8B
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
 | [Sparsity-Aware Evolution for Model Merging](https://arxiv.org/pdf/2602.08218)| 2026 | Arxiv |
 | [AutoMerge: Search-Based Model Merging Framework for Effective Model Reuse](https://arxiv.org/pdf/2601.22748)| 2026 | Arxiv  | Llama2-7B-Chat, Llama2-7B-Code
@@ -641,6 +642,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/pdf/2602.12323)| 2026 | Arxiv |   Llama3.1 8B-Instruct
   | [LS-Merge: Merging Language Models in Latent Space](https://openreview.net/pdf?id=VSDV0SWwOC)| 2026 | ICLR | Gemma-3-1B-it, Gemma-3-4B-it, Llama-3-1B-instruct, Llama-2-7b
   | [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/pdf/2602.05787)| 2026 | Arxiv |  Qwen3-4B
   | [Data-driven Clustering and Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2601.17441)| 2026 | Arxiv |  Llama 3.2 3B, Qwen 2.5 1.5B and StableLM 2 1.6B
@@ -958,6 +960,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models](https://arxiv.org/pdf/2602.12566) | 2026 | Arxiv  | Qwen3-4B-Base
   | [MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/pdf/2601.15930) | 2026 | Arxiv  | Qwen3-0.6B 
   | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
   | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA-7B, OpenLLaMA-13B |
