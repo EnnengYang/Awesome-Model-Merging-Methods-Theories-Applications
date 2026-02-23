@@ -435,6 +435,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Transporting Task Vectors across Different Architectures without Training](https://arxiv.org/pdf/2602.12952)| 2026 | Arxiv | 
 | [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273)| 2026 | Arxiv | Llama3.1-8B, Llama-3.2-3B, Qwen3-0.6B, Qwen3-1.7B, and Qwen3-8B
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
 | [Sparsity-Aware Evolution for Model Merging](https://arxiv.org/pdf/2602.08218)| 2026 | Arxiv |
