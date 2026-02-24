@@ -431,10 +431,12 @@ Thanks!
 | [SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery](https://arxiv.org/pdf/2410.14389)|2024  | Arxiv |
 | [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf/602906ec02919eb95d78d634321fcba1b68a2f03.pdf) |2024  | ICML |
 
+
 ### Other Merging Methods
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv | 
 | [Transporting Task Vectors across Different Architectures without Training](https://arxiv.org/pdf/2602.12952)| 2026 | Arxiv | 
 | [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273)| 2026 | Arxiv | Llama3.1-8B, Llama-3.2-3B, Qwen3-0.6B, Qwen3-1.7B, and Qwen3-8B
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
@@ -1031,6 +1033,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](https://arxiv.org/pdf/2602.18658)| 2026 | Arxiv | LLaMA-3.2-3B-Instruct
 | [On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://openreview.net/pdf?id=zrFnwRHuQo)| 2026 | ICLR |
 | [Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://arxiv.org/pdf/2509.12697)| 2025 | Arxiv | LLaMA-7B
 | [Intrinsic Training Signals for Federated Learning Aggregation](https://arxiv.org/pdf/2507.06813)| 2025 | ICIAP |
