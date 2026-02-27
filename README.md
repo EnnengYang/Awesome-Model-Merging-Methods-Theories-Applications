@@ -288,6 +288,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv | 
 | [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv | 
 | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
 | [Superpose Task-specific Features for Model Merging](https://aclanthology.org/2025.emnlp-main.210.pdf)| 2025 | EMNLP | Llama-2-7B
@@ -325,6 +326,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Model Merging in the Essential Subspace](https://arxiv.org/pdf/2602.20208)| 2026 | Arxiv |
 | [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/pdf/2602.11717)| 2026 | Arxiv | Mistral-7B, Qwen2.5-14B, and Qwen2.5-32B
 | [Orthogonal Model Merging](https://arxiv.org/pdf/2602.05943)| 2026 | Arxiv |  Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Llama-3.2-3B
 | [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
@@ -607,6 +609,7 @@ Thanks!
 #### Faster Reasoning of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://arxiv.org/pdf/2602.22538) | 2026 | ICLR |  Qwen2.5-1.5B/14B/32B, and Llama-3.1-8B
  | [Reasoning Pattern Alignment Merging for Adaptive Reasoning](https://arxiv.org/pdf/2601.03506) | 2026 | Arxiv | (i) Qwen3-4B-Thinking (Long-CoT) and Qwen3-4B-Instruct (Short-CoT); (ii) DeepSeekR1-Distill-Qwen-1.5B (Long-CoT) and Qwen2.5- Math-1.5B (Short-CoT)
  | [Revisiting Model Interpolation for Efficient Reasoning](https://arxiv.org/abs/2510.10977) | 2025 | Arxiv | Qwen3-4B
  | [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/pdf/2503.20641)| 2025 |Arxiv  | Qwen2.5-32B, DeepSeek-R1-32B |
