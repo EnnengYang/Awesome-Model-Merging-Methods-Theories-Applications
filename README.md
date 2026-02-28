@@ -331,6 +331,7 @@ Thanks!
 | [Orthogonal Model Merging](https://arxiv.org/pdf/2602.05943)| 2026 | Arxiv |  Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Llama-3.2-3B
 | [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
 | [Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations](https://arxiv.org/pdf/2602.03237)| 2026 | Arxiv |  Qwen2.5-7B, Qwen2.5-14B
+| [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2026 | ICLR |
 | [Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/pdf/2512.22511)| 2025 | Arxiv | 
 | [Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging](https://arxiv.org/pdf/2512.01461) | 2025 | Arxiv |  Qwen-14B
 | [Towards Reversible Model Merging For Low-rank Weights](https://arxiv.org/pdf/2510.14163) | 2025 | Arxiv |
@@ -350,7 +351,6 @@ Thanks!
 | [Decom-Renorm-Merge: Model Merging on the Right Space Improves Multitasking](https://arxiv.org/pdf/2505.23117)| 2025 | Arxiv | LLaMA3.1-8B
 | [CAT Merging: A Training-Free Approach for Resolving Conflicts in Model Merging](https://arxiv.org/pdf/2505.06977)| 2025 | Arxiv |
 | [LoRI: Reducing Cross-Task Interference in Multi-Task LowRank Adaptation](https://arxiv.org/pdf/2504.07448)| 2025 | Arxiv | Llama-3-8B and Mistral-7B |
-| [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2025 | Arxiv |
 | [Task Vector Quantization for Memory-Efficient Model Merging](https://arxiv.org/pdf/2503.06921)| 2025 | Arxiv |
 | [Disentangling Task Interference within Neurons: Model Merging in Alignment with Neuronal Mechanisms](https://arxiv.org/pdf/2503.05320)| 2025 | Arxiv | Llama-2-7b |
 | [Exploring Sparse Adapters for Scalable Merging of Parameter Efficient Experts](https://openreview.net/pdf?id=8wt2eKkVe6) | 2025 | ICLR 2025 Workshop |
