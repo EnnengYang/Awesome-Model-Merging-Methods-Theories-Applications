@@ -327,6 +327,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging](https://arxiv.org/pdf/2603.00573)| 2026 | Arxiv |Qwen3-8B and Llama3.1-8B
 | [Model Merging in the Essential Subspace](https://arxiv.org/pdf/2602.20208)| 2026 | Arxiv |
 | [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/pdf/2602.11717)| 2026 | Arxiv | Mistral-7B, Qwen2.5-14B, and Qwen2.5-32B
 | [Orthogonal Model Merging](https://arxiv.org/pdf/2602.05943)| 2026 | Arxiv |  Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Llama-3.2-3B
@@ -439,8 +440,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv | 
 | [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv | 
-| [Gradient-Sign Masking for Task Vector Transport Across Pre-Trained Models](https://arxiv.org/abs/2510.09658)| 2026 | ICLR | CLIP, T5 |
+| [Gradient-Sign Masking for Task Vector Transport Across Pre-Trained Models](https://arxiv.org/abs/2510.09658)| 2026 | ICLR | Flan-T5 |
 | [Transporting Task Vectors across Different Architectures without Training](https://arxiv.org/pdf/2602.12952)| 2026 | Arxiv | 
 | [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273)| 2026 | Arxiv | Llama3.1-8B, Llama-3.2-3B, Qwen3-0.6B, Qwen3-1.7B, and Qwen3-8B
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
