@@ -440,6 +440,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv | 
 | [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv | 
 | [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv | 
 | [Gradient-Sign Masking for Task Vector Transport Across Pre-Trained Models](https://arxiv.org/abs/2510.09658)| 2026 | ICLR | Flan-T5 |
@@ -483,6 +484,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Trade-offs in Ensembling, Merging and Routing Among Parameter-Efficient Experts](https://arxiv.org/pdf/2603.03535)| 2026 | Arxiv |
 | [Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](https://openreview.net/pdf?id=N4l4Jp50R4)| 2026 | ICLR | Llama-3.2-3B, Llama-3.1-8B, and Mistral-Small-3-24B
 | [M-Loss: Quantifying Model Merging Compatibility with Limited Unlabeled Data](https://arxiv.org/pdf/2602.08564)| 2026 | Arxiv |
 | [WSM: Decay-Free Learning Rate Schedule via Checkpoint Merging for LLM Pre-training](https://arxiv.org/pdf/2507.17634) | 2026 | ICLR | Ling-mini-16B
@@ -652,6 +654,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Functionality-Oriented LLM Merging on the Fisher–Rao Manifold](https://arxiv.org/pdf/2603.04972)| 2026 | Arxiv | Qwen2.5-14B, Qwen2.5-14B-Instruct-1M, Qwen2.5-Coder-14B-Instruct, DeepSeek-R1-Distill-Qwen-14B, OpenReasoning-Nemotron-14B
   | [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/pdf/2602.12323)| 2026 | Arxiv |   Llama3.1 8B-Instruct
   | [LS-Merge: Merging Language Models in Latent Space](https://openreview.net/pdf?id=VSDV0SWwOC)| 2026 | ICLR | Gemma-3-1B-it, Gemma-3-4B-it, Llama-3-1B-instruct, Llama-2-7b
   | [Bagging-Based Model Merging for Robust General Text Embeddings](https://arxiv.org/pdf/2602.05787)| 2026 | Arxiv |  Qwen3-4B
