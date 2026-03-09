@@ -327,6 +327,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [DC-Merge: Improving Model Merging with Directional Consistency](https://arxiv.org/pdf/2603.06242)| 2026 | Arxiv |
 | [CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging](https://arxiv.org/pdf/2603.00573)| 2026 | Arxiv |Qwen3-8B and Llama3.1-8B
 | [Model Merging in the Essential Subspace](https://arxiv.org/pdf/2602.20208)| 2026 | Arxiv |
 | [Beyond Parameter Arithmetic: Sparse Complementary Fusion for Distribution-Aware Model Merging](https://arxiv.org/pdf/2602.11717)| 2026 | Arxiv | Mistral-7B, Qwen2.5-14B, and Qwen2.5-32B
@@ -973,6 +974,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Domain-Adaptive Model Merging across Disconnected Modes](https://arxiv.org/pdf/2603.05957) | 2026 | Arxiv  | 
+  | [Bridging Domains through Subspace-Aware Model Merging](https://arxiv.org/pdf/2603.05768) | 2026 | Arxiv  | 
   | [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  | 
   | [To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models](https://arxiv.org/pdf/2602.12566) | 2026 | Arxiv  | Qwen3-4B-Base
   | [MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/pdf/2601.15930) | 2026 | Arxiv  | Qwen3-0.6B 
