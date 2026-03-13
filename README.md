@@ -130,6 +130,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](https://arxiv.org/pdf/2603.09938)| 2026 | Arxiv |
 | [Scaling Intelligence Through Model Merging: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290780/preprint_pdf/716bd23c7315eead7ee9fd24fa7b4290.pdf)| 2025 | Arxiv |
 | [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.sciencedirect.com/science/article/pii/S295016012500049X)| 2025 | Arxiv |
 | [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv |
@@ -485,6 +486,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse](https://arxiv.org/pdf/2603.09463)| 2026 | Arxiv | Qwen2.5-3B, 7B, and 14B, Llama3.1-8B
 | [Trade-offs in Ensembling, Merging and Routing Among Parameter-Efficient Experts](https://arxiv.org/pdf/2603.03535)| 2026 | Arxiv |
 | [Enough is as good as a feast: A Comprehensive Analysis of How Reinforcement Learning Mitigates Task Conflicts in LLMs](https://openreview.net/pdf?id=N4l4Jp50R4)| 2026 | ICLR | Llama-3.2-3B, Llama-3.1-8B, and Mistral-Small-3-24B
 | [M-Loss: Quantifying Model Merging Compatibility with Limited Unlabeled Data](https://arxiv.org/pdf/2602.08564)| 2026 | Arxiv |
