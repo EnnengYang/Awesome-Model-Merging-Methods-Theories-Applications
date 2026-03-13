@@ -641,6 +641,7 @@ Thanks!
  | --------------- | :----: | :----: | :----: |
  | [Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization](https://arxiv.org/pdf/2602.04937)| 2026 |  Arxiv | Qwen2-VL-2B and Intern3.5-VL-2B
  | [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/pdf/2602.00747)| 2026 |  Arxiv | Qwen3-1.7B
+ | [Multi-task Code LLMs: Data Mix or Model Merge?](https://arxiv.org/pdf/2601.21115)| 2026 | Arxiv  | Qwen Coder 2.5 7B, DeepSeek 7B
  | [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](https://arxiv.org/pdf/2601.17858)| 2026 |  Arxiv | 8B and 16B MoE
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
 
