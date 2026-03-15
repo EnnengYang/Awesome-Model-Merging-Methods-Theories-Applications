@@ -68,6 +68,7 @@ Thanks!
       - [Linearization Fine-tuning](#linearization-fine-tuning)
       - [Subspace Fine-tuning](#subspace-fine-tuning)
       - [Sharpness-aware Fine-tuning](#sharpness-aware-fine-tuning)
+      - [Others](#others)
     - [Architecture Transformation](#architecture-transformation)
     - [Weight Alignment](#weight-alignment)
   - [During Merging Methods](#during-merging-methods)
@@ -602,6 +603,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Mashup Learning: Faster Finetuning by Remixing Past Checkpoints](https://arxiv.org/pdf/2603.10156)| 2026 |  Arxiv |
  | [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/pdf/2512.13043)| 2025 |  Arxiv |Qwen2.5-VL-7B 
  | [Soup-of-Experts: Pretraining Specialist Models via Parameters Averaging](https://openreview.net/forum?id=MFNIka7nx0)| 2025 |  ICML |
  | [Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging](https://arxiv.org/pdf/2505.14136)| 2025 |  Arxiv |
@@ -648,8 +650,10 @@ Thanks!
 
  
 #### LLM Agent Merging
+
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Behavior Knowledge Merge in Reinforced Agentic Models](https://arxiv.org/pdf/2601.13572)| 2026 | Arxiv | RL-trained agentic models
   | [ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging](https://arxiv.org/pdf/2601.07309)| 2026 | Arxiv | Simia-Tau-SFT-Qwen3-8B, SimiaOfficeBench-SFT-Qwen3-8B, and Simia-AgentBench-SFT-Qwen3-8B
   | [Divide, Optimize, Merge: Scalable Fine-Grained Generative Optimization for LLM Agents](https://aclanthology.org/2025.findings-emnlp.1034/)| 2025 | EMNLP | o3-mini
   | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr))| 2024 | NeurIPS | Llama3.1-8B 
