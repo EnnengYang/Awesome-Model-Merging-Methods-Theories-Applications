@@ -1171,6 +1171,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/pdf/2603.01416v1)| 2026 | Arxiv |
+| [ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/pdf/2603.03198v1)| 2026 | Arxiv |
 | [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/pdf/2603.10526)| 2026 | Arxiv 
 | [Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging](https://arxiv.org/pdf/2602.04731)| 2026 | Arxiv |  Qwen3-0.6B, Gemma-2B, Phi4-3.8B
 | [When Domain Pretraining Interferes with Instruction Alignment: An Empirical Study of Adapter Merging in Medical LLMs](https://arxiv.org/pdf/2601.18350)| 2026 | Arxiv | 14B-parameter LLM
