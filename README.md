@@ -433,7 +433,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |
+| [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |OLMo-3-7B
 | [Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://arxiv.org/pdf/2505.23859)| 2025 |NeurIPS  |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
 | [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G)|2025  | ICML |
@@ -447,6 +447,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv | 
 | [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv | 
 | [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv | 
 | [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv | 
@@ -809,7 +810,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
-  | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging]()https://openreview.net/forum?id=KOO1cDm2bt| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
+  | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://arxiv.org/pdf/2604.02881)| 2026 | Arxiv | Qwen-2.5-3B-Instruct
+  | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging](https://openreview.net/forum?id=KOO1cDm2bt)| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
   | [SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584)| 2026 | Arxiv |
   | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](https://arxiv.org/abs/2603.14405)| 2026 | Arxiv |
   | [VisCodex: Unified Multimodal Code Generation via Merging Vision and Coding Models](https://openreview.net/pdf?id=RU76KTF1Da)| 2026 | ICLR | VisCodex-8B, VisCodex-33B
