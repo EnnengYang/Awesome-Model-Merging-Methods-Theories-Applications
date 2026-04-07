@@ -637,6 +637,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [REAM: Merging Improves Pruning of Experts in LLMs](https://arxiv.org/pdf/2604.04356)| 2026 | Arxiv  |  Qwen3-30B-A3B-Instruct-2507,  Qwen3-Coder-Next, GLM-4.5-Air
  | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  | 
  | [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference](https://arxiv.org/pdf/2511.04805)| 2025 | Arxiv  | Mixtral-8x7B, Deepseek-MoE
  | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | LLaMA-3.1-8B
@@ -644,6 +645,8 @@ Thanks!
  | [MergeMoE: Efficient Compression of MoE Models via Expert Output Merging](https://arxiv.org/pdf/2510.14436)| 2025 |Arxiv  | DeepSeekMoE, Qwen1.5-MoE-A2.7B, and Qwen3-30B-A3B |
  | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  | 
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
+ | [On Linear Mode Connectivity of Mixture-of-Experts Architectures](https://arxiv.org/pdf/2509.11348)| 2025 |NeurIPS  |  
+ | [Merge, then compress: Demystify efficient SMoe with hints from its routing policy](https://arxiv.org/pdf/2310.01334)|2024|ICLR|fairseq-moe15b SMoE
  | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  | 
 
 #### Mixing Datasets via Model Merging
