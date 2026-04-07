@@ -918,7 +918,7 @@ Thanks!
   | [DitHub: A Modular Framework for Incremental Open-Vocabulary Object Detection](https://arxiv.org/pdf/2503.09271)| 2025 | NeurIPS |
   | [K-Merge: Online Continual Merging of Adapters for On-device Large Language Models](https://arxiv.org/pdf/2510.13537)| 2025  |Arxiv  |
   | [Toward a Holistic Approach to Continual Model Merging](https://arxiv.org/pdf/2509.23592)| 2025  |Arxiv  |
-  | [Null-Space Filtering for Data-Free Continual Model Merging: Preserving Transparency, Promoting Fidelity](https://arxiv.org/pdf/2509.21413v1)| 2025  |Arxiv  |
+  | [Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity](https://arxiv.org/pdf/2509.21413)| 2026  |ICLR  |
   | [AIMMerging: Adaptive Iterative Model Merging Using Training Trajectories for Language Model Continual Learning](https://arxiv.org/pdf/2509.17348)| 2025 | EMNLP | LLaMA2-7B, LLaMA2-13B |
   | [HAM: Hierarchical Adapter Merging for Scalable Continual Learning](https://arxiv.org/pdf/2509.13211)| 2025 | Arxiv |
   | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
