@@ -626,6 +626,7 @@ Thanks!
 #### Faster Reasoning of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Multi-objective Evolutionary Merging Enables Efficient Reasoning Models](https://arxiv.org/pdf/2604.06465) | 2026 | Arxiv | DeepSeek-R1-Distill-Qwen 1.5B, 7B, and 14B
  | [Data-Free Layer-Adaptive Merging via Fisher Information for Long-to-Short Reasoning LLMs](https://arxiv.org/pdf/2603.21705) | 2026 | Arxiv | Qwen2.5-Math-7B,DeepSeek-R1-Distill-Qwen-7B
  | [RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://arxiv.org/pdf/2602.22538) | 2026 | ICLR |  Qwen2.5-1.5B/14B/32B, and Llama-3.1-8B
  | [Reasoning Pattern Alignment Merging for Adaptive Reasoning](https://arxiv.org/pdf/2601.03506) | 2026 | Arxiv | (i) Qwen3-4B-Thinking (Long-CoT) and Qwen3-4B-Instruct (Short-CoT); (ii) DeepSeekR1-Distill-Qwen-1.5B (Long-CoT) and Qwen2.5- Math-1.5B (Short-CoT)
