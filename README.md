@@ -447,6 +447,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv | 
 | [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv | 
 | [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv | 
 | [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv | 
@@ -814,6 +815,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Reasoning Resides in Layers: Restoring Temporal Reasoning in Video-Language Models with Layer-Selective Merging](https://arxiv.org/pdf/2604.11399)| 2026 | Arxiv |  LongVA-7B, InternVL3-8B, Qwen3-VL-4B
   | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://arxiv.org/pdf/2604.02881)| 2026 | Arxiv | Qwen-2.5-3B-Instruct
   | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging](https://openreview.net/forum?id=KOO1cDm2bt)| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
   | [SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584)| 2026 | Arxiv |
@@ -906,6 +908,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [MAny: Merge Anything for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2604.14016)| 2026  |Arxiv  | LLaVA-1.5-7B and InternVL-Chat7B
   | [BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs](https://arxiv.org/pdf/2604.02045)| 2026  |Arxiv  | Qwen3-1.7B and Qwen3-0.6B
   | [Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging](https://arxiv.org/pdf/2604.01538)| 2026  |Arxiv  | Llama-3.1-8B-Base
   | [Mapping Post-Training Forgetting in Language Models at Scale](https://openreview.net/pdf?id=qCIg2WGudx)| 2026  |ICLR  |
