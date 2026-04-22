@@ -331,6 +331,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv | 
+| [Crowded in B-Space: Calibrating Shared Directions for LoRA Merging](https://arxiv.org/pdf/2604.16826)| 2026 | Arxiv |  Llama-3.1-8B
 | [Diet Your LLM: Dimension-wise Global Pruning of LLMs via Merging Task-specific Importance Score](https://arxiv.org/pdf/2603.23985)| 2026 | Arxiv | Gemma-2 9B, Qwen2.5-7B, Phi-4-mini
 | [DC-Merge: Improving Model Merging with Directional Consistency](https://arxiv.org/pdf/2603.06242)| 2026 | CVPR | LLaVA
 | [CoMoL: Efficient Mixture of LoRA Experts via Dynamic Core Space Merging](https://arxiv.org/pdf/2603.00573)| 2026 | Arxiv |Qwen3-8B and Llama3.1-8B
@@ -676,6 +678,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts](https://arxiv.org/pdf/2604.18473)| 2026 | Arxiv |OLMo 2 7B
   | [Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights](https://arxiv.org/pdf/2603.28263)| 2026 | Arxiv | Llama 3.1 8B, Qwen3 8B, Qwen3 14B
   | [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](https://arxiv.org/pdf/2603.26299)| 2026 | Arxiv | LLaMA-3-8B
   | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
