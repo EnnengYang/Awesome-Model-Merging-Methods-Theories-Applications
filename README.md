@@ -449,6 +449,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Differentially Private Model Merging](https://arxiv.org/pdf/2604.20985)| 2026 | Arxiv | 
 | [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv | 
 | [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv | 
 | [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv | 
