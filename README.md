@@ -912,6 +912,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?](https://arxiv.org/pdf/2604.19394)| 2026  |Arxiv  | Qwen2.5-7B-Instruct and Mistral-7BInstruct, Mistral-Small-24B-Instruct
   | [MAny: Merge Anything for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2604.14016)| 2026  |Arxiv  | LLaVA-1.5-7B and InternVL-Chat7B
   | [BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs](https://arxiv.org/pdf/2604.02045)| 2026  |Arxiv  | Qwen3-1.7B and Qwen3-0.6B
   | [Countering Catastrophic Forgetting of Large Language Models for Better Instruction Following via Weight-Space Model Merging](https://arxiv.org/pdf/2604.01538)| 2026  |Arxiv  | Llama-3.1-8B-Base
