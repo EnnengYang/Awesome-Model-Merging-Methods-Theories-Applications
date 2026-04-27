@@ -188,6 +188,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Tangent Space Fine-Tuning for Directional Preference Alignment in Large Language Models](https://arxiv.org/pdf/2602.01128) | 2026 | Arxiv | Llama-3.2-1B-Instruct
 | [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP) | 2026 | ICLR |
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR |
 | [Tangent Transformers for Composition,Privacy and Removal](https://openreview.net/pdf?id=VLFhbOCz5D) | 2024 |ICLR  |
