@@ -332,6 +332,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv | 
 | [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv | 
 | [Crowded in B-Space: Calibrating Shared Directions for LoRA Merging](https://arxiv.org/pdf/2604.16826)| 2026 | Arxiv |  Llama-3.1-8B
 | [Diet Your LLM: Dimension-wise Global Pruning of LLMs via Merging Task-specific Importance Score](https://arxiv.org/pdf/2603.23985)| 2026 | Arxiv | Gemma-2 9B, Qwen2.5-7B, Phi-4-mini
