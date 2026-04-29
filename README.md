@@ -332,6 +332,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
 | [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv | 
 | [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv | 
 | [Crowded in B-Space: Calibrating Shared Directions for LoRA Merging](https://arxiv.org/pdf/2604.16826)| 2026 | Arxiv |  Llama-3.1-8B
@@ -821,6 +822,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
   | [Reasoning Resides in Layers: Restoring Temporal Reasoning in Video-Language Models with Layer-Selective Merging](https://arxiv.org/pdf/2604.11399)| 2026 | Arxiv |  LongVA-7B, InternVL3-8B, Qwen3-VL-4B
   | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://arxiv.org/pdf/2604.02881)| 2026 | Arxiv | Qwen-2.5-3B-Instruct
   | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging](https://openreview.net/forum?id=KOO1cDm2bt)| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
