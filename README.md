@@ -407,6 +407,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression](https://arxiv.org/pdf/2604.28109)| 2026 | Arxiv |
 | [TECS-L (Golden MoE): Dense-to-MoE Expert Splitting Framework](https://github.com/need-singularity/TECS-L)| 2026 | GitHub | Mistral-7B |
 | [Fine-Grained Model Merging via Modular Expert Recombination](https://arxiv.org/pdf/2602.06552)| 2026 | Arxiv |
 | [MIN-Merging: Merge the Important Neurons for Model Merging](https://arxiv.org/pdf/2510.17890) | 2025 | Arxiv |
@@ -453,6 +454,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Generalizing the Geometry of Model Merging Through Frechet Averages](https://arxiv.org/pdf/2604.27155)| 2026 | Arxiv | Llama-3 8B
 | [Differentially Private Model Merging](https://arxiv.org/pdf/2604.20985)| 2026 | Arxiv | 
 | [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv | 
 | [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv | 
