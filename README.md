@@ -189,6 +189,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/abs/2604.17078) | 2026 | Arxiv | 
 | [Tangent Space Fine-Tuning for Directional Preference Alignment in Large Language Models](https://arxiv.org/pdf/2602.01128) | 2026 | Arxiv | Llama-3.2-1B-Instruct
 | [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP) | 2026 | ICLR |
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR |
@@ -663,6 +664,7 @@ Thanks!
 #### Mixing Datasets via Model Merging
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [MixAtlas: Uncertainty-aware Data Mixture Optimization for Multimodal LLM Midtraining]()
  | [OPTIMER: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training](https://arxiv.org/pdf/2603.28858)| 2026 |  Arxiv |Gemma 3 27B
  | [Linear Model Merging Unlocks Simple and Scalable Multimodal Data Mixture Optimization](https://arxiv.org/pdf/2602.04937)| 2026 |  Arxiv | Qwen2-VL-2B and Intern3.5-VL-2B
  | [Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training](https://arxiv.org/pdf/2602.00747)| 2026 |  Arxiv | Qwen3-1.7B
