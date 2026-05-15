@@ -441,6 +441,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FEATCAL: Feature Calibration for Post-Merging Models](https://arxiv.org/pdf/2605.13030)| 2026 | Arxiv  | Llama-3.1-8B-Instruc
 | [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |OLMo-3-7B
 | [Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://arxiv.org/pdf/2505.23859)| 2025 |NeurIPS  |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
@@ -455,6 +456,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
+| [Bayesian Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv | 
 | [Generalizing the Geometry of Model Merging Through Frechet Averages](https://arxiv.org/pdf/2604.27155)| 2026 | Arxiv | Llama-3 8B
 | [Differentially Private Model Merging](https://arxiv.org/pdf/2604.20985)| 2026 | Arxiv | 
 | [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv | 
@@ -604,6 +607,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey](https://arxiv.org/pdf/2605.13919)| 2026  | Arxiv | Qwen2.5-7B
 | [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://arxiv.org/pdf/2601.22030) | 2026  | Arxiv | Llama3.2 1B Instruct
 | [Model Merging for Knowledge Editing](https://arxiv.org/pdf/2506.12384)| 2025  | ACL | Qwen2.5-7B-Instruct
 | [Exact Unlearning of Finetuning Data via Model Merging at Scale](https://arxiv.org/pdf/2504.04626) | 2025  | Arxiv |
