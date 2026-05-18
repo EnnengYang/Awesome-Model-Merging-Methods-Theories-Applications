@@ -456,6 +456,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv | 
 | [Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
 | [Bayesian Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv | 
 | [Generalizing the Geometry of Model Merging Through Frechet Averages](https://arxiv.org/pdf/2604.27155)| 2026 | Arxiv | Llama-3 8B
@@ -925,6 +926,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/pdf/2605.12419)| 2026  |Arxiv  |
   | [Revitalizing the Beginning: Avoiding Storage Dependency for Model Merging in Continual Learning](https://arxiv.org/pdf/2605.08311)| 2026  |Arxiv  |
   | [Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?](https://arxiv.org/pdf/2604.19394)| 2026  |Arxiv  | Qwen2.5-7B-Instruct and Mistral-7BInstruct, Mistral-Small-24B-Instruct
   | [MAny: Merge Anything for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2604.14016)| 2026  |Arxiv  | LLaVA-1.5-7B and InternVL-Chat7B
