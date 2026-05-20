@@ -654,6 +654,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training](https://arxiv.org/pdf/2605.08738)| 2026 | Arxiv  | Qwen3-Next-80A3B
  | [REAM: Merging Improves Pruning of Experts in LLMs](https://arxiv.org/pdf/2604.04356)| 2026 | Arxiv  |  Qwen3-30B-A3B-Instruct-2507,  Qwen3-Coder-Next, GLM-4.5-Air
  | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  | 
  | [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference](https://arxiv.org/pdf/2511.04805)| 2025 | Arxiv  | Mixtral-8x7B, Deepseek-MoE
