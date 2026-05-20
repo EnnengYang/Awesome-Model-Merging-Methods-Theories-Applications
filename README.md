@@ -408,6 +408,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Dynamic Model Merging Made Slim](https://arxiv.org/pdf/2605.18904)| 2026 | Arxiv |Llama-3.1-8B-Instruct, Qwen-2.5-7B-Instruct
 | [Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression](https://arxiv.org/pdf/2604.28109)| 2026 | Arxiv |
 | [TECS-L (Golden MoE): Dense-to-MoE Expert Splitting Framework](https://github.com/need-singularity/TECS-L)| 2026 | GitHub | Mistral-7B |
 | [Fine-Grained Model Merging via Modular Expert Recombination](https://arxiv.org/pdf/2602.06552)| 2026 | Arxiv |
@@ -927,6 +928,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Unlocking the Potential of Continual Model Merging: An ODE Perspective](https://arxiv.org/pdf/2605.19409)| 2026  |ICML  | 
   | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/pdf/2605.12419)| 2026  |Arxiv  |
   | [Revitalizing the Beginning: Avoiding Storage Dependency for Model Merging in Continual Learning](https://arxiv.org/pdf/2605.08311)| 2026  |Arxiv  |
   | [Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?](https://arxiv.org/pdf/2604.19394)| 2026  |Arxiv  | Qwen2.5-7B-Instruct and Mistral-7BInstruct, Mistral-Small-24B-Instruct
