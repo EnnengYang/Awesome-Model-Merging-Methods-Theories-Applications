@@ -189,6 +189,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic](https://arxiv.org/pdf/2605.18993v1)| 2026 | Arxiv | 
 | [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/abs/2604.17078) | 2026 | Arxiv | 
 | [Tangent Space Fine-Tuning for Directional Preference Alignment in Large Language Models](https://arxiv.org/pdf/2602.01128) | 2026 | Arxiv | Llama-3.2-1B-Instruct
 | [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP) | 2026 | ICLR |
@@ -928,6 +929,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](https://arxiv.org/pdf/2605.20803)| 2026  |Arxiv  |
   | [Unlocking the Potential of Continual Model Merging: An ODE Perspective](https://arxiv.org/pdf/2605.19409)| 2026  |ICML  | 
   | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/pdf/2605.12419)| 2026  |Arxiv  |
   | [Revitalizing the Beginning: Avoiding Storage Dependency for Model Merging in Continual Learning](https://arxiv.org/pdf/2605.08311)| 2026  |Arxiv  |
