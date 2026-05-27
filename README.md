@@ -335,6 +335,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Model Merging on Loss Landscape: A Geometry Perspective](https://arxiv.org/pdf/2605.26693)| 2026 | Arxiv | 
 | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
 | [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv | 
 | [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv | 
@@ -566,6 +567,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [TPMM-DPO: Trajectory-aware Preference-guided Model Merging for Iterative Direct Preference Optimization](https://arxiv.org/pdf/2605.23398)| 2026 | Arxiv  | Llama3.2-3B
 | [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426)| 2025 | Arxiv  | Gemma-3-12B, Gemma-3-27B, Qwen2.5-7B |
 | [BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation](https://arxiv.org/pdf/2510.10157)| 2025 | Arxiv  |Qwen-2.5-7B-Instruct, Llama-3.1-8B-Instruct |
 | [Personality Vector: Modulating Personality of Large Language Models by Model Merging](https://arxiv.org/pdf/2509.19727)| 2025 | EMNLP  | Llama-3.1-8B-Instruct, Qwen2.5-7B-Instruct |
@@ -627,6 +629,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](https://arxiv.org/pdf/2605.26484)| 2026 |  ICML |  LLaMA-2B
  | [Mashup Learning: Faster Finetuning by Remixing Past Checkpoints](https://arxiv.org/pdf/2603.10156)| 2026 |  Arxiv |
  | [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/pdf/2512.13043)| 2025 |  Arxiv |Qwen2.5-VL-7B 
  | [Soup-of-Experts: Pretraining Specialist Models via Parameters Averaging](https://openreview.net/forum?id=MFNIka7nx0)| 2025 |  ICML |
@@ -695,6 +698,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [On the Limits of Model Merging for Multilinguality in Pre-Training](https://arxiv.org/pdf/2605.25846)| 2026 | Arxiv | HPLT 2.15B
   | [Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts](https://arxiv.org/pdf/2604.18473)| 2026 | Arxiv |OLMo 2 7B
   | [Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights](https://arxiv.org/pdf/2603.28263)| 2026 | Arxiv | Llama 3.1 8B, Qwen3 8B, Qwen3 14B
   | [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](https://arxiv.org/pdf/2603.26299)| 2026 | Arxiv | LLaMA-3-8B
