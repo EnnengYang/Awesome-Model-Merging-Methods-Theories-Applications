@@ -189,7 +189,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic](https://arxiv.org/pdf/2605.18993v1)| 2026 | Arxiv | 
+| [Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic](https://arxiv.org/pdf/2605.18993v1)| 2026 | ICML  | Llama-3.2-1B-Instruct
 | [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/abs/2604.17078) | 2026 | Arxiv | 
 | [Tangent Space Fine-Tuning for Directional Preference Alignment in Large Language Models](https://arxiv.org/pdf/2602.01128) | 2026 | Arxiv | Llama-3.2-1B-Instruct
 | [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP) | 2026 | ICLR |
@@ -296,6 +296,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](https://arxiv.org/pdf/2605.29295)| 2026 | ICML | Qwen2.5-1.5B, Qwen3-8B
 | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
 | [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv | 
 | [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv | 
@@ -335,6 +336,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Model Merging by Output-Space Projection](https://arxiv.org/pdf/2605.29101)| 2026 | Arxiv | Llama3.1-8B 
+| [Saliency-Aware Model Merging](https://arxiv.org/pdf/2606.00511)| 2026 | Arxiv | 
 | [Model Merging on Loss Landscape: A Geometry Perspective](https://arxiv.org/pdf/2605.26693)| 2026 | Arxiv | 
 | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
 | [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv | 
@@ -459,6 +462,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/pdf/2605.29489)| 2026 | ICML Workshop | Qwen3-0.6B
 | [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv | 
 | [Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
 | [Bayesian Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv | 
@@ -567,6 +571,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [From “Weak” Signals to Strong Models: Preference Delta Aggregation with LoRA Merging](https://arxiv.org/pdf/2606.00357)| 2026 | Arxiv  | Qwen3-8B and Tülu3-8B
 | [TPMM-DPO: Trajectory-aware Preference-guided Model Merging for Iterative Direct Preference Optimization](https://arxiv.org/pdf/2605.23398)| 2026 | Arxiv  | Llama3.2-3B
 | [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426)| 2025 | Arxiv  | Gemma-3-12B, Gemma-3-27B, Qwen2.5-7B |
 | [BILLY: Steering Large Language Models via Merging Persona Vectors for Creative Generation](https://arxiv.org/pdf/2510.10157)| 2025 | Arxiv  |Qwen-2.5-7B-Instruct, Llama-3.1-8B-Instruct |
