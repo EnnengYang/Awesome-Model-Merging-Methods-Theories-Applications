@@ -336,6 +336,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
+| [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
+| [TaDA: Calibrated Probe Gating for Task-Domain LoRA Merging](https://arxiv.org/pdf/2606.05016)| 2026 | Arxiv | Llama-2-7b-hf
 | [Model Merging by Output-Space Projection](https://arxiv.org/pdf/2605.29101)| 2026 | Arxiv | Llama3.1-8B 
 | [Saliency-Aware Model Merging](https://arxiv.org/pdf/2606.00511)| 2026 | Arxiv | 
 | [Model Merging on Loss Landscape: A Geometry Perspective](https://arxiv.org/pdf/2605.26693)| 2026 | Arxiv | 
@@ -462,6 +465,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/pdf/2606.03232)| 2026 | ICML|
 | [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/pdf/2605.29489)| 2026 | ICML Workshop | Qwen3-0.6B
 | [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv | 
 | [Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
@@ -703,6 +707,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [When Model Merging Breaks Routing: Training-Free Calibration for MoE](https://arxiv.org/pdf/2606.03391)| 2026 | Arxiv | OLMoE-1B-7B-0125
   | [On the Limits of Model Merging for Multilinguality in Pre-Training](https://arxiv.org/pdf/2605.25846)| 2026 | Arxiv | HPLT 2.15B
   | [Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts](https://arxiv.org/pdf/2604.18473)| 2026 | Arxiv |OLMo 2 7B
   | [Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights](https://arxiv.org/pdf/2603.28263)| 2026 | Arxiv | Llama 3.1 8B, Qwen3 8B, Qwen3 14B
@@ -844,6 +849,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/pdf/2606.01717)| 2026 | ICML | Qwen2.5-VL-3B
   | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
   | [Reasoning Resides in Layers: Restoring Temporal Reasoning in Video-Language Models with Layer-Selective Merging](https://arxiv.org/pdf/2604.11399)| 2026 | Arxiv |  LongVA-7B, InternVL3-8B, Qwen3-VL-4B
   | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://arxiv.org/pdf/2604.02881)| 2026 | Arxiv | Qwen-2.5-3B-Instruct
@@ -1190,6 +1196,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/pdf/2606.03344)| 2026  | Arxiv | Llama-3-8B and Qwen-2.5- 7B
 | [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/pdf/2604.00627)| 2026  | Arxiv | Tulu-2-7b, Llama-3.1-Tulu-3-8B-DPO, OpenChat-3.5-0106
 | [Backdoor Vectors: a Task Arithmetic View on Backdoor Attacks and Defenses](https://arxiv.org/pdf/2510.08016)| 2025  | Arxiv |
 | [Merge Now, Regret Later: The Hidden Cost of Model Merging is Adversarial Transferability](https://arxiv.org/pdf/2509.23689)| 2025  | Arxiv |
