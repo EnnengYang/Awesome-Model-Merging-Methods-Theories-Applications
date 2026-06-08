@@ -5,7 +5,7 @@ A comprehensive list of papers about **'[Model Merging in LLMs, MLLMs, and Beyon
 
 > [!IMPORTANT]
 > Contributions welcome:
-> 
+>
 > [Contact us](#contact) or submit a pull request for unlisted relevant papers, content clarifications, or categorization adjustments, and update relevant information once your paper is accepted. Thank you!
 
 ---
@@ -146,6 +146,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [merge-and-rebase](https://github.com/apanariello4/merge-and-rebase) | 2026 | Github | Codebase for model merging, task-vector transport, and configurable fine-tuning across vision and text models. It is built for fast iteration on checkpoint merging, rebasing, and evaluation workflows. Supports both Vison and Language merging.|
 | [crdt-merge](https://github.com/mgillr/crdt-merge)| 2026 | Github | CRDT-based distributed model merging with formal convergence guarantees. 25 strategies (SLERP, TIES, DARE, Fisher, evolutionary). Two-layer OR-Set architecture enabling conflict-free multi-node merge.
 | [Conflict-Free Replicated Data Types for Neural Network Model Merging: A Two-Layer Architecture Enabling CRDT-Compliant Model Merging Across 26 Strategies](https://ssrn.com/abstract=6545518)| 2026 | SSRN | [crdt-merge](https://github.com/mgillr/crdt-merge) |
 | [An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/pdf/2512.02689)| 2025 | Arxiv | LLAMA-2-7B, LLAMA-3-8B, LLAMA-3.1-8B, QWEN2-7B
@@ -159,7 +160,7 @@ Thanks!
 | [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | System Demonstrations |Mistral-7B
 | [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://arxiv.org/pdf/2502.17159)| 2025 | NeurIPS | LLaVA-v1.5-7B
 | [Mix Data or Merge Models? Balancing the Helpfulness, Honesty, and  Harmlessness of Large Language Model via Model Merging](https://arxiv.org/pdf/2502.06876v1)| 2025 | Arxiv | Llama-3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
-| [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |  
+| [How to Merge Your Multimodal Models Over Time?](https://arxiv.org/pdf/2412.06712)| 2024 | Arxiv |
 | [Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning](https://arxiv.org/pdf/2410.10801)| 2024 | Arxiv |  Aya 23 8B
 | [A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models](https://arxiv.org/pdf/2410.13841)| 2024 | Arxiv | LLaMA3-8B-Instruct,  Qwen2-7B-Instruct, Mistral-7B-Instruct-v0.3,
 | [Model-GLUE: Democratized LLM Scaling for A Large Model Zoo in the Wild](https://arxiv.org/pdf/2410.05357) |2024 | NeurIPS Track on Datasets and Benchmarks | Synthia-7B-v1.2, Llama-2-7b-evolcodealpaca, OpenHermes-7B, pygmalion-2-7b, Llama-2-7b-chat-hf, BeingWell_llama2_7b, MetaMath-7B-V1.0, vicuna-7b-v1.5, Platypus2-7B, GOAT-7B-Community, Llama-2-7b-WikiChat-fused, dolphin-llama2-7b, MetaMath-Llemma-7B, CodeLlama-7b-Instruct-hf, Magicoder-S-CL-7B, CrystalChat|
@@ -190,7 +191,7 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
 | [Distilling Linearized Behavior into Non-Linear Fine-Tuning for Effective Task Arithmetic](https://arxiv.org/pdf/2605.18993v1)| 2026 | ICML  | Llama-3.2-1B-Instruct
-| [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/abs/2604.17078) | 2026 | Arxiv | 
+| [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/abs/2604.17078) | 2026 | Arxiv |
 | [Tangent Space Fine-Tuning for Directional Preference Alignment in Large Language Models](https://arxiv.org/pdf/2602.01128) | 2026 | Arxiv | Llama-3.2-1B-Instruct
 | [Dataless Weight Disentanglement in Task Arithmetic via Kronecker-Factored Approximate Curvature](https://openreview.net/pdf?id=32mrjmaeMP) | 2026 | ICLR |
 | [Fine-Tuning Attention Modules Only: Enhancing Weight Disentanglement in Task Arithmetic](https://openreview.net/pdf?id=dj0TktJcVI) | 2025 |  ICLR |
@@ -298,9 +299,9 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](https://arxiv.org/pdf/2605.29295)| 2026 | ICML | Qwen2.5-1.5B, Qwen3-8B
 | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
-| [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv | 
-| [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv | 
-| [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
+| [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv |
+| [LARV: Data-Free Layer-wise Adaptive Rescaling Veneer for Model Merging](https://arxiv.org/pdf/2602.09413)| 2026 | Arxiv |
+| [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B |
 | [Superpose Task-specific Features for Model Merging](https://aclanthology.org/2025.emnlp-main.210.pdf)| 2025 | EMNLP | Llama-2-7B
 | [T3: Test-Time Model Merging in VLMs for Zero-Shot Medical Imaging Analysis](https://arxiv.org/pdf/2510.27265)| 2025 | Arxiv |
 | [Weight Weaving: Parameter Pooling for Data-Free Model Merging](https://arxiv.org/pdf/2510.13921)| 2025 | Arxiv |
@@ -339,12 +340,12 @@ Thanks!
 | [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
 | [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
 | [TaDA: Calibrated Probe Gating for Task-Domain LoRA Merging](https://arxiv.org/pdf/2606.05016)| 2026 | Arxiv | Llama-2-7b-hf
-| [Model Merging by Output-Space Projection](https://arxiv.org/pdf/2605.29101)| 2026 | Arxiv | Llama3.1-8B 
-| [Saliency-Aware Model Merging](https://arxiv.org/pdf/2606.00511)| 2026 | Arxiv | 
-| [Model Merging on Loss Landscape: A Geometry Perspective](https://arxiv.org/pdf/2605.26693)| 2026 | Arxiv | 
+| [Model Merging by Output-Space Projection](https://arxiv.org/pdf/2605.29101)| 2026 | Arxiv | Llama3.1-8B
+| [Saliency-Aware Model Merging](https://arxiv.org/pdf/2606.00511)| 2026 | Arxiv |
+| [Model Merging on Loss Landscape: A Geometry Perspective](https://arxiv.org/pdf/2605.26693)| 2026 | Arxiv |
 | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
-| [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv | 
-| [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv | 
+| [Towards Adaptive Continual Model Merging via Manifold-Aware Expert Evolution](https://arxiv.org/pdf/2604.22464)| 2026 | Arxiv |
+| [Evolutionary Negative Module Pruning for Better LoRA Merging](https://arxiv.org/pdf/2604.17753)| 2026 | Arxiv |
 | [Crowded in B-Space: Calibrating Shared Directions for LoRA Merging](https://arxiv.org/pdf/2604.16826)| 2026 | Arxiv |  Llama-3.1-8B
 | [Diet Your LLM: Dimension-wise Global Pruning of LLMs via Merging Task-specific Importance Score](https://arxiv.org/pdf/2603.23985)| 2026 | Arxiv | Gemma-2 9B, Qwen2.5-7B, Phi-4-mini
 | [DC-Merge: Improving Model Merging with Directional Consistency](https://arxiv.org/pdf/2603.06242)| 2026 | CVPR | LLaVA
@@ -355,7 +356,7 @@ Thanks!
 | [When Shared Knowledge Hurts: Spectral Over-Accumulation in Model Merging](https://arxiv.org/pdf/2602.05536)| 2026 | Arxiv |
 | [Merging Beyond: Streaming LLM Updates via Activation-Guided Rotations](https://arxiv.org/pdf/2602.03237)| 2026 | Arxiv |  Qwen2.5-7B, Qwen2.5-14B
 | [AdaRank: Adaptive Rank Pruning for Enhanced Model Merging](https://arxiv.org/pdf/2503.22178)| 2026 | ICLR |
-| [Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/pdf/2512.22511)| 2025 | Arxiv | 
+| [Decomposing Task Vectors for Refined Model Editing](https://arxiv.org/pdf/2512.22511)| 2025 | Arxiv |
 | [Stay Unique, Stay Efficient: Preserving Model Personality in Multi-Task Merging](https://arxiv.org/pdf/2512.01461) | 2025 | Arxiv |  Qwen-14B
 | [Towards Reversible Model Merging For Low-rank Weights](https://arxiv.org/pdf/2510.14163) | 2025 | Arxiv |
 | [Purifying Task Vectors in Knowledge-Aware Subspace for Model Merging](https://arxiv.org/pdf/2510.14697)| 2025 | Arxiv | LLaMA-2-7B
@@ -385,9 +386,9 @@ Thanks!
 | [Optimal Brain Iterative Merging: Mitigating Interference in LLM Merging](https://arxiv.org/pdf/2502.12217)| 2025 | Arxiv | Llama-2-13b, WizardMath-13B-V1.0, WizardLM13B-V1.2, llama-2-13b-codealpaca
 | [Superpose Singular Features for Model Merging](https://arxiv.org/pdf/2502.10698)| 2025 | Arxiv | Llama-2-7B
 | [STAR: Spectral Truncation and Rescale for Model Merging](https://arxiv.org/pdf/2502.10339)| 2025 | NAACL |  Mistral-7B-Instruct|
-| [No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces](https://arxiv.org/pdf/2502.04959)| 2025 | Arxiv |  
+| [No Task Left Behind: Isotropic Model Merging with Common and Task-Specific Subspaces](https://arxiv.org/pdf/2502.04959)| 2025 | Arxiv |
 | [Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging](https://arxiv.org/pdf/2501.09522)| 2025  |NeurIPS  | |
-| [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |  
+| [Modeling Multi-Task Model Merging as Adaptive Projective Gradient Descent](https://arxiv.org/pdf/2501.01230)| 2025 | Arxiv |
 | [Revisiting Weight Averaging for Model Merging](https://arxiv.org/pdf/2412.12153)| 2024  |Arxiv  | |
 | [Task Singular Vectors: Reducing Task Interference in Model Merging](https://arxiv.org/pdf/2412.00081) | 2025  |CVPR  | |
 | [Less is More: Efficient Model Merging with Binary Task Switch](https://arxiv.org/pdf/2412.00054)|  2024 |Arxiv  |
@@ -467,19 +468,19 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/pdf/2606.03232)| 2026 | ICML|
 | [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/pdf/2605.29489)| 2026 | ICML Workshop | Qwen3-0.6B
-| [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv | 
+| [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv |
 | [Black-Box Optimization of Mixed Binary-Continuous Variables: Challenges and Opportunities in Evolutionary Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
-| [Bayesian Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv | 
+| [Bayesian Model Merging](https://arxiv.org/pdf/2605.12843)| 2026 | Arxiv |
 | [Generalizing the Geometry of Model Merging Through Frechet Averages](https://arxiv.org/pdf/2604.27155)| 2026 | Arxiv | Llama-3 8B
-| [Differentially Private Model Merging](https://arxiv.org/pdf/2604.20985)| 2026 | Arxiv | 
-| [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv | 
-| [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv | 
-| [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv | 
-| [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv | 
-| [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv | 
-| [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv | 
+| [Differentially Private Model Merging](https://arxiv.org/pdf/2604.20985)| 2026 | Arxiv |
+| [Task Alignment: A simple and effective proxy for model merging in computer vision](https://arxiv.org/pdf/2604.12935)| 2026 | Arxiv |
+| [Model Merging via Data-Free Covariance Estimation](https://arxiv.org/pdf/2604.01329)| 2026 | Arxiv |
+| [Resolving Interference (RI): Disentangling Models for Improved Model Merging](https://arxiv.org/pdf/2603.13467)| 2026 | Arxiv |
+| [BD-Merging: Bias-Aware Dynamic Model Merging with Evidence-Guided Contrastive Learning](https://arxiv.org/pdf/2603.03920)| 2026 | Arxiv |
+| [ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation](https://arxiv.org/pdf/2603.02945)| 2026 | Arxiv |
+| [Training-Free Cross-Architecture Merging for Graph Neural Networks](https://arxiv.org/pdf/2602.19332)| 2026 | Arxiv |
 | [Gradient-Sign Masking for Task Vector Transport Across Pre-Trained Models](https://arxiv.org/abs/2510.09658)| 2026 | ICLR | Flan-T5 |
-| [Transporting Task Vectors across Different Architectures without Training](https://arxiv.org/pdf/2602.12952)| 2026 | Arxiv | 
+| [Transporting Task Vectors across Different Architectures without Training](https://arxiv.org/pdf/2602.12952)| 2026 | ICML |
 | [MergePipe: A Budget-Aware Parameter Management System for Scalable LLM Merging](https://arxiv.org/pdf/2602.13273)| 2026 | Arxiv | Llama3.1-8B, Llama-3.2-3B, Qwen3-0.6B, Qwen3-1.7B, and Qwen3-8B
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://openreview.net/pdf?id=W70w5JCzdq)| 2026 | ICLR |
 | [Sparsity-Aware Evolution for Model Merging](https://arxiv.org/pdf/2602.08218)| 2026 | Arxiv |
@@ -492,7 +493,7 @@ Thanks!
 | [Black-box Model Merging for Language-Model-as-a-Service with Massive Model Repositories](https://arxiv.org/pdf/2509.12951)| 2025 | Arxiv  |
 | [Rethinking Layer-wise Model Merging through Chain of Merges](https://arxiv.org/pdf/2508.21421v1)| 2025 | Arxiv  |Llama 3-8B
 | [Competition and Attraction Improve Model Fusion](https://arxiv.org/pdf/2508.16204)| 2025 | Arxiv  | WizardMath 7B v1.0, AgentEvol 7B
-| [PSO-Merging: Merging Models Based on Particle Swarm Optimization](https://arxiv.org/pdf/2508.19839)| 2025 | Arxiv  | Llama-3-8B, Llama-2-13B, and Mistral-7B-v0.3 | 
+| [PSO-Merging: Merging Models Based on Particle Swarm Optimization](https://arxiv.org/pdf/2508.19839)| 2025 | Arxiv  | Llama-3-8B, Llama-2-13B, and Mistral-7B-v0.3 |
 | [DisTaC: Conditioning Task Vectors via Distillation for Robust Model Merging](https://arxiv.org/pdf/2508.01148)| 2025 | Arxiv  |
 | [Navigating the Accuracy-Size Trade-Off with Flexible Model Merging](https://arxiv.org/pdf/2505.23209)| 2025 | Arxiv  |
 | [Efficient Multi-Task Inferencing: Model Merging with Gromov-Wasserstein Feature Alignment](https://arxiv.org/pdf/2503.09774?)| 2025 | Arxiv  |
@@ -504,7 +505,7 @@ Thanks!
 | [Activation-Informed Merging of Large Language Models](https://arxiv.org/pdf/2502.02421?)| 2025 | Arxiv | Llama-2-13b, WizardLM-13B, WizardMath-13B, llama-2-13b-code-alpaca
 | [Scalable Model Merging with Progressive Layer-wise Distillation](https://arxiv.org/pdf/2502.12706)| 2025 | Arxiv | WizardLM-13B, WizardMath-13B and llama-2-13b-code-alpaca
 | [Fine, I’ll Merge It Myself: A Multi-Fidelity Framework for Automated Model Merging](https://arxiv.org/pdf/2502.04030)| 2025 | Arxiv |  Llama-2-13, WizardLM13B, WizardMath-13, llama-2-13b-code-alpaca |
-| [Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts](https://arxiv.org/pdf/2501.15065)| 2025 | ICLR |  
+| [Task Arithmetic in Trust Region: A Training-Free Model Merging Approach to Navigate Knowledge Conflicts](https://arxiv.org/pdf/2501.15065)| 2025 | ICLR |
 | [Fine-tuning Aligned Classifiers for Merging Outputs: Towards a Superior Evaluation Protocol in Model Merging](https://arxiv.org/abs/2412.13526)| 2024 | Arxiv |
 | [Multi-Task Model Merging via Adaptive Weight Disentanglement](https://arxiv.org/pdf/2411.18729)| 2024 | Arxiv |
 | [Rethinking Weight-Averaged Model-merging](https://arxiv.org/pdf/2411.09263)| 2024 | Arxiv |
@@ -606,7 +607,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://arxiv.org/abs/2410.03415) | 2025 |  ICLR | GEMMA-7B-IT, LLAMA2-7B/13B/70B-CHAT, LLAMA3-8B-INST | 
+| [Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://arxiv.org/abs/2410.03415) | 2025 |  ICLR | GEMMA-7B-IT, LLAMA2-7B/13B/70B-CHAT, LLAMA3-8B-INST |
 | [3DM: Distill, Dynamic Drop, and Merge for Debiasing Multi-modal Large Language Models](https://aclanthology.org/2025.findings-acl.722.pdf) | 2025 |  ACL | LLaVA-1.5-7b, InternVL-2.5-8b, LLaVA-1.5-7b and ChatGLM4-9b |
 | [Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation](https://arxiv.org/pdf/2506.02973) | 2025 |  Arxiv | LLAMA3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
 | [Bias Vector: Mitigating Biases in Language Models with Task Arithmetic Approach](https://arxiv.org/pdf/2412.11679) | 2024 |  Arxiv |
@@ -640,7 +641,7 @@ Thanks!
  | --------------- | :----: | :----: | :----: |
  | [Extra-Merge: Tracing the Rank-1 Subspace of Model Merging in Language Model Pre-Training](https://arxiv.org/pdf/2605.26484)| 2026 |  ICML |  LLaMA-2B
  | [Mashup Learning: Faster Finetuning by Remixing Past Checkpoints](https://arxiv.org/pdf/2603.10156)| 2026 |  Arxiv |
- | [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/pdf/2512.13043)| 2025 |  Arxiv |Qwen2.5-VL-7B 
+ | [GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training](https://arxiv.org/pdf/2512.13043)| 2025 |  Arxiv |Qwen2.5-VL-7B
  | [Soup-of-Experts: Pretraining Specialist Models via Parameters Averaging](https://openreview.net/forum?id=MFNIka7nx0)| 2025 |  ICML |
  | [Local Mixtures of Experts: Essentially Free Test-Time Training via Model Merging](https://arxiv.org/pdf/2505.14136)| 2025 |  Arxiv |
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
@@ -663,23 +664,23 @@ Thanks!
  | [Revisiting Model Interpolation for Efficient Reasoning](https://arxiv.org/abs/2510.10977) | 2025 | Arxiv | Qwen3-4B
  | [Unlocking Efficient Long-to-Short LLM Reasoning with Model Merging](https://arxiv.org/pdf/2503.20641)| 2025 |Arxiv  | Qwen2.5-32B, DeepSeek-R1-32B |
  | [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/pdf/2501.12599?)| 2025 |Arxiv  | Kimi k1.5
-  
+
 #### Improving Computational Efficiency of MoE-based LLM
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
  | [SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training](https://arxiv.org/pdf/2605.08738)| 2026 | Arxiv  | Qwen3-Next-80A3B
  | [REAM: Merging Improves Pruning of Experts in LLMs](https://arxiv.org/pdf/2604.04356)| 2026 | Arxiv  |  Qwen3-30B-A3B-Instruct-2507,  Qwen3-Coder-Next, GLM-4.5-Air
- | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  | 
+ | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  |
  | [PuzzleMoE: Efficient Compression of Large Mixture-of-Experts Models via Sparse Expert Merging and Bit-packed inference](https://arxiv.org/pdf/2511.04805)| 2025 | Arxiv  | Mixtral-8x7B, Deepseek-MoE
  | [Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models](https://openreview.net/pdf?id=fyqqd1lHDb) | 2025 | Arxiv  | LLaMA-3.1-8B
  | [Expert Merging in Sparse Mixture of Experts with Nash Bargaining](https://arxiv.org/pdf/2510.16138)| 2025 |Arxiv  |Qwen1.5-MoE-14B, DeepSeek-MoE-16B |
  | [MergeMoE: Efficient Compression of MoE Models via Expert Output Merging](https://arxiv.org/pdf/2510.14436)| 2025 |Arxiv  | DeepSeekMoE, Qwen1.5-MoE-A2.7B, and Qwen3-30B-A3B |
- | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  | 
+ | [Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference](https://arxiv.org/pdf/2509.21966)| 2025 |Arxiv  |
  | [Sub-MoE: Efficient Mixture-of-Expert LLMs Compression via Subspace Expert Merging](https://arxiv.org/pdf/2506.23266) | 2025 |Arxiv  | Mixtral 8x7B, Qwen3- 235B-A22B, Qwen1.5-MoE-A2.7B, and DeepSeekMoE-16B-Base
- | [On Linear Mode Connectivity of Mixture-of-Experts Architectures](https://arxiv.org/pdf/2509.11348)| 2025 |NeurIPS  |  
+ | [On Linear Mode Connectivity of Mixture-of-Experts Architectures](https://arxiv.org/pdf/2509.11348)| 2025 |NeurIPS  |
  | [Merge, then compress: Demystify efficient SMoe with hints from its routing policy](https://arxiv.org/pdf/2310.01334)|2024|ICLR|fairseq-moe15b SMoE
- | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  | 
+ | [Merging Experts into One: Improving Computational Efficiency of Mixture of Experts](https://aclanthology.org/2023.emnlp-main.907.pdf) | 2023 |EMNLP  |
 
 #### Mixing Datasets via Model Merging
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -692,7 +693,7 @@ Thanks!
  | [MergeMix: Optimizing Mid-Training Data Mixtures via Learnable Model Merging](https://arxiv.org/pdf/2601.17858)| 2026 |  Arxiv | 8B and 16B MoE
  | [Merge to Mix: Mixing Datasets via Model Merging](https://arxiv.org/pdf/2505.16066)| 2025 |  Arxiv | Llama-3-8B-Instruct
 
- 
+
 #### LLM Agent Merging
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -700,9 +701,9 @@ Thanks!
   | [Behavior Knowledge Merge in Reinforced Agentic Models](https://arxiv.org/pdf/2601.13572)| 2026 | Arxiv | RL-trained agentic models
   | [ARM: Role-Conditioned Neuron Transplantation for Training-Free Generalist LLM Agent Merging](https://arxiv.org/pdf/2601.07309)| 2026 | Arxiv | Simia-Tau-SFT-Qwen3-8B, SimiaOfficeBench-SFT-Qwen3-8B, and Simia-AgentBench-SFT-Qwen3-8B
   | [Divide, Optimize, Merge: Scalable Fine-Grained Generative Optimization for LLM Agents](https://aclanthology.org/2025.findings-emnlp.1034/)| 2025 | EMNLP | o3-mini
-  | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr))| 2024 | NeurIPS | Llama3.1-8B 
+  | [AgentMerge: Enhancing Generalization in Fine-Tuned LLM Agents](https://openreview.net/pdf?id=nZmAwmi2gr))| 2024 | NeurIPS | Llama3.1-8B
   | [Agent Skill Acquisition for Large Language Models via CycleQD](https://arxiv.org/pdf/2410.14735) |2024 |Arxiv | Llama3-8B-Instruct|
- 
+
 #### Combine the Capabilities of Expert LLMs
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
@@ -713,7 +714,7 @@ Thanks!
   | [Merge and Conquer: Instructing Multilingual Models by Adding Target Language Weights](https://arxiv.org/pdf/2603.28263)| 2026 | Arxiv | Llama 3.1 8B, Qwen3 8B, Qwen3 14B
   | [Preference-Aligned LoRA Merging: Preserving Subspace Coverage and Addressing Directional Anisotropy](https://arxiv.org/pdf/2603.26299)| 2026 | Arxiv | LLaMA-3-8B
   | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
-  | [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/pdf/2603.25041)| 2026 | Arxiv | 
+  | [AdaLTM: Adaptive Layer-wise Task Vector Merging for Categorical Speech Emotion Recognition with ASR Knowledge Integration](https://arxiv.org/pdf/2603.25041)| 2026 | Arxiv |
   | [Functionality-Oriented LLM Merging on the Fisher–Rao Manifold](https://arxiv.org/pdf/2603.04972)| 2026 | Arxiv | Qwen2.5-14B, Qwen2.5-14B-Instruct-1M, Qwen2.5-Coder-14B-Instruct, DeepSeek-R1-Distill-Qwen-14B, OpenReasoning-Nemotron-14B
   | [The Appeal and Reality of Recycling LoRAs with Adaptive Merging](https://arxiv.org/pdf/2602.12323)| 2026 | Arxiv |   Llama3.1 8B-Instruct
   | [LS-Merge: Merging Language Models in Latent Space](https://openreview.net/pdf?id=VSDV0SWwOC)| 2026 | ICLR | Gemma-3-1B-it, Gemma-3-4B-it, Llama-3-1B-instruct, Llama-2-7b
@@ -725,14 +726,14 @@ Thanks!
   | [ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging](https://arxiv.org/pdf/2601.05560)| 2026 | Arxiv | QwQ-32B-Preview, Meditron3-Qwen2.5-7B and MMed-Llama3-8B, WiroAIFinance-Qwen-7B and WiroAI-Finance-Llama8B
   | [Reliable Cultural Knowledge Preservation in Multilingual LLMs through Model Merging](https://raw.githubusercontent.com/mlresearch/v310/main/assets/nguyen25b/nguyen25b.pdf)| 2025 | Arxiv |Qwen-2.5-3B
   | [AlignMerge - Alignment-Preserving Large Language Model Merging via Fisher-Guided Geometric Constraints](https://arxiv.org/pdf/2512.16245)| 2025 | Arxiv | LLaMA-3 8B, Mistral 7B, Qwen 2, Phi-3.5, Gemma 2
-  | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv | 
+  | [Grow Up and Merge: Scaling Strategies for Efficient Language Adaptation](https://arxiv.org/pdf/2512.10772)| 2025 | Arxiv |
   | [Adapting Chat Language Models Using Only Target Unlabeled Language Data](https://openreview.net/pdf?id=6IdoIKowfe)| 2025 | TMLR | Qwen2.5 7B, Llama 3.1 8B, Qwen3 14B
   | [RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior](https://arxiv.org/pdf/2508.03140) | 2026 |  AAAI | Qwen2.5-7B, Llama3.1-8B
-  | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B | 
+  | [Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance](https://arxiv.org/pdf/2511.13254v1)| 2025 | Arxiv | xLAM-2-70b, CoALM-70B, watt-tool-70B, functionary-medium-70B, xLAM-2-8b, ToolACE-2-8B, watt-tool-8B, BitAgent-8B, CoALM-8B |
   | [SPEAR-MM: Selective Parameter Evaluation and Restoration via Model Merging for Efficient Financial LLM Adaptation](https://arxiv.org/pdf/2511.08500)| 2025 | Arxiv |
-  | [Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance](https://arxiv.org/pdf/2511.02451)| 2025 | Arxiv | Llama-3-8B, Llama-2-7B 
+  | [Merging Continual Pretraining Models for Domain-Specialized LLMs: A Case Study in Finance](https://arxiv.org/pdf/2511.02451)| 2025 | Arxiv | Llama-3-8B, Llama-2-7B
   | [Extracting and Combining Abilities For Building Multi-lingual Ability-enhanced Large Language Models](https://aclanthology.org/2025.emnlp-main.887.pdf)| 2025 | EMNLP | LLaMA-3 8B
-  | [Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging](https://aclanthology.org/2025.arabicnlp-main.27.pdf)| 2025 | arabicnlp | 
+  | [Bridging Dialectal Gaps in Arabic Medical LLMs through Model Merging](https://aclanthology.org/2025.arabicnlp-main.27.pdf)| 2025 | arabicnlp |
   | [Adapting Multilingual Models to Code-Mixed Tasks via Model Merging](https://arxiv.org/pdf/2510.19782)| 2025 | Arxiv |
   | [Harmonizing Diverse Models: A Layer-wise Merging Strategy for Consistent Generation](https://arxiv.org/pdf/2510.14915)| 2025 | Arxiv | Llama-3.1-8B-Instruct and Gemma-3-12B-Instruct
   | [ABC: Towards a Universal Code Styler through Model Merging](https://dl.acm.org/doi/pdf/10.1145/3763104)| 2025 | ACM on Programming Languages | Qwen2.5-Coder, Deepseek-Coder |
@@ -945,7 +946,7 @@ Thanks!
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
   | [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](https://arxiv.org/pdf/2605.20803)| 2026  |Arxiv  |
-  | [Unlocking the Potential of Continual Model Merging: An ODE Perspective](https://arxiv.org/pdf/2605.19409)| 2026  |ICML  | 
+  | [Unlocking the Potential of Continual Model Merging: An ODE Perspective](https://arxiv.org/pdf/2605.19409)| 2026  |ICML  |
   | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/pdf/2605.12419)| 2026  |Arxiv  |
   | [Revitalizing the Beginning: Avoiding Storage Dependency for Model Merging in Continual Learning](https://arxiv.org/pdf/2605.08311)| 2026  |Arxiv  |
   | [Can Continual Pre-training Bridge the Performance Gap between General-purpose and Specialized Language Models in the Medical Domain?](https://arxiv.org/pdf/2604.19394)| 2026  |Arxiv  | Qwen2.5-7B-Instruct and Mistral-7BInstruct, Mistral-Small-24B-Instruct
@@ -966,7 +967,7 @@ Thanks!
   | [Null-Space Filtering for Data-Free Continual Model Merging: Preserving Stability, Promoting Plasticity](https://arxiv.org/pdf/2509.21413)| 2026  |ICLR  |
   | [AIMMerging: Adaptive Iterative Model Merging Using Training Trajectories for Language Model Continual Learning](https://arxiv.org/pdf/2509.17348)| 2025 | EMNLP | LLaMA2-7B, LLaMA2-13B |
   | [HAM: Hierarchical Adapter Merging for Scalable Continual Learning](https://arxiv.org/pdf/2509.13211)| 2025 | Arxiv |
-  | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B 
+  | [Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning](https://openreview.net/pdf?id=FKqmIAnkrb)| 2025 | ICML |LLaVA-1.5-7B
   | [DuET: Dual Incremental Object Detection via Exemplar-Free Task Arithmetic](https://arxiv.org/pdf/2506.21260)| 2025 | Arxiv |
   | [Integrating Task-Specific and Universal Adapters for Pre-Trained Model-based Class-Incremental Learning](https://arxiv.org/pdf/2508.08165)| 2025 | ICCV |
   | [Forgetting of task-specific knowledge in model merging-based continual learning](https://arxiv.org/pdf/2507.23311)| 2025 | Arxiv |
@@ -1049,11 +1050,11 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
-  | [Domain-Adaptive Model Merging across Disconnected Modes](https://arxiv.org/pdf/2603.05957) | 2026 | Arxiv  | 
-  | [Bridging Domains through Subspace-Aware Model Merging](https://arxiv.org/pdf/2603.05768) | 2026 | Arxiv  | 
-  | [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  | 
+  | [Domain-Adaptive Model Merging across Disconnected Modes](https://arxiv.org/pdf/2603.05957) | 2026 | Arxiv  |
+  | [Bridging Domains through Subspace-Aware Model Merging](https://arxiv.org/pdf/2603.05768) | 2026 | Arxiv  |
+  | [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  |
   | [To Mix or To Merge: Toward Multi-Domain Reinforcement Learning for Large Language Models](https://arxiv.org/pdf/2602.12566) | 2026 | Arxiv  | Qwen3-4B-Base
-  | [MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/pdf/2601.15930) | 2026 | Arxiv  | Qwen3-0.6B 
+  | [MMGRid: Navigating Temporal-aware and Cross-domain Generative Recommendation via Model Merging](https://arxiv.org/pdf/2601.15930) | 2026 | Arxiv  | Qwen3-0.6B
   | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
   | [DEM: Distribution Edited Model for Training with Mixed Data Distributions](https://arxiv.org/pdf/2406.15570) | 2024 |  Arxiv |  OpenLLaMA-7B, OpenLLaMA-13B |
   | [Merging Vision Transformers from Different Tasks and Domains](https://arxiv.org/pdf/2312.16240) | 2023 |Arxiv  |
@@ -1070,7 +1071,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  | 
+| [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  |
 | [Model soups need only one ingredient](https://arxiv.org/pdf/2602.09689)| 2026 | Arxiv |
 | [System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/pdf/2512.09563)| 2025 | Arxiv |Qwen2.5-7B-Instruct
 | [Merging Smarter, Generalizing Better: Enhancing Model Merging on OOD Data](https://arxiv.org/pdf/2506.09093)| 2025 | Arxiv |
@@ -1123,7 +1124,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI | 
+| [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI |
 | [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](https://arxiv.org/pdf/2602.18658)| 2026 | Arxiv | LLaMA-3.2-3B-Instruct
 | [On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://openreview.net/pdf?id=zrFnwRHuQo)| 2026 | ICLR |
 | [Bi-level Personalization for Federated Foundation Models: A Task-vector Aggregation Approach](https://arxiv.org/pdf/2509.12697)| 2025 | Arxiv | LLaMA-7B
@@ -1159,7 +1160,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/pdf/2512.18699) |   2026 |Arxiv | 
+| [Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/pdf/2512.18699) |   2026 |Arxiv |
 | [Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models](https://arxiv.org/pdf/2511.05171) |2025 |NeurIPS Workshop | LLAMA-3.1-8B-INSTRUCT
 | [Investigating Task Arithmetic for Zero-Shot Information Retrieval](https://arxiv.org/pdf/2505.00649) |2025 |SIGIR |  LLama-2-7b
 | [Retraining-Free Merging of Sparse Mixture-of-Experts via Hierarchical Clustering](https://arxiv.org/pdf/2410.08589) |2024 |Arxiv | Qwen 60x2.7B, Qwen 45x2.7B, Qwen 30x2.7B, Mixtral 8x7B, Mixtral 6x7B, Mixtral 4x7B|
@@ -1181,7 +1182,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Task Arithmetic with Support Languages for Low-Resource ASR](https://arxiv.org/pdf/2601.07038) |   2026 |Arxiv | 
+| [Task Arithmetic with Support Languages for Low-Resource ASR](https://arxiv.org/pdf/2601.07038) |   2026 |Arxiv |
 | [Unlocking Tuning-Free Few-Shot Adaptability in Visual Foundation Models by Recycling Pre-Tuned LoRAs](https://arxiv.org/pdf/2412.02220) | 2025 | CVPR |
 | [LoRA-Flow: Dynamic LoRA Fusion for Large Language Models in Generative Tasks](https://arxiv.org/pdf/2402.11455) | 2024 | ACL | Llama-2- 7B|
 | [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/pdf/2307.13269) | 2024 |  COLM | Llama-2-7B, Llama-2-13B |
@@ -1213,9 +1214,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
-| [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR | 
-| [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv | 
-| [Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/pdf/2601.04448)| 2026 |  Arxiv | Llama2-7B and Qwen3-8B 
+| [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR |
+| [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv |
+| [Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/pdf/2601.04448)| 2026 |  Arxiv | Llama2-7B and Qwen3-8B
 | [Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/pdf/2511.10712)| 2026 |  AAAI|  LLaMA-2-13B, WizardLM-13B, WizardMath-13B, LLaMA-2-13B-Code Alpaca |
 | [Defending Unauthorized Model Merging via Dual-Stage Weight Protection](https://arxiv.org/pdf/2511.11851)| 2025 |  Arxiv|
 | [Model Unmerging: Making Your Models Unmergeable for Secure Model Sharing](https://arxiv.org/pdf/2509.01548)| 2025 |  Arxiv|
@@ -1243,14 +1244,14 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/pdf/2603.01416v1)| 2026 | Arxiv |
 | [ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/pdf/2603.03198v1)| 2026 | Arxiv |
-| [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/pdf/2603.10526)| 2026 | Arxiv 
+| [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/pdf/2603.10526)| 2026 | Arxiv
 | [Less Finetuning, Better Retrieval: Rethinking LLM Adaptation for Biomedical Retrievers via Synthetic Data and Model Merging](https://arxiv.org/pdf/2602.04731)| 2026 | Arxiv |  Qwen3-0.6B, Gemma-2B, Phi4-3.8B
 | [When Domain Pretraining Interferes with Instruction Alignment: An Empirical Study of Adapter Merging in Medical LLMs](https://arxiv.org/pdf/2601.18350)| 2026 | Arxiv | 14B-parameter LLM
 | [MergeRec: Model Merging for Data-Isolated Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2601.01753)| 2026 | KDD |
-| [Rare Word Recognition and Translation Without Fine-Tuning via Task Vector in Speech Models](https://arxiv.org/pdf/2512.21894)| 2025 | Arxiv | 
+| [Rare Word Recognition and Translation Without Fine-Tuning via Task Vector in Speech Models](https://arxiv.org/pdf/2512.21894)| 2025 | Arxiv |
 | [System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/pdf/2512.09563)| 2025 | Arxiv |Qwen2.5-7B-Instruct
-| [Group-Aware Partial Model Merging for Children’s Automatic Speech Recognition](https://arxiv.org/pdf/2511.23098)| 2025 |  Arxiv | 
-| [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://arxiv.org/pdf/2511.18660)| 2025 |  Arxiv | 
+| [Group-Aware Partial Model Merging for Children’s Automatic Speech Recognition](https://arxiv.org/pdf/2511.23098)| 2025 |  Arxiv |
+| [Subtract the Corruption: Training-Data-Free Corrective Machine Unlearning using Task Arithmetic](https://arxiv.org/pdf/2511.18660)| 2025 |  Arxiv |
 | [RecCocktail: A Generalizable and Efficient Framework for LLM-Based Recommendation](https://le-wu.com/files/Publications/CONFERENCES/AAAI26-RecCocktail.pdf)| 2025 |  AAAI | Llama-3.1-8B
 | [A Novel Hierarchical Integration Method for Efficient Model Merging in Medical LLMs](https://arxiv.org/pdf/2511.13373)| 2025 |  Arxiv | Mistral-7B
 | [WeaveRec: An LLM-Based Cross-Domain Sequential Recommendation Framework with Model Merging](https://arxiv.org/pdf/2510.26546)| 2025 |  Arxiv | Qwen2-7B
