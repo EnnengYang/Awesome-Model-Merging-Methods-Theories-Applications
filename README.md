@@ -337,6 +337,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv |  InternVL2.5,  Qwen2-VL |
 | [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
 | [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
 | [TaDA: Calibrated Probe Gating for Task-Domain LoRA Merging](https://arxiv.org/pdf/2606.05016)| 2026 | Arxiv | Llama-2-7b-hf
