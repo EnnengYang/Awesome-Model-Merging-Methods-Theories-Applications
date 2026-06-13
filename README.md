@@ -886,6 +886,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](https://arxiv.org/pdf/2606.10617)| 2026 | ICML | 
 | [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](https://arxiv.org/pdf/2603.20470)| 2026 | Arxiv |Stable Diffusion v1.5, FLUX.1 Dev
 | [GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2601.18585)| 2026 | Arxiv |
 | [Rethinking Inter-LoRA Orthogonality in Adapter Merging: Insights from Orthogonal Monte Carlo Dropout](https://arxiv.org/pdf/2510.03262)| 2025 | Arxiv |
@@ -1215,6 +1216,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](https://arxiv.org/pdf/2606.12498)| 2026 |  ICML | 
 | [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR |
 | [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv |
 | [Merging Triggers, Breaking Backdoors: Defensive Poisoning for Instruction-Tuned Language Models](https://arxiv.org/pdf/2601.04448)| 2026 |  Arxiv | Llama2-7B and Qwen3-8B
