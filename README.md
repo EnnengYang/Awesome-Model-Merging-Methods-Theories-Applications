@@ -218,6 +218,7 @@ Thanks!
 ##### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing](https://arxiv.org/pdf/2606.16501)| 2026 | ICML |  Gemma-2-2B, Llama-3.2-3B, Llama-3.1-8B, and Qwen-3-4B
 | [MergOPT: A Merge-Aware Optimizer for Robust Model Merging](https://openreview.net/forum?id=C21rz8mo65) | 2026 | ICLR | Llama3.1-8B-Instruct
 
 
