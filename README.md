@@ -338,6 +338,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
+| [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
+| [PACT: Preserving Anchored Cores in Task-vectors for Model Merging](https://arxiv.org/pdf/2606.18627)| 2026 | Arxiv | 
 | [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv |  InternVL2.5,  Qwen2-VL |
 | [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
 | [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
@@ -710,6 +713,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Enhancing Multilingual Reasoning via Steerable Model Merging](https://arxiv.org/pdf/2606.19002)| 2026 | Arxiv | 
   | [When Model Merging Breaks Routing: Training-Free Calibration for MoE](https://arxiv.org/pdf/2606.03391)| 2026 | Arxiv | OLMoE-1B-7B-0125
   | [On the Limits of Model Merging for Multilinguality in Pre-Training](https://arxiv.org/pdf/2605.25846)| 2026 | Arxiv | HPLT 2.15B
   | [Train Separately, Merge Together: Modular Post-Training with Mixture-of-Experts](https://arxiv.org/pdf/2604.18473)| 2026 | Arxiv |OLMo 2 7B
@@ -1246,6 +1250,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [StereoFactory: A Unified Merging Framework for Robust Stereo Matching](https://arxiv.org/pdf/2606.17475)| 2026 | Arxiv |
 | [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/pdf/2603.01416v1)| 2026 | Arxiv |
 | [ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/pdf/2603.03198v1)| 2026 | Arxiv |
 | [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://arxiv.org/pdf/2603.10526)| 2026 | Arxiv
