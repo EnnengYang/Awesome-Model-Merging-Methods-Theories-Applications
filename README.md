@@ -237,6 +237,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers](https://arxiv.org/pdf/2606.23607)| 2026 |  Arxiv | 
 | [Transport and Merge: Cross-Architecture Merging for Large Language Models](https://arxiv.org/pdf/2602.05495) | 2026 |  Arxiv | LLaMA-3 8B
 | [Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization](https://arxiv.org/pdf/2511.12601) | 2025 | TAG-DS |
 | [Understanding Mode Connectivity via Parameter Space Symmetry](https://openreview.net/pdf?id=E8dMQGsKZv) | 2025 | ICML |
@@ -338,6 +339,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Learning to Recover Task Experts from a Multi-Task Merged Model](https://arxiv.org/pdf/2606.26902)| 2026 | Arxiv |
+| [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/pdf/2606.22589)| 2026 | Arxiv |
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
 | [PACT: Preserving Anchored Cores in Task-vectors for Model Merging](https://arxiv.org/pdf/2606.18627)| 2026 | Arxiv | 
