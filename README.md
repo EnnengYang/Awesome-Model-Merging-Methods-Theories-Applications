@@ -1170,6 +1170,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Robust Zero-Shot Generalization for Open-Vocabulary Action Recognition via Task Arithmetic](https://arxiv.org/pdf/2606.20734)|   2026 |Arxiv |
 | [Task Vector in TTS: Toward Emotionally Expressive Dialectal Speech Synthesis](https://arxiv.org/pdf/2512.18699) |   2026 |Arxiv |
 | [Model Merging Improves Zero-Shot Generalization in Bioacoustic Foundation Models](https://arxiv.org/pdf/2511.05171) |2025 |NeurIPS Workshop | LLAMA-3.1-8B-INSTRUCT
 | [Investigating Task Arithmetic for Zero-Shot Information Retrieval](https://arxiv.org/pdf/2505.00649) |2025 |SIGIR |  LLama-2-7b
