@@ -474,6 +474,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging to Evolution: Parameter Space Exploration for Expert Models](https://arxiv.org/pdf/2606.28373)| 2026 | Arxiv  |Gemma-2-2b-it
 | [GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/pdf/2606.03232)| 2026 | ICML|
 | [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/pdf/2605.29489)| 2026 | ICML Workshop | Qwen3-0.6B
 | [Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning](https://arxiv.org/pdf/2605.14386)| 2026 | Arxiv |
@@ -1208,6 +1209,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [On the Vulnerability of Parameter-Level Defenses to Model Merging](https://arxiv.org/pdf/2606.30360)| 2026  | Arxiv |Qwen2-7B
 | [RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/pdf/2606.03344)| 2026  | Arxiv | Llama-3-8B and Qwen-2.5- 7B
 | [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/pdf/2604.00627)| 2026  | Arxiv | Tulu-2-7b, Llama-3.1-Tulu-3-8B-DPO, OpenChat-3.5-0106
 | [Backdoor Vectors: a Task Arithmetic View on Backdoor Attacks and Defenses](https://arxiv.org/pdf/2510.08016)| 2025  | Arxiv |
