@@ -43,7 +43,7 @@ If you find our paper or this resource helpful, please consider cite:
   issn = {0360-0300},
   url = {https://doi.org/10.1145/3787849},
   doi = {10.1145/3787849},
-  journal = {ACM Comput. Surv.},
+  journal = {ACM Computing Surveys},
   month = feb,
   articleno = {216},
   numpages = {41}
@@ -131,12 +131,12 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** |
 | --------------- | :----: | :----: |
+| [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)| 2026 | ACM Computing Surveys |
 | [Model Merging in the Era of Large Language Models: Methods, Applications, and Future Directions](https://arxiv.org/pdf/2603.09938)| 2026 | Arxiv |
 | [Scaling Intelligence Through Model Merging: A Comprehensive Survey](https://d197for5662m48.cloudfront.net/documents/publicationstatus/290780/preprint_pdf/716bd23c7315eead7ee9fd24fa7b4290.pdf)| 2025 | Arxiv |
 | [Democratizing AI Through Model Fusion: A Comprehensive Review and Future Directions](https://www.sciencedirect.com/science/article/pii/S295016012500049X)| 2025 | Arxiv |
 | [From Task-Specific Models to Unified Systems: A Review of Model Merging Approaches](https://arxiv.org/pdf/2503.08998)| 2025 | Arxiv |
 | [SoK: On Finding Common Ground in Loss Landscapes Using Deep Model Merging Techniques](https://arxiv.org/pdf/2410.12927)| 2024 | Arxiv |
-| [Model Merging in LLMs, MLLMs, and Beyond: Methods, Theories, Applications and Opportunities](https://arxiv.org/abs/2408.07666)| 2024 | Arxiv |
 | [A Survey on Model MoErging: Recycling and Routing Among Specialized Experts for Collaborative Learning](https://www.arxiv.org/pdf/2408.07057)| 2024 | Arxiv |
 | [Merge, Ensemble, and Cooperate! A Survey on Collaborative Strategies in the Era of Large Language Models](https://arxiv.org/pdf/2407.06089)| 2024 | Arxiv |
 | [Learn From Model Beyond Fine-Tuning: A Survey](https://arxiv.org/pdf/2310.08184)| 2023 | Arxiv |
