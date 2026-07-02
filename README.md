@@ -459,16 +459,18 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](https://arxiv.org/pdf/2412.19098)| 2026 | ICML  | 
 | [FEATCAL: Feature Calibration for Post-Merging Models](https://arxiv.org/pdf/2605.13030)| 2026 | Arxiv  | Llama-3.1-8B-Instruc
 | [MAGIC: Achieving Superior Model Merging via Magnitude Calibration](https://github.com/lyymuwu/MAGIC)| 2025 | Arxiv  |OLMo-3-7B
 | [Towards Minimizing Feature Drift in Model Merging: Layer-wise Task Vector Fusion for Adaptive Knowledge Integration](https://arxiv.org/pdf/2505.23859)| 2025 |NeurIPS  |
 | [Multi-Task Model Fusion via Adaptive Merging](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10887718)|2025  | ICASSP |
 | [Representation Surgery in Model Merging with Probabilistic Modeling](https://openreview.net/pdf?id=a02CH43z1G)|2025  | ICML |
 | [Parameter-Efficient Interventions for Enhanced Model Merging](https://arxiv.org/pdf/2412.17023)|2024  | Arxiv |
-| [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
+| [MOMA: Masked Orthogonal Matrix Alignment for Zero-Additional-Parameter Model Merging](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |
 | [SurgeryV2: Bridging the Gap Between Model Merging and Multi-Task Learning with Deep Representation Surgery](https://arxiv.org/pdf/2410.14389)|2024  | Arxiv |
 | [Representation Surgery for Multi-Task Model Merging](https://openreview.net/pdf/602906ec02919eb95d78d634321fcba1b68a2f03.pdf) |2024  | ICML |
 
+<!--| [Tint Your Models Task-wise for Improved Multi-task Model Merging](https://arxiv.org/pdf/2412.13526)|2024  | Arxiv |-->
 
 ### Other Merging Methods
 
