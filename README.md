@@ -476,6 +476,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging as Probabilistic Inference in Fine-Tuning Parameter Space](https://arxiv.org/pdf/2607.01689)| 2026 | Arxiv  |
 | [Model Merging to Evolution: Parameter Space Exploration for Expert Models](https://arxiv.org/pdf/2606.28373)| 2026 | Arxiv  |Gemma-2-2b-it
 | [GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/pdf/2606.03232)| 2026 | ICML|
 | [Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging](https://arxiv.org/pdf/2605.29489)| 2026 | ICML Workshop | Qwen3-0.6B
