@@ -101,6 +101,7 @@ Thanks!
     - [Deepfake Detection](#deepfake-detection)
   - [Model Merging in Video Generative Models](#model-merging-in-video-generative-models)
     - [Enhancing Motion Modeling](#enhancing-motion-modeling)
+  - [Model Merging in Embodied Models](#model-merging-in-embodied-models)
 - [Application of Model Merging in Different Machine Learning Subfields](#application-of-model-merging-in-different-machine-learning-subfields)
   - [Model Merging in Continual Learning](#model-merging-in-continual-learning)
     - [Model Merging to Mitigate Catastrophic Forgetting](#model-merging-to-mitigate-catastrophic-forgetting)
@@ -339,6 +340,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/pdf/2607.03065)| 2026 | Arxiv | DeepScaleR (1.5B), POLARIS (4B), OLMo-3.1-32B-Think, OLMo-3-7B-Base
 | [Learning to Recover Task Experts from a Multi-Task Merged Model](https://arxiv.org/pdf/2606.26902)| 2026 | Arxiv |
 | [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/pdf/2606.22589)| 2026 | Arxiv |
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
@@ -945,6 +947,13 @@ Thanks!
 | --------------- | :----: | :----: | :----: |
 | [Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think](https://arxiv.org/abs/2503.00948)|  2025 | CVPR | Dynamicrafter，SVD |
 
+
+### Model Merging in Embodied Models
+| **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
+| --------------- | :----: | :----: | :----: |
+| [ACE-Brain-0.5: A Unified Embodied Foundational Model for Physical Agentic AI](https://arxiv.org/pdf/2607.04426)|  2026 | Arxiv | 
+| [ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/pdf/2603.03198)|  2026 | Arxiv | 
+
 ----------
 
 ## Application of Model Merging in Different Machine Learning Subfields
@@ -959,6 +968,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/pdf/2607.04755)| 2026  |Arxiv  |
+  | [MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/pdf/2607.04747)| 2026  |Arxiv  |
   | [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](https://arxiv.org/pdf/2605.20803)| 2026  |Arxiv  |
   | [Unlocking the Potential of Continual Model Merging: An ODE Perspective](https://arxiv.org/pdf/2605.19409)| 2026  |ICML  |
   | [ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging](https://arxiv.org/pdf/2605.12419)| 2026  |Arxiv  |
@@ -1123,6 +1134,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Cross-device Collaborative Test-time Adaptation with Zeroth-order Optimization and Model Merging](https://arxiv.org/pdf/2607.02988)| 2026 | Arxiv | 
 | [Selecting and Merging: Towards Adaptable and Scalable Named Entity Recognition with Large Language Models](https://arxiv.org/pdf/2506.22813)| 2025 | Arxiv | Qwen2.5-7B, Llama3.1-8B |
 | [Harmonizing and Merging Source Models for CLIP-based Domain Generalization](https://arxiv.org/pdf/2506.09446)| 2025 | Arxiv |
 | [Realistic Evaluation of Model Merging for Compositional Generalization](https://arxiv.org/pdf/2409.18314)| 2024 | Arxiv |
@@ -1138,6 +1150,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Can Model Merging Improve Aggregation in DiLoCo?](https://arxiv.org/pdf/2607.03011)| 2026 | Arxiv |
 | [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI |
 | [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](https://arxiv.org/pdf/2602.18658)| 2026 | Arxiv | LLaMA-3.2-3B-Instruct
 | [On The Surprising Effectiveness of a Single Global Merging in Decentralized Learning](https://openreview.net/pdf?id=zrFnwRHuQo)| 2026 | ICLR |
@@ -1259,6 +1272,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Efficient Decentralized Multi-task Dataset Valuation via Model Merging](https://arxiv.org/pdf/2607.03346)| 2026 | Arxiv |
+| [Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging](https://arxiv.org/pdf/2607.08540)| 2026 | Arxiv |
 | [StereoFactory: A Unified Merging Framework for Robust Stereo Matching](https://arxiv.org/pdf/2606.17475)| 2026 | Arxiv |
 | [Securing the Floor and Raising the Ceiling: A Merging-based Paradigm for Multi-modal Search Agents](https://arxiv.org/pdf/2603.01416v1)| 2026 | Arxiv |
 | [ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments](https://arxiv.org/pdf/2603.03198v1)| 2026 | Arxiv |
