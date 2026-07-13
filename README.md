@@ -341,8 +341,6 @@ Thanks!
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
 | [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/pdf/2607.03065)| 2026 | Arxiv | DeepScaleR (1.5B), POLARIS (4B), OLMo-3.1-32B-Think, OLMo-3-7B-Base
-| [Learning to Recover Task Experts from a Multi-Task Merged Model](https://arxiv.org/pdf/2606.26902)| 2026 | Arxiv |
-| [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/pdf/2606.22589)| 2026 | Arxiv |
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
 | [PACT: Preserving Anchored Cores in Task-vectors for Model Merging](https://arxiv.org/pdf/2606.18627)| 2026 | Arxiv | 
@@ -427,6 +425,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Learning to Recover Task Experts from a Multi-Task Merged Model](https://arxiv.org/pdf/2606.26902)| 2026 | Arxiv |
+| [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/pdf/2606.22589)| 2026 | Arxiv |
 | [Dynamic Model Merging Made Slim](https://arxiv.org/pdf/2605.18904)| 2026 | Arxiv |Llama-3.1-8B-Instruct, Qwen-2.5-7B-Instruct
 | [Auto-FlexSwitch: Efficient Dynamic Model Merging via Learnable Task Vector Compression](https://arxiv.org/pdf/2604.28109)| 2026 | Arxiv |
 | [TECS-L (Golden MoE): Dense-to-MoE Expert Splitting Framework](https://github.com/need-singularity/TECS-L)| 2026 | GitHub | Mistral-7B |
