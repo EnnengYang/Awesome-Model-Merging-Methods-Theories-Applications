@@ -722,6 +722,8 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Are we Merging the Right Models? Impact of Expert Training Duration on Model Merging for LLMs](https://arxiv.org/pdf/2607.11997)| 2026 | ICML |Qwen 3.5 0.8B, 2B, and 4B
+  | [Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation](https://arxiv.org/pdf/2607.14895)| 2026 | Arxiv | OpenThinker 7B, Apriel Nemotron 15B Thinker, Olmo3 7B Think, DeepSeek R1 Qwen 7B Distilled (Qwen 7B R1-D) |
   | [Enhancing Multilingual Reasoning via Steerable Model Merging](https://arxiv.org/pdf/2606.19002)| 2026 | Arxiv | 
   | [When Model Merging Breaks Routing: Training-Free Calibration for MoE](https://arxiv.org/pdf/2606.03391)| 2026 | Arxiv | OLMoE-1B-7B-0125
   | [On the Limits of Model Merging for Multilinguality in Pre-Training](https://arxiv.org/pdf/2605.25846)| 2026 | Arxiv | HPLT 2.15B
