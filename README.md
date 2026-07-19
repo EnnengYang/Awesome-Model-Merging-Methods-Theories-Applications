@@ -1340,5 +1340,6 @@ Thanks!
 We welcome all researchers to contribute to this repository **'model merging in foundation models or machine learning'**.
 
 If you have a related paper that was not added to the library, please contact us.
+- [crdt-merge](https://github.com/mgillr/crdt-merge) - The first merge library where every operation is mathematically guaranteed to converge. Conflict-free merge for DataFrames, JSON, ML model weights & distributed agent state — powered by CRDTs.
 
 Email: <ennengyang@qq.com> / <ennengyang@gmail.com>
