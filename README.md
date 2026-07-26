@@ -147,6 +147,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Model Merging for Medical LVLMs: A Benchmark and a Winner-Take-All Approach](https://arxiv.org/pdf/2607.15661)| 2026 | Arxiv |  
 | [merge-and-rebase](https://github.com/apanariello4/merge-and-rebase) | 2026 | Github | Codebase for model merging, task-vector transport, and configurable fine-tuning across vision and text models. It is built for fast iteration on checkpoint merging, rebasing, and evaluation workflows. Supports both Vison and Language merging.|
 | [crdt-merge](https://github.com/mgillr/crdt-merge)| 2026 | Github | CRDT-based distributed model merging with formal convergence guarantees. 25 strategies (SLERP, TIES, DARE, Fisher, evolutionary). Two-layer OR-Set architecture enabling conflict-free multi-node merge.
 | [Conflict-Free Replicated Data Types for Neural Network Model Merging: A Two-Layer Architecture Enabling CRDT-Compliant Model Merging Across 26 Strategies](https://arxiv.org/abs/2605.19373)| 2026 | arXiv | [crdt-merge](https://github.com/mgillr/crdt-merge) |
@@ -227,6 +228,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Rethinking Heterogeneous LLM Merging: A Weighted Model Averaging Perspective](https://arxiv.org/pdf/2607.18026)| 2026 |Arxiv |  Qwen2.5-14B, Qwen2.5-32B,  Qwen2.5-32B, Qwen3-8B,  Qwen3-14B,  Qwen3-32B
 | [Model Assembly Learning with Heterogeneous Layer Weight Merging](https://arxiv.org/pdf/2503.21657)| 2025 | ICLR Workshop |
 | [Training-free Heterogeneous Model Merging](https://arxiv.org/pdf/2501.00061)| 2025 |Arxiv
 | [Knowledge fusion of large language models](https://openreview.net/pdf?id=jiDsk12qcz) | 2024 |  ICLR | Llama-2 7B, OpenLLaMA 7B, MPT 7B |
@@ -340,6 +342,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [CT-Merging: Consensus Directions and Task-Level Scaling for LoRA Adapter Merging](https://arxiv.org/pdf/2607.20561)| 2026 | Arxiv | 
 | [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/pdf/2607.03065)| 2026 | Arxiv | DeepScaleR (1.5B), POLARIS (4B), OLMo-3.1-32B-Think, OLMo-3-7B-Base
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
@@ -478,6 +481,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [TwistedMerge: Certified Higher-Order Diagnostics and Abstention for Model Merging](https://arxiv.org/pdf/2607.20887)| 2026 | Arxiv  |
 | [Model Merging as Probabilistic Inference in Fine-Tuning Parameter Space](https://arxiv.org/pdf/2607.01689)| 2026 | Arxiv  |
 | [Model Merging to Evolution: Parameter Space Exploration for Expert Models](https://arxiv.org/pdf/2606.28373)| 2026 | Arxiv  |Gemma-2-2b-it
 | [GFFMERGE: Efficient Merging of Graph Neural Force Fields and Beyond](https://arxiv.org/pdf/2606.03232)| 2026 | ICML|
@@ -671,6 +675,7 @@ Thanks!
 #### Faster Reasoning of LLMs
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [When Model Merging Rivals Joint Multi-Task Reinforcement Learning: A Task-Vector Geometry Analysis](https://arxiv.org/pdf/2607.16062)| 2026 | Arxiv | Qwen3-8B
  | [Multi-objective Evolutionary Merging Enables Efficient Reasoning Models](https://arxiv.org/pdf/2604.06465) | 2026 | Arxiv | DeepSeek-R1-Distill-Qwen 1.5B, 7B, and 14B
  | [Data-Free Layer-Adaptive Merging via Fisher Information for Long-to-Short Reasoning LLMs](https://arxiv.org/pdf/2603.21705) | 2026 | Arxiv | Qwen2.5-Math-7B,DeepSeek-R1-Distill-Qwen-7B
  | [RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://arxiv.org/pdf/2602.22538) | 2026 | ICLR |  Qwen2.5-1.5B/14B/32B, and Llama-3.1-8B
@@ -970,6 +975,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SiGMA: Sign-Guided Merging and Adaptation for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2607.20511)| 2026  |Arxiv  | LLaVA-v1.5-7B
   | [Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/pdf/2607.04755)| 2026  |Arxiv  |
   | [MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/pdf/2607.04747)| 2026  |Arxiv  |
   | [Tunable MAGMAX: Preference-Aware Model Merging for Continual Learning](https://arxiv.org/pdf/2605.20803)| 2026  |Arxiv  |
@@ -1136,6 +1142,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DA-MergeLoRA: Hypernetwork-Based LoRA Merging for Few-Shot Test-Time Domain Adaptation](https://arxiv.org/pdf/2607.17467)| 2026 | Arxiv | 
 | [Cross-device Collaborative Test-time Adaptation with Zeroth-order Optimization and Model Merging](https://arxiv.org/pdf/2607.02988)| 2026 | Arxiv | 
 | [Selecting and Merging: Towards Adaptable and Scalable Named Entity Recognition with Large Language Models](https://arxiv.org/pdf/2506.22813)| 2025 | Arxiv | Qwen2.5-7B, Llama3.1-8B |
 | [Harmonizing and Merging Source Models for CLIP-based Domain Generalization](https://arxiv.org/pdf/2506.09446)| 2025 | Arxiv |
@@ -1245,6 +1252,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Making Open-Source Text LLM Watermarks Durable Against Merging](https://arxiv.org/pdf/2607.20435)| 2026 |  Arxiv |LLAMA-3.1-8B-INSTRUCT, QWEN2.5-3B-INSTRUCT |
 | [From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](https://arxiv.org/pdf/2606.12498)| 2026 |  ICML | 
 | [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR |
 | [Making Models Unmergeable via Scaling-Sensitive Loss Landscape](https://arxiv.org/abs/2601.21898)| 2026 |  Arxiv |
