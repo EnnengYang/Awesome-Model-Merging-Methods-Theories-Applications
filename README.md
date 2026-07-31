@@ -481,6 +481,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Rethinking Expert Training for Model Merging with Prompt Learning](https://arxiv.org/pdf/2607.24465)| 2026 | Arxiv  |
 | [TwistedMerge: Certified Higher-Order Diagnostics and Abstention for Model Merging](https://arxiv.org/pdf/2607.20887)| 2026 | Arxiv  |
 | [Model Merging as Probabilistic Inference in Fine-Tuning Parameter Space](https://arxiv.org/pdf/2607.01689)| 2026 | Arxiv  |
 | [Model Merging to Evolution: Parameter Space Exploration for Expert Models](https://arxiv.org/pdf/2606.28373)| 2026 | Arxiv  |Gemma-2-2b-it
@@ -1083,6 +1084,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Sharpness-aware Model Merging with Salience Recovery for LLM-based Cross-Domain Sequential Recommendation](https://arxiv.org/pdf/2607.25366) | 2026 | Arxiv  |
   | [Domain-Adaptive Model Merging across Disconnected Modes](https://arxiv.org/pdf/2603.05957) | 2026 | Arxiv  |
   | [Bridging Domains through Subspace-Aware Model Merging](https://arxiv.org/pdf/2603.05768) | 2026 | Arxiv  |
   | [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  |
@@ -1234,6 +1236,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Asymmetric Collapse in Model Merging: When Refusal Overwrites Recognition](https://arxiv.org/pdf/2607.27240)| 2026  | Arxiv |Gemma-3-1B-IT
 | [On the Vulnerability of Parameter-Level Defenses to Model Merging](https://arxiv.org/pdf/2606.30360)| 2026  | Arxiv |Qwen2-7B
 | [RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/pdf/2606.03344)| 2026  | Arxiv | Llama-3-8B and Qwen-2.5- 7B
 | [When Safe Models Merge into Danger: Exploiting Latent Vulnerabilities in LLM Fusion](https://arxiv.org/pdf/2604.00627)| 2026  | Arxiv | Tulu-2-7b, Llama-3.1-Tulu-3-8B-DPO, OpenChat-3.5-0106
@@ -1282,6 +1285,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging](https://arxiv.org/pdf/2607.22300)| 2026 | Arxiv |Llama 3.2 3B, Gemma 2 2B |
 | [Efficient Decentralized Multi-task Dataset Valuation via Model Merging](https://arxiv.org/pdf/2607.03346)| 2026 | Arxiv |
 | [Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging](https://arxiv.org/pdf/2607.08540)| 2026 | Arxiv |
 | [StereoFactory: A Unified Merging Framework for Robust Stereo Matching](https://arxiv.org/pdf/2606.17475)| 2026 | Arxiv |
