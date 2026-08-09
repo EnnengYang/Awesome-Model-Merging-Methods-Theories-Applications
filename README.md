@@ -641,6 +641,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [A Model Merging Approach for Continual MLLM Unlearning](https://arxiv.org/pdf/2608.04548)| 2026  | Arxiv |Qwen2-VL-7B, LLaVA-1.5-7B
 | [Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey](https://arxiv.org/pdf/2605.13919)| 2026  | Arxiv | Qwen2.5-7B
 | [Per-parameter Task Arithmetic for Unlearning in Large Language Models](https://arxiv.org/pdf/2601.22030) | 2026  | Arxiv | Llama3.2 1B Instruct
 | [Model Merging for Knowledge Editing](https://arxiv.org/pdf/2506.12384)| 2025  | ACL | Qwen2.5-7B-Instruct
@@ -689,6 +690,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [Beyond Global Routing Aggregation: Phase-Aware Expert Merging for MoE Vision-Language Models](https://arxiv.org/pdf/2608.04454)| 2026 | Arxiv  | Qwen3-VL-30B-A3B-Instruct
  | [SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training](https://arxiv.org/pdf/2605.08738)| 2026 | Arxiv  | Qwen3-Next-80A3B
  | [REAM: Merging Improves Pruning of Experts in LLMs](https://arxiv.org/pdf/2604.04356)| 2026 | Arxiv  |  Qwen3-30B-A3B-Instruct-2507,  Qwen3-Coder-Next, GLM-4.5-Air
  | [Upcycled and Merged MoE Reward Model for Mitigating Reward Hacking](https://arxiv.org/pdf/2512.00724)| 2025 | Arxiv  |
@@ -976,6 +978,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SAFE-Merge: Data-Free Continual Model Merging with General Knowledge Preservation](https://arxiv.org/pdf/2608.01184)| 2026  |Arxiv  |
   | [SiGMA: Sign-Guided Merging and Adaptation for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2607.20511)| 2026  |Arxiv  | LLaVA-v1.5-7B
   | [Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/pdf/2607.04755)| 2026  |Arxiv  |
   | [MergeSurv: Merging-Based Continual Learning for Survival Analysis on Whole-Slide Images](https://arxiv.org/pdf/2607.04747)| 2026  |Arxiv  |
@@ -1285,6 +1288,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks without Retraining](https://arxiv.org/pdf/2608.04181)| 2026 | ASE |
+| [A Unified Model for Cross-Domain Clone Detection via Model Merging](https://arxiv.org/pdf/2608.04215)| 2026 | ASE |
 | [Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging](https://arxiv.org/pdf/2607.22300)| 2026 | Arxiv |Llama 3.2 3B, Gemma 2 2B |
 | [Efficient Decentralized Multi-task Dataset Valuation via Model Merging](https://arxiv.org/pdf/2607.03346)| 2026 | Arxiv |
 | [Improving Ad-hoc Search Effectiveness for Conversational Information Retrieval via Model Merging](https://arxiv.org/pdf/2607.08540)| 2026 | Arxiv |
