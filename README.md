@@ -302,6 +302,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [HyperFix: Combinatorial Nonlinear Correction for Task Vector Merging](https://arxiv.org/pdf/2608.11499)| 2026 | Arxiv |
 | [EvoGM: Learning to Merge LLMs via Evolutionary Generative Optimization](https://arxiv.org/pdf/2605.29295)| 2026 | ICML | Qwen2.5-1.5B, Qwen3-8B
 | [Label-Free Cross-Task LoRA Merging with Null-Space Compression](https://arxiv.org/pdf/2603.26317)| 2026 | Arxiv | LLAMA-3 8B, LLAVA-1.5-7B
 | [The Mean is the Mirage: Entropy-Adaptive Model Merging under Heterogeneous Domain Shifts in Medical Imaging](https://arxiv.org/pdf/2602.21372)| 2026 | Arxiv |
@@ -690,6 +691,7 @@ Thanks!
 
  | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
  | --------------- | :----: | :----: | :----: |
+ | [UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models](https://arxiv.org/pdf/2608.08627)| 2026 | Arxiv  |
  | [Beyond Global Routing Aggregation: Phase-Aware Expert Merging for MoE Vision-Language Models](https://arxiv.org/pdf/2608.04454)| 2026 | Arxiv  | Qwen3-VL-30B-A3B-Instruct
  | [SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training](https://arxiv.org/pdf/2605.08738)| 2026 | Arxiv  | Qwen3-Next-80A3B
  | [REAM: Merging Improves Pruning of Experts in LLMs](https://arxiv.org/pdf/2604.04356)| 2026 | Arxiv  |  Qwen3-30B-A3B-Instruct-2507,  Qwen3-Coder-Next, GLM-4.5-Air
@@ -730,6 +732,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Signature-Guided Capacity Occupancy for Dense Expert Merging](https://arxiv.org/pdf/2608.09201)| 2026 | Arxiv |Llama-3.2-3B, Llama-3.1-8B-Instruct, Gemma-2-2B-it
   | [Are we Merging the Right Models? Impact of Expert Training Duration on Model Merging for LLMs](https://arxiv.org/pdf/2607.11997)| 2026 | ICML |Qwen 3.5 0.8B, 2B, and 4B
   | [Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation](https://arxiv.org/pdf/2607.14895)| 2026 | Arxiv | OpenThinker 7B, Apriel Nemotron 15B Thinker, Olmo3 7B Think, DeepSeek R1 Qwen 7B Distilled (Qwen 7B R1-D) |
   | [Enhancing Multilingual Reasoning via Steerable Model Merging](https://arxiv.org/pdf/2606.19002)| 2026 | Arxiv | 
@@ -1258,6 +1261,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [DiffSafeMerge: Mitigating Backdoor Inheritance in Diffusion Model Merging](https://arxiv.org/pdf/2608.09445)| 2026 |  Arxiv 
 | [Making Open-Source Text LLM Watermarks Durable Against Merging](https://arxiv.org/pdf/2607.20435)| 2026 |  Arxiv |LLAMA-3.1-8B-INSTRUCT, QWEN2.5-3B-INSTRUCT |
 | [From Parameters to Feature Space: Task Arithmetic for Backdoor Mitigation in Model Merging](https://arxiv.org/pdf/2606.12498)| 2026 |  ICML | 
 | [Defending against Backdoor Attacks via Module Switching](https://openreview.net/pdf?id=ieCOL2YAqv)| 2026 |  ICLR |
@@ -1288,6 +1292,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Towards Efficient Reasoning in LLM-Based Recommender Systems via Model Merging](https://arxiv.org/pdf/2608.10447)| 2026  |Arxiv  |Qwen2.5-3B-Instruct
 | [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks without Retraining](https://arxiv.org/pdf/2608.04181)| 2026 | ASE |
 | [A Unified Model for Cross-Domain Clone Detection via Model Merging](https://arxiv.org/pdf/2608.04215)| 2026 | ASE |
 | [Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging](https://arxiv.org/pdf/2607.22300)| 2026 | Arxiv |Llama 3.2 3B, Gemma 2 2B |
