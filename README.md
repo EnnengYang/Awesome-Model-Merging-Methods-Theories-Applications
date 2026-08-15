@@ -1352,7 +1352,7 @@ Thanks!
 
 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&type=Date)](https://star-history.com/#EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&type=Date)](https://star-history.dera.page/#EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications&Date)
 
 ----------
 
