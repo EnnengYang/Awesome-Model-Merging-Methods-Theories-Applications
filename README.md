@@ -343,6 +343,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation](https://arxiv.org/pdf/2608.12842)| 2026 | Arxiv |Mistral-7B-v0.1, WildMarcoroni-Variant1-7B and WestSeverus7B-DPO-v2
 | [CT-Merging: Consensus Directions and Task-Level Scaling for LoRA Adapter Merging](https://arxiv.org/pdf/2607.20561)| 2026 | Arxiv | 
 | [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/pdf/2607.03065)| 2026 | Arxiv | DeepScaleR (1.5B), POLARIS (4B), OLMo-3.1-32B-Think, OLMo-3-7B-Base
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
@@ -482,6 +483,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Orientation, not magnitude: the causal structure of task-vector interference in merged language models](https://arxiv.org/pdf/2608.11797)| 2026 | Arxiv  |
 | [Rethinking Expert Training for Model Merging with Prompt Learning](https://arxiv.org/pdf/2607.24465)| 2026 | Arxiv  |
 | [TwistedMerge: Certified Higher-Order Diagnostics and Abstention for Model Merging](https://arxiv.org/pdf/2607.20887)| 2026 | Arxiv  |
 | [Model Merging as Probabilistic Inference in Fine-Tuning Parameter Space](https://arxiv.org/pdf/2607.01689)| 2026 | Arxiv  |
