@@ -343,6 +343,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [CORAM: Coherent Orthogonal Rotation for Model Merging](https://arxiv.org/pdf/2608.17366)| 2026 | Arxiv | Llama3.2-3B, Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Gemma-2-9B
+| [SWIM-merging: Reweighting singular values of weight matrices for efficient test-time model merging](https://www.sciencedirect.com/science/article/pii/S0925231226022216)| 2026 |Neurocomputing
 | [CABS+: Efficient and Scalable Model Merging via Conflict-Aware Sparsification and Adaptive Weight Allocation](https://arxiv.org/pdf/2608.12842)| 2026 | Arxiv |Mistral-7B-v0.1, WildMarcoroni-Variant1-7B and WestSeverus7B-DPO-v2
 | [CT-Merging: Consensus Directions and Task-Level Scaling for LoRA Adapter Merging](https://arxiv.org/pdf/2607.20561)| 2026 | Arxiv | 
 | [Spectral Rewiring for Exploration, Purification, and Model Merging](https://arxiv.org/pdf/2607.03065)| 2026 | Arxiv | DeepScaleR (1.5B), POLARIS (4B), OLMo-3.1-32B-Think, OLMo-3-7B-Base
@@ -1080,6 +1082,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Multi-Objective Bayesian Optimization for Model Merging](https://arxiv.org/pdf/2608.14264) |  2026 |Arxiv  |  Qwen3-4B,  Llama-3.1-8B
   | [From Parameter to Representation: A Closed-Form Approach for Controllable Model Merging](https://arxiv.org/pdf/2511.10943) | 2026 | AAAI  |
   | [Merge and Guide: Unifying Model Merging and Guided Decoding for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2510.03782) | 2025 | Arxiv  | LLaMA-2-7B
   | [Pareto Merging: Multi-Objective Optimization for Preference-Aware Model Merging](https://openreview.net/pdf?id=D7qRwx6BOS)| 2025 | ICML  |
