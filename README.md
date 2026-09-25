@@ -345,6 +345,9 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Beyond Uniform Subspaces: Spectrum-Aware and Depth-Adaptive Fusion for Multi-Task Model Merging](https://arxiv.org/pdf/2609.24612)| 2026 | Arxiv | 
+| [Not All Task Vectors Need Equal Rank: Energy-Proportional Allocation for Model Merging](https://arxiv.org/pdf/2609.24517)| 2026 | Arxiv |
+| [Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks](https://arxiv.org/pdf/2609.22237)| 2026 | Arxiv |
 | [Escaping Low-Dimensional Overlap: Multi-Task Model Merging via High-Dimensional Sparse Disentanglement](https://arxiv.org/pdf/2608.25354)| 2026 | Arxiv | Qwen2.5-1.5B and Qwen2.5-7B
 | [CORAM: Coherent Orthogonal Rotation for Model Merging](https://arxiv.org/pdf/2608.17366)| 2026 | Arxiv | Llama3.2-3B, Llama-3.1-8B, Qwen2.5-VL-7B-Instruct, Gemma-2-9B
 | [SWIM-merging: Reweighting singular values of weight matrices for efficient test-time model merging](https://www.sciencedirect.com/science/article/pii/S0925231226022216)| 2026 |Neurocomputing
@@ -471,6 +474,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Merge++: Universal Merge Refinement Through Data-Free Checkpoint Inversion](https://arxiv.org/pdf/2609.22886)| 2026 | Arxiv  | 
 | [DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging](https://arxiv.org/pdf/2608.28547)| 2026 | Arxiv  | Llama2-7B-Instruct (Meta), WizardMath-7B-v1.0, and Llama-2-7B-Code|
 | [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](https://arxiv.org/pdf/2412.19098)| 2026 | ICML  | 
 | [FEATCAL: Feature Calibration for Post-Merging Models](https://arxiv.org/pdf/2605.13030)| 2026 | Arxiv  | Llama-3.1-8B-Instruc
@@ -741,6 +745,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [On Emergent Capabilities and Model Merging](https://arxiv.org/pdf/2609.24504)| 2026 | Arxiv |Qwen2.5-14B, Llama-3.1-8B
   | [Signature-Guided Capacity Occupancy for Dense Expert Merging](https://arxiv.org/pdf/2608.09201)| 2026 | Arxiv |Llama-3.2-3B, Llama-3.1-8B-Instruct, Gemma-2-2B-it
   | [Are we Merging the Right Models? Impact of Expert Training Duration on Model Merging for LLMs](https://arxiv.org/pdf/2607.11997)| 2026 | ICML |Qwen 3.5 0.8B, 2B, and 4B
   | [Leveraging Instruction Tuning and Merging for Reasoning Model Adaptation](https://arxiv.org/pdf/2607.14895)| 2026 | Arxiv | OpenThinker 7B, Apriel Nemotron 15B Thinker, Olmo3 7B Think, DeepSeek R1 Qwen 7B Distilled (Qwen 7B R1-D) |
@@ -887,6 +892,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Tracing and Coordinating Cross-Layer Influence for Multimodal Model Merging](https://arxiv.org/pdf/2609.12897)| 2026 | Arxiv | Qwen3-VL-8B
   | [AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models](https://arxiv.org/pdf/2608.06699)| 2026 | Arxiv | Qwen2.5-VL-7B, MMSearch-R1-7B, GUI-Owl-7B, DeepEyes-7B
   | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/pdf/2606.01717)| 2026 | ICML | Qwen2.5-VL-3B
   | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
