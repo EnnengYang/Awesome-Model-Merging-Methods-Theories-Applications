@@ -1310,6 +1310,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Merging Large Language Models and Battery Physics for User-Aware Electric Vehicle Driving Management](https://arxiv.org/pdf/2609.27050)| 2026  |Arxiv  |
 | [Towards Efficient Reasoning in LLM-Based Recommender Systems via Model Merging](https://arxiv.org/pdf/2608.10447)| 2026  |Arxiv  |Qwen2.5-3B-Instruct
 | [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks without Retraining](https://arxiv.org/pdf/2608.04181)| 2026 | ASE |
 | [A Unified Model for Cross-Domain Clone Detection via Model Merging](https://arxiv.org/pdf/2608.04215)| 2026 | ASE |
