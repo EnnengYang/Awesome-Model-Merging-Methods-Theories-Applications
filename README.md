@@ -302,6 +302,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [The Missing Coefficients: Bayesian Pairwise Merging for Model Personalization](https://arxiv.org/pdf/2609.39055)| 2026 | Arxiv |Qwen3.5-2B, Qwen3-VL-4B, Ministral-3-3B
 | [CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/pdf/2609.02273)| 2026 | Arxiv |Llama-3.1-8B-Instruct
 | [Task-Aware Model Merging via Fisher-Weighted Median](https://openreview.net/forum?id=tB6bb0ZosX) | 2026 | TMLR | Llama-3.2-3B, Llama-3.1-8B, CLIP, GPT2 |
 | [HyperFix: Combinatorial Nonlinear Correction for Task Vector Merging](https://arxiv.org/pdf/2608.11499)| 2026 | Arxiv |
@@ -345,6 +346,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [CASS: Contribution-Aware Structured Sparsity for Model Merging](https://arxiv.org/pdf/2609.34184)| 2026 | NeurIPS | Qwen2.5-0.5B, Qwen2.5-1.5B
+| [Orthogonal Yet Coupled: Decoupling Geometric Components for Model Merging](https://arxiv.org/pdf/2609.37564)| 2026 | Arxiv | Llama-3.1-8B, Qwen2.5-VL-7B-Instruct
 | [Beyond Uniform Subspaces: Spectrum-Aware and Depth-Adaptive Fusion for Multi-Task Model Merging](https://arxiv.org/pdf/2609.24612)| 2026 | Arxiv | 
 | [Not All Task Vectors Need Equal Rank: Energy-Proportional Allocation for Model Merging](https://arxiv.org/pdf/2609.24517)| 2026 | Arxiv |
 | [Not All Ranks Are Equal: Budget-Aware LoRA Merging Across Tasks](https://arxiv.org/pdf/2609.22237)| 2026 | Arxiv |
@@ -640,6 +643,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MergeHEIR: Mitigating Multimodal Hallucinations as the Tax of Model Merging](https://arxiv.org/pdf/2609.32422)| 2026  | Arxiv |Qwen2.5-VL-7B
 | [Surgical, Cheap, and Flexible: Mitigating False Refusal in Language Models via Single Vector Ablation](https://arxiv.org/abs/2410.03415) | 2025 |  ICLR | GEMMA-7B-IT, LLAMA2-7B/13B/70B-CHAT, LLAMA3-8B-INST |
 | [3DM: Distill, Dynamic Drop, and Merge for Debiasing Multi-modal Large Language Models](https://aclanthology.org/2025.findings-acl.722.pdf) | 2025 |  ACL | LLaVA-1.5-7b, InternVL-2.5-8b, LLaVA-1.5-7b and ChatGLM4-9b |
 | [Expanding before Inferring: Enhancing Factuality in Large Language Models through Premature Layers Interpolation](https://arxiv.org/pdf/2506.02973) | 2025 |  Arxiv | LLAMA3-8B-Instruct, Mistral-7B-Instruct-v0.2 |
@@ -745,6 +749,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer](https://arxiv.org/pdf/2609.39369)| 2026 | Arxiv | Qwen3-Reranker-8B and Qwen3- Embedding-8B, SkyworkReward-V2-Qwen3-8B，Qwen3- Coder-30B-A3B-Instruct
   | [On Emergent Capabilities and Model Merging](https://arxiv.org/pdf/2609.24504)| 2026 | Arxiv |Qwen2.5-14B, Llama-3.1-8B
   | [Signature-Guided Capacity Occupancy for Dense Expert Merging](https://arxiv.org/pdf/2608.09201)| 2026 | Arxiv |Llama-3.2-3B, Llama-3.1-8B-Instruct, Gemma-2-2B-it
   | [Are we Merging the Right Models? Impact of Expert Training Duration on Model Merging for LLMs](https://arxiv.org/pdf/2607.11997)| 2026 | ICML |Qwen 3.5 0.8B, 2B, and 4B
@@ -1094,6 +1099,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Mixture-Trained Merging for Unified Multi-Objective Models](https://arxiv.org/pdf/2610.01238) |  2026 |NeurIPS  |  Qwen3-4B-Base, OLMo-7B
   | [Multi-Objective Bayesian Optimization for Model Merging](https://arxiv.org/pdf/2608.14264) |  2026 |Arxiv  |  Qwen3-4B,  Llama-3.1-8B
   | [From Parameter to Representation: A Closed-Form Approach for Controllable Model Merging](https://arxiv.org/pdf/2511.10943) | 2026 | AAAI  |
   | [Merge and Guide: Unifying Model Merging and Guided Decoding for Controllable Multi-Objective Generation](https://arxiv.org/pdf/2510.03782) | 2025 | Arxiv  | LLaMA-2-7B
