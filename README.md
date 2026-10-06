@@ -904,7 +904,7 @@ Thanks!
   | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/pdf/2606.01717)| 2026 | ICML | Qwen2.5-VL-3B
   | [PivotMerge: Bridging Heterogeneous Multimodal Pre-training via Post-Alignment Model Merging](https://arxiv.org/pdf/2604.22823)| 2026 | Arxiv | LLaVA1.5-7B
   | [Reasoning Resides in Layers: Restoring Temporal Reasoning in Video-Language Models with Layer-Selective Merging](https://arxiv.org/pdf/2604.11399)| 2026 | Arxiv |  LongVA-7B, InternVL3-8B, Qwen3-VL-4B
-  | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://arxiv.org/pdf/2604.02881)| 2026 | Arxiv | Qwen-2.5-3B-Instruct
+  | [One Model to Translate Them All? A Journey to Mount Doom for Multilingual Model Merging](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/TACL.a.808/2630484/tacl.a.808.pdf)| 2026 | TACL | Qwen-2.5-3B-Instruct
   | [Tug-of-War No More: Harmonizing Accuracy and Robustness in Vision-Language Models via Stability-Aware Task Vector Merging](https://openreview.net/forum?id=KOO1cDm2bt)| 2026 | ICLR | LLaVA-1.5-7B, OpenFlamingo-9B
   | [SSAM: Singular Subspace Alignment for Merging Multimodal Large Language Models](https://arxiv.org/abs/2603.21584)| 2026 | Arxiv |
   | [ES-Merging: Biological MLLM Merging via Embedding Space Signals](https://arxiv.org/abs/2603.14405)| 2026 | Arxiv |
