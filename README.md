@@ -230,6 +230,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Training-Free Transformer Merging via Sequential Local Operator Alignment](https://arxiv.org/pdf/2610.06415)| 2026 |Arxiv |  ViTB-32, ViTB-16, Roberta-base, LLama-7B, LoRA finetuning
 | [Rethinking Heterogeneous LLM Merging: A Weighted Model Averaging Perspective](https://arxiv.org/pdf/2607.18026)| 2026 |Arxiv |  Qwen2.5-14B, Qwen2.5-32B,  Qwen2.5-32B, Qwen3-8B,  Qwen3-14B,  Qwen3-32B
 | [Model Assembly Learning with Heterogeneous Layer Weight Merging](https://arxiv.org/pdf/2503.21657)| 2025 | ICLR Workshop |
 | [Training-free Heterogeneous Model Merging](https://arxiv.org/pdf/2501.00061)| 2025 |Arxiv
