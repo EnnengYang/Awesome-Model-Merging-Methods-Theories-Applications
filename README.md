@@ -305,6 +305,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [αTransfer: Coefficient Transfer for Efficient Model Merging](https://arxiv.org/pdf/2610.07819)| 2026 | Arxiv |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [The Missing Coefficients: Bayesian Pairwise Merging for Model Personalization](https://arxiv.org/pdf/2609.39055)| 2026 | Arxiv |Qwen3.5-2B, Qwen3-VL-4B, Ministral-3-3B
 | [CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/pdf/2609.02273)| 2026 | Arxiv |Llama-3.1-8B-Instruct
 | [Task-Aware Model Merging via Fisher-Weighted Median](https://openreview.net/forum?id=tB6bb0ZosX) | 2026 | TMLR | Llama-3.2-3B, Llama-3.1-8B, CLIP, GPT2 |
@@ -349,6 +350,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Predicting and Repairing Merge Collapse in Large Language Models](https://arxiv.org/pdf/2610.03199)| 2026 | Arxiv |Mistral-7B, DeepSeek-7B,  Qwen2.5-7B
 | [CASS: Contribution-Aware Structured Sparsity for Model Merging](https://arxiv.org/pdf/2609.34184)| 2026 | NeurIPS | Qwen2.5-0.5B, Qwen2.5-1.5B
 | [Orthogonal Yet Coupled: Decoupling Geometric Components for Model Merging](https://arxiv.org/pdf/2609.37564)| 2026 | Arxiv | Llama-3.1-8B, Qwen2.5-VL-7B-Instruct
 | [Beyond Uniform Subspaces: Spectrum-Aware and Depth-Adaptive Fusion for Multi-Task Model Merging](https://arxiv.org/pdf/2609.24612)| 2026 | Arxiv | 
@@ -499,6 +501,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [A Broader Look at Model Merging: Rethinking Implicit Regularization Induced by Task Arithmetic](https://arxiv.org/pdf/2610.07990)| 2026 | Arxiv  |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [Orientation, not magnitude: the causal structure of task-vector interference in merged language models](https://arxiv.org/pdf/2608.11797)| 2026 | Arxiv  |
 | [Rethinking Expert Training for Model Merging with Prompt Learning](https://arxiv.org/pdf/2607.24465)| 2026 | Arxiv  |
 | [TwistedMerge: Certified Higher-Order Diagnostics and Abstention for Model Merging](https://arxiv.org/pdf/2607.20887)| 2026 | Arxiv  |
@@ -1319,6 +1322,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR](https://arxiv.org/pdf/2610.08604)| 2026  |Arxiv  |
 | [Merging Large Language Models and Battery Physics for User-Aware Electric Vehicle Driving Management](https://arxiv.org/pdf/2609.27050)| 2026  |Arxiv  |
 | [Towards Efficient Reasoning in LLM-Based Recommender Systems via Model Merging](https://arxiv.org/pdf/2608.10447)| 2026  |Arxiv  |Qwen2.5-3B-Instruct
 | [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks without Retraining](https://arxiv.org/pdf/2608.04181)| 2026 | ASE |
