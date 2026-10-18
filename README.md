@@ -365,7 +365,7 @@ Thanks!
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
 | [PACT: Preserving Anchored Cores in Task-vectors for Model Merging](https://arxiv.org/pdf/2606.18627)| 2026 | Arxiv | 
-| [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv | CLIP-ViT-B/32, CLIP-ViT-B/16, CLIP-ViT-L/14, Flan-T5-base, Llama-3.2-3B, Qwen2-VL-7B, InternVL2.5-1B |
+| [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv | Llama-3.2-3B, Qwen2-VL-7B, InternVL2.5-1B |
 | [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
 | [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
 | [TaDA: Calibrated Probe Gating for Task-Domain LoRA Merging](https://arxiv.org/pdf/2606.05016)| 2026 | Arxiv | Llama-2-7b-hf
