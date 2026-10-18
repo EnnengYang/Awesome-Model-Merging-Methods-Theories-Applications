@@ -305,6 +305,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [CrossMean: Model Merging by Pairing Merged and Expert Activations](https://arxiv.org/pdf/2610.14762)| 2026 | Arxiv |
 | [αTransfer: Coefficient Transfer for Efficient Model Merging](https://arxiv.org/pdf/2610.07819)| 2026 | Arxiv |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [The Missing Coefficients: Bayesian Pairwise Merging for Model Personalization](https://arxiv.org/pdf/2609.39055)| 2026 | Arxiv |Qwen3.5-2B, Qwen3-VL-4B, Ministral-3-3B
 | [CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging](https://arxiv.org/pdf/2609.02273)| 2026 | Arxiv |Llama-3.1-8B-Instruct
@@ -350,6 +351,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](https://arxiv.org/pdf/2610.14558)| 2026 | Arxiv |Llama 3 8B
 | [Predicting and Repairing Merge Collapse in Large Language Models](https://arxiv.org/pdf/2610.03199)| 2026 | Arxiv |Mistral-7B, DeepSeek-7B,  Qwen2.5-7B
 | [CASS: Contribution-Aware Structured Sparsity for Model Merging](https://arxiv.org/pdf/2609.34184)| 2026 | NeurIPS | Qwen2.5-0.5B, Qwen2.5-1.5B
 | [Orthogonal Yet Coupled: Decoupling Geometric Components for Model Merging](https://arxiv.org/pdf/2609.37564)| 2026 | Arxiv | Llama-3.1-8B, Qwen2.5-VL-7B-Instruct
@@ -755,6 +757,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [SuperAI: Merging Capabilities Across Heterogeneous Foundation Models](https://arxiv.org/pdf/2610.15322)| 2026 | Arxiv | Llama-3.2-3B, Qwen2.5-3B, and Pythia-2.8B
   | [Exploring Heterogeneous Model Merging Approach for Complex Knowledge Transfer](https://arxiv.org/pdf/2609.39369)| 2026 | Arxiv | Qwen3-Reranker-8B and Qwen3- Embedding-8B, SkyworkReward-V2-Qwen3-8B，Qwen3- Coder-30B-A3B-Instruct
   | [On Emergent Capabilities and Model Merging](https://arxiv.org/pdf/2609.24504)| 2026 | Arxiv |Qwen2.5-14B, Llama-3.1-8B
   | [Signature-Guided Capacity Occupancy for Dense Expert Merging](https://arxiv.org/pdf/2608.09201)| 2026 | Arxiv |Llama-3.2-3B, Llama-3.1-8B-Instruct, Gemma-2-2B-it
@@ -1105,6 +1108,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [RecSoup: Efficient Model Merging Approach for Controllable Multi-Objective Recommendation](https://arxiv.org/pdf/2610.21220)|  2026 |CIKM  |
   | [Mixture-Trained Merging for Unified Multi-Objective Models](https://arxiv.org/pdf/2610.01238) |  2026 |NeurIPS  |  Qwen3-4B-Base, OLMo-7B
   | [Multi-Objective Bayesian Optimization for Model Merging](https://arxiv.org/pdf/2608.14264) |  2026 |Arxiv  |  Qwen3-4B,  Llama-3.1-8B
   | [From Parameter to Representation: A Closed-Form Approach for Controllable Model Merging](https://arxiv.org/pdf/2511.10943) | 2026 | AAAI  |
@@ -1141,6 +1145,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Barycentric Anchored Weight Search for Robust Model Merging](https://arxiv.org/pdf/2610.14017) | 2026 | Arxiv  |
 | [Exploring the potential and limitations of Model Merging for Multi-Domain Adaptation in ASR](https://arxiv.org/pdf/2603.05354) | 2026 | Arxiv  |
 | [Model soups need only one ingredient](https://arxiv.org/pdf/2602.09689)| 2026 | Arxiv |
 | [System Report for CCL25-Eval Task 10: Prompt-Driven Large Language Model Merge for Fine-Grained Chinese Hate Speech Detection](https://arxiv.org/pdf/2512.09563)| 2025 | Arxiv |Qwen2.5-7B-Instruct
@@ -1271,6 +1276,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Towards Merging-conditional Backdoor Unalignment against Large Language Models](https://arxiv.org/pdf/2610.14701)| 2026  | Arxiv |Llama-3.1-8B, Gemma-2-9B, Qwen-3.5-9B
 | [Asymmetric Collapse in Model Merging: When Refusal Overwrites Recognition](https://arxiv.org/pdf/2607.27240)| 2026  | Arxiv |Gemma-3-1B-IT
 | [On the Vulnerability of Parameter-Level Defenses to Model Merging](https://arxiv.org/pdf/2606.30360)| 2026  | Arxiv |Qwen2-7B
 | [RogueMerge: Robust and Unified Attacks against LLM Model Merging](https://arxiv.org/pdf/2606.03344)| 2026  | Arxiv | Llama-3-8B and Qwen-2.5- 7B
@@ -1322,6 +1328,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [UniMergeTrack: Hierarchical Model Merging for General RGB-X Visual Object Tracking](https://arxiv.org/pdf/2610.13053)| 2026  |Arxiv  |
 | [InterCorrect: Intersection-Aware Correction of Demographic Model Merging for Fair ASR](https://arxiv.org/pdf/2610.08604)| 2026  |Arxiv  |
 | [Merging Large Language Models and Battery Physics for User-Aware Electric Vehicle Driving Management](https://arxiv.org/pdf/2609.27050)| 2026  |Arxiv  |
 | [Towards Efficient Reasoning in LLM-Based Recommender Systems via Model Merging](https://arxiv.org/pdf/2608.10447)| 2026  |Arxiv  |Qwen2.5-3B-Instruct
