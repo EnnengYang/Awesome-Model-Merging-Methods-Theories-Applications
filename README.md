@@ -151,13 +151,13 @@ Thanks!
 | [merge-and-rebase](https://github.com/apanariello4/merge-and-rebase) | 2026 | Github | Codebase for model merging, task-vector transport, and configurable fine-tuning across vision and text models. It is built for fast iteration on checkpoint merging, rebasing, and evaluation workflows. Supports both Vison and Language merging.|
 | [crdt-merge](https://github.com/mgillr/crdt-merge)| 2026 | Github | CRDT-based distributed model merging with formal convergence guarantees. 25 strategies (SLERP, TIES, DARE, Fisher, evolutionary). Two-layer OR-Set architecture enabling conflict-free multi-node merge.
 | [Conflict-Free Replicated Data Types for Neural Network Model Merging: A Two-Layer Architecture Enabling CRDT-Compliant Model Merging Across 26 Strategies](https://arxiv.org/abs/2605.19373)| 2026 | arXiv | [crdt-merge](https://github.com/mgillr/crdt-merge) |
+| [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/pdf?id=Me0n0iESJY)| 2026 | ICLR | Qwen2-VL-7B-Base, InternVL2.5-1B-Instruct, Qwen2.5-VL-32B-Instruct, Vicuna-7B-v1.5 |
 | [An Empirical Survey of Model Merging Algorithms for Social Bias Mitigation](https://arxiv.org/pdf/2512.02689)| 2025 | Arxiv | LLAMA-2-7B, LLAMA-3-8B, LLAMA-3.1-8B, QWEN2-7B
 | [A Systematic Study of Model Merging Techniques in Large Language Models](https://arxiv.org/pdf/2511.21437)| 2025 | Arxiv | Llama-3.2-3B-Instruct, Llama-3.1-8B-Instruct, Qwen3-4B, Qwen3-8B
 | [FusionBench: A Comprehensive Benchmark of Deep Model Fusion](https://arxiv.org/pdf/2406.03280)| 2025 | JMLR | Mistral-7B-v0.1, MetaMath-Mistral-7B, dolphin-2.1-mistral-7b, speechless-code-mistral-7b-v1.0
 | [Towards Performance Consistency in Multi-Level Model Collaboration](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Towards_Performance_Consistency_in_Multi-Level_Model_Collaboration_ICCV_2025_paper.pdf)| 2025 | ICCV |
 | [Model Merging Scaling Laws in Large Language Models](https://arxiv.org/pdf/2509.24244)| 2025 | Arxiv | Qwen2.5 0.5, 1.5, 3, 7, 14, 32, 72B
 | [FBMS: An R Package for Flexible Bayesian Model Selection and Model Averaging](https://arxiv.org/pdf/2509.00753)| 2025 | Arxiv |
-| [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
 | [MergeBench: A Benchmark for Merging Domain-Specialized LLMs](https://arxiv.org/pdf/2505.10833)| 2025 | Arxiv |Llama-3.2-3B, Llama3.1-8B, Gemma-2-2B and Gemma-2-9B |
 | [Mergenetic: a Simple Evolutionary Model Merging Library](https://arxiv.org/pdf/2505.11427)| 2025 | System Demonstrations |Mistral-7B
 | [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://arxiv.org/pdf/2502.17159)| 2025 | NeurIPS | LLaVA-v1.5-7B
@@ -365,7 +365,7 @@ Thanks!
 | [Essential Subspace Merging for Multi-Task Learning](https://arxiv.org/pdf/2606.19164)| 2026 | Arxiv |
 | [Sparsity Curse: Understanding RLVR Model Parameter Space from Model Merging](https://arxiv.org/pdf/2606.18521)| 2026 | KDD | Qwen-2.5-7B
 | [PACT: Preserving Anchored Cores in Task-vectors for Model Merging](https://arxiv.org/pdf/2606.18627)| 2026 | Arxiv | 
-| [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv |  InternVL2.5,  Qwen2-VL |
+| [Closed-Form Spectral Regularization for Multi-Task Model Merging](https://arxiv.org/pdf/2606.07289)| 2026 | Arxiv | Llama-3.2-3B, Qwen2-VL-7B, InternVL2.5-1B |
 | [ResMerge: Residual-based Spectral Merging of Large Language Models](https://arxiv.org/pdf/2606.02252)| 2026 | Arxiv | Qwen2.5-7B-Base, Qwen2.5-7B-SimpleRL-Zoo, Open-ReasonerZero-7B (Zero), General-Reasoner-Qwen2.5-7B(Reasoner)
 | [Compress then Merge: From Multiple LoRAs into One Low-Rank Adapter](https://arxiv.org/pdf/2606.03723)| 2026 | ICML | LLaMA3-8B
 | [TaDA: Calibrated Probe Gating for Task-Domain LoRA Merging](https://arxiv.org/pdf/2606.05016)| 2026 | Arxiv | Llama-2-7b-hf
@@ -916,13 +916,13 @@ Thanks!
   | [FRISM: Fine-Grained Reasoning Injection via Subspace-Level Model Merging for Vision–Language Models](https://arxiv.org/pdf/2601.21187)| 2026 | Arxiv | Qwen2.5-VL-7B-Instruct, DeepSeekR1-Distill-Qwen-7B, Qwen2.5-VL-32B-Instruct, QwQ-32B
   | [PlaM: Training-Free Plateau-Guided Model Merging for Better Visual Grounding in MLLMs](https://arxiv.org/pdf/2601.07645)| 2026 | Arxiv |LLaVA-v1.5-7B, Qwen2.5-VL-7B-Instruct, Qwen3-VL-8B-Instruct
   | [Where and What Matters: Sensitivity-Aware Task Vectors for Many-Shot Multimodal In-Context Learning](https://arxiv.org/pdf/2511.08246)| 2026 | AAAI | Qwen-VL-7B, Idefics2-8B
+  | [OptMerge: Unifying Multimodal LLM Capabilities and Modalities via Model Merging](https://openreview.net/pdf?id=Me0n0iESJY)| 2026 | ICLR | Qwen2-VL-7B-Base, InternVL2.5-1B-Instruct, Qwen2.5-VL-32B-Instruct, Vicuna-7B-v1.5 |
   | [MergeVLA: Cross-Skill Model Merging Toward a Generalist Vision-Language-Action Agent](https://arxiv.org/pdf/2511.19434)| 2025 | Arxiv | Qwen2.5-0.5B
   | [Tiny-R1V: Lightweight Multimodal Unified Reasoning Model via Model Merging](https://arxiv.org/pdf/2510.08987)| 2025 | Arxiv |
   | [Model Merging to Maintain Language-Only Performance in Developmentally Plausible Multimodal Models](https://arxiv.org/pdf/2510.01845)| 2025 | Arxiv |
   | [Expert Merging: Model Merging with Unsupervised Expert Alignment and Importance-Guided Layer Chunking](https://arxiv.org/pdf/2509.25712)| 2025 | Arxiv |Mistral-7B, InternVL, Qwen2-VL
   | [UQ-Merge: Uncertainty Guided Multimodal Large Language Model Merging](https://aclanthology.org/2025.findings-acl.73.pdf)| 2025 | ACL |  LLaVA-v1.5-7B |
   | [Graft: Integrating the Domain Knowledge via Efficient Parameter Synergy for MLLMs](https://arxiv.org/pdf/2506.23940)| 2025 | Arxiv | Qwen2-VL-2B |
-  | [Unifying Multimodal Large Language Model Capabilities and Modalities via Model Merging](https://arxiv.org/pdf/2505.19892)| 2025 | Arxiv | Qwen2-VL-7B-Base, Vicuna-7B-v1.5 |
   | [Bring Reason to Vision: Understanding Perception and Reasoning through Model Merging](https://arxiv.org/pdf/2505.05464)| 2025 |ICML  | LLaVA-NeXT-8B, Idefics2-8B, InternVL2-76B |
   | [REMEDY: Recipe Merging Dynamics in Large Vision-Language Models](https://openreview.net/pdf?id=iX7eHHE5Tx)| 2025 | ICLR | LLaVA-1.5 (Vicuna-7B)
   | [RobustMerge: Parameter-Efficient Model Merging for MLLMs with Direction Robustness](https://arxiv.org/pdf/2502.17159)| 2025 | NeurIPS | LLaVA-v1.5-7B
