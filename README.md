@@ -351,6 +351,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [GRAM: Group-wise Rank-Aware Model Merging via Subspace Alignment](https://arxiv.org/pdf/2610.29110))| 2026 | Arxiv | Qwen2-7B-Instruct
 | [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](https://arxiv.org/pdf/2610.14558)| 2026 | Arxiv |Llama 3 8B
 | [Predicting and Repairing Merge Collapse in Large Language Models](https://arxiv.org/pdf/2610.03199)| 2026 | Arxiv |Mistral-7B, DeepSeek-7B,  Qwen2.5-7B
 | [CASS: Contribution-Aware Structured Sparsity for Model Merging](https://arxiv.org/pdf/2609.34184)| 2026 | NeurIPS | Qwen2.5-0.5B, Qwen2.5-1.5B
@@ -620,6 +621,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Controlling the Diversity–Quality Trade-Off of LLMs by Merging Models Before and After Alignment](https://arxiv.org/pdf/2610.22999)| 2026 | Arxiv  | LLaMA 2 and Qwen 2.5
 | [From “Weak” Signals to Strong Models: Preference Delta Aggregation with LoRA Merging](https://arxiv.org/pdf/2606.00357)| 2026 | Arxiv  | Qwen3-8B and Tülu3-8B
 | [TPMM-DPO: Trajectory-aware Preference-guided Model Merging for Iterative Direct Preference Optimization](https://arxiv.org/pdf/2605.23398)| 2026 | Arxiv  | Llama3.2-3B
 | [Navigating the Alignment-Calibration Trade-off: A Pareto-Superior Frontier via Model Merging](https://arxiv.org/pdf/2510.17426)| 2025 | Arxiv  | Gemma-3-12B, Gemma-3-27B, Qwen2.5-7B |
@@ -943,6 +945,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation](https://arxiv.org/pdf/2610.30875)| 2026 | Arxiv |
 | [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](https://arxiv.org/pdf/2606.10617)| 2026 | ICML | 
 | [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](https://arxiv.org/pdf/2603.20470)| 2026 | Arxiv |Stable Diffusion v1.5, FLUX.1 Dev
 | [GimmBO: Interactive Generative Image Model Merging via Bayesian Optimization](https://arxiv.org/pdf/2601.18585)| 2026 | Arxiv |
