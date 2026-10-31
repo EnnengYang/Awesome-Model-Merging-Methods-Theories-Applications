@@ -485,6 +485,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Error-Subspace Calibration for Multi-Task Model Merging](https://arxiv.org/pdf/2610.33483)| 2026 | Arxiv  | WizardLM-13B-V1.2, LLaMA-2-13B
 | [Merge++: Universal Merge Refinement Through Data-Free Checkpoint Inversion](https://arxiv.org/pdf/2609.22886)| 2026 | Arxiv  | 
 | [DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging](https://arxiv.org/pdf/2608.28547)| 2026 | Arxiv  | Llama2-7B-Instruct (Meta), WizardMath-7B-v1.0, and Llama-2-7B-Code|
 | [SyMerge: From Non-Interference to Synergistic Merging via Single-Layer Adaptation](https://arxiv.org/pdf/2412.19098)| 2026 | ICML  | 
@@ -908,6 +909,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR](https://arxiv.org/pdf/2610.35846)| 2026 | Arxiv | 
   | [Tracing and Coordinating Cross-Layer Influence for Multimodal Model Merging](https://arxiv.org/pdf/2609.12897)| 2026 | Arxiv | Qwen3-VL-8B
   | [AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models](https://arxiv.org/pdf/2608.06699)| 2026 | Arxiv | Qwen2.5-VL-7B, MMSearch-R1-7B, GUI-Owl-7B, DeepEyes-7B
   | [Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging](https://arxiv.org/pdf/2606.01717)| 2026 | ICML | Qwen2.5-VL-3B
@@ -1014,6 +1016,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Benchmarking Data-Free Continual Model Merging for Whole-Slide Image Survival Analysis](https://arxiv.org/pdf/2610.32207)| 2026  |Arxiv  |
   | [SAFE-Merge: Data-Free Continual Model Merging with General Knowledge Preservation](https://arxiv.org/pdf/2608.01184)| 2026  |Arxiv  |
   | [SiGMA: Sign-Guided Merging and Adaptation for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2607.20511)| 2026  |Arxiv  | LLaVA-v1.5-7B
   | [Continual Model Merging with Test-Time Adaptation for Whole-Slide Image Analysis](https://arxiv.org/pdf/2607.04755)| 2026  |Arxiv  |
@@ -1204,6 +1207,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FedSEAM: Federated Continual Learning of LLMs via Subspace Expert Agreement Merging](https://arxiv.org/pdf/2610.33496)| 2026 | Arxiv | Qwen3-4B
 | [Can Model Merging Improve Aggregation in DiLoCo?](https://arxiv.org/pdf/2607.03011)| 2026 | Arxiv |
 | [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI |
 | [Communication-Efficient Personalized Adaptation via Federated-Local Model Merging](https://arxiv.org/pdf/2602.18658)| 2026 | Arxiv | LLaMA-3.2-3B-Instruct
