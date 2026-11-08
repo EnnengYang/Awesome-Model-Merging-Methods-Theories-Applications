@@ -351,6 +351,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Separating Common and Unique Directions for Model Merging](https://arxiv.org/pdf/2611.04108)| 2026 | Arxiv | Llama-3.1-8B
+| [Model Merging Does Not Require Uniform LoRA Ranks](https://arxiv.org/pdf/2611.06486)| 2026 | Arxiv | 
 | [GRAM: Group-wise Rank-Aware Model Merging via Subspace Alignment](https://arxiv.org/pdf/2610.29110))| 2026 | Arxiv | Qwen2-7B-Instruct
 | [PGSB: Pretrained-Guided Shared Basis for LoRA Model Merging](https://arxiv.org/pdf/2610.14558)| 2026 | Arxiv |Llama 3 8B
 | [Predicting and Repairing Merge Collapse in Large Language Models](https://arxiv.org/pdf/2610.03199)| 2026 | Arxiv |Mistral-7B, DeepSeek-7B,  Qwen2.5-7B
@@ -565,6 +567,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [What Changes in Hidden States When Model Merging Hurts Task Performance?](https://aclanthology.org/2026.aacl-long.180.pdf)| 2026 | AACL | Phi-3.5
 | [When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging](https://arxiv.org/pdf/2608.27518)| 2026 | Arxiv |
 | [An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse](https://arxiv.org/pdf/2603.09463)| 2026 | Arxiv | Qwen2.5-3B, 7B, and 14B, Llama3.1-8B
 | [Trade-offs in Ensembling, Merging and Routing Among Parameter-Efficient Experts](https://arxiv.org/pdf/2603.03535)| 2026 | Arxiv |
@@ -1207,6 +1210,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [FedFiOT: Fisher-Weighted Optimal Transport for Model Merging in One-Shot and Few-Round Federated Learning](https://arxiv.org/pdf/2611.06783)| 2026 | Arxiv | 
 | [FedSEAM: Federated Continual Learning of LLMs via Subspace Expert Agreement Merging](https://arxiv.org/pdf/2610.33496)| 2026 | Arxiv | Qwen3-4B
 | [Can Model Merging Improve Aggregation in DiLoCo?](https://arxiv.org/pdf/2607.03011)| 2026 | Arxiv |
 | [FedMerge: Federated Model Merging for Personalization](https://scholar.google.com/scholar_url?url=https://ojs.aaai.org/index.php/AAAI/article/view/39113/43075&hl=en&sa=X&d=1003636543056490924&ei=dcC-afi-LoKq6rQPo6Gk2As&scisig=AFtJQiw8mqG2DDhpKAJPVgWDpcKq&oi=scholaralrt&hist=vWBd1VsAAAAJ:1360192736361724487:AFtJQix2MBKNfqG8ZHqg__7tkl0l&html=&pos=0&folt=art)| 2026 | AAAI |
