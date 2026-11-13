@@ -243,6 +243,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Permutation-Based Pre-trained Model Merging via Reciprocal Orthogonality](https://arxiv.org/pdf/2611.13016)| 2026 |  Arxiv | 
 | [Scaling Linear Mode Connectivity and Merging to Billion Parameter Pretrained Transformers](https://arxiv.org/pdf/2606.23607)| 2026 |  Arxiv | 
 | [Transport and Merge: Cross-Architecture Merging for Large Language Models](https://arxiv.org/pdf/2602.05495) | 2026 |  Arxiv | LLaMA-3 8B
 | [Symmetry-Aware Graph Metanetwork Autoencoders: Model Merging through Parameter Canonicalization](https://arxiv.org/pdf/2511.12601) | 2025 | TAG-DS |
@@ -351,6 +352,8 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration](https://arxiv.org/pdf/2611.10881)| 2026  |Arxiv  | LLaVA-1.5-7B 
+| [Joint Null-Space Projection for Data-Free Model Merging](https://arxiv.org/pdf/2611.17103)| 2026 | Arxiv |
 | [Separating Common and Unique Directions for Model Merging](https://arxiv.org/pdf/2611.04108)| 2026 | Arxiv | Llama-3.1-8B
 | [Model Merging Does Not Require Uniform LoRA Ranks](https://arxiv.org/pdf/2611.06486)| 2026 | Arxiv | 
 | [GRAM: Group-wise Rank-Aware Model Merging via Subspace Alignment](https://arxiv.org/pdf/2610.29110))| 2026 | Arxiv | Qwen2-7B-Instruct
@@ -507,6 +510,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [When Are Nearby Experts Composable? Cross-Task Model Merging in Neural Thickets](https://arxiv.org/pdf/2611.11177)| 2026 | Arxiv  |Qwen2.5-7B, Llama-3.1-8B, OLMo 3-7B
 | [A Broader Look at Model Merging: Rethinking Implicit Regularization Induced by Task Arithmetic](https://arxiv.org/pdf/2610.07990)| 2026 | Arxiv  |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [Orientation, not magnitude: the causal structure of task-vector interference in merged language models](https://arxiv.org/pdf/2608.11797)| 2026 | Arxiv  |
 | [Rethinking Expert Training for Model Merging with Prompt Learning](https://arxiv.org/pdf/2607.24465)| 2026 | Arxiv  |
@@ -950,6 +954,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [OptIMerge: Optimization-Based Merging of Diffusion Models](https://arxiv.org/pdf/2611.07543)| 2026 | Arxiv |
 | [HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation](https://arxiv.org/pdf/2610.30875)| 2026 | Arxiv |
 | [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](https://arxiv.org/pdf/2606.10617)| 2026 | ICML | 
 | [DiffGraph: An Automated Agent-driven Model Merging Framework for In-the-Wild Text-to-Image Generation](https://arxiv.org/pdf/2603.20470)| 2026 | Arxiv |Stable Diffusion v1.5, FLUX.1 Dev
@@ -1019,6 +1024,7 @@ Thanks!
 
   | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
   | --------------- | :----: | :----: | :----: |
+  | [Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration](https://arxiv.org/pdf/2611.10881)| 2026  |Arxiv  | LLaVA-1.5-7B 
   | [Benchmarking Data-Free Continual Model Merging for Whole-Slide Image Survival Analysis](https://arxiv.org/pdf/2610.32207)| 2026  |Arxiv  |
   | [SAFE-Merge: Data-Free Continual Model Merging with General Knowledge Preservation](https://arxiv.org/pdf/2608.01184)| 2026  |Arxiv  |
   | [SiGMA: Sign-Guided Merging and Adaptation for Multimodal Continual Instruction Tuning](https://arxiv.org/pdf/2607.20511)| 2026  |Arxiv  | LLaVA-v1.5-7B
