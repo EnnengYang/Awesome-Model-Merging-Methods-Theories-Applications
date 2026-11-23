@@ -220,6 +220,8 @@ Thanks!
 ##### Others
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [A Spectral Framework for Universal Proxy Regularization in Model Merging](https://arxiv.org/pdf/2611.17728)| 2026 |Arxiv |
+| [Interference Bounds and Merge-Aware Training Dynamics for Composable Fine-Tuned Models](https://arxiv.org/pdf/2611.25430)| 2026 |Arxiv |
 | [CAMFT: Conflict-Aware Mergeable Fine-Tuning for Large Language Models](https://arxiv.org/pdf/2609.22253)| 2026 |Arxiv |  Llama-3.1-8B-Instruct
 | [Post-Hoc Merging is Not Enough: Many-Shot Model Merging with Loss-Gap Balancing](https://arxiv.org/pdf/2606.16501)| 2026 | ICML |  Gemma-2-2B, Llama-3.2-3B, Llama-3.1-8B, and Qwen-3-4B
 | [Understanding and Enforcing Weight Disentanglement in Task Arithmetic](https://arxiv.org/pdf/2604.17078)| 2026 | CVPR |
@@ -306,6 +308,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Bring Back Language to Actions: Restoring VLM capabilities in VLA Models via Parameter Merging](https://arxiv.org/pdf/2611.18891)| 2026 | Arxiv |PaliGemma-3B
 | [CrossMean: Model Merging by Pairing Merged and Expert Activations](https://arxiv.org/pdf/2610.14762)| 2026 | Arxiv |
 | [αTransfer: Coefficient Transfer for Efficient Model Merging](https://arxiv.org/pdf/2610.07819)| 2026 | Arxiv |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [The Missing Coefficients: Bayesian Pairwise Merging for Model Personalization](https://arxiv.org/pdf/2609.39055)| 2026 | Arxiv |Qwen3.5-2B, Qwen3-VL-4B, Ministral-3-3B
@@ -352,6 +355,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: |:----: |
+| [HR-Merge: Model Merging with Headroom-Weighted Residual Refinement](https://arxiv.org/pdf/2611.27377)| 2026  |Arxiv  |LLaMA-3 8B
 | [Robust and Efficient Continual Model Merging via Global Singular Subspace Separation and Restoration](https://arxiv.org/pdf/2611.10881)| 2026  |Arxiv  | LLaVA-1.5-7B 
 | [Joint Null-Space Projection for Data-Free Model Merging](https://arxiv.org/pdf/2611.17103)| 2026 | Arxiv |
 | [Separating Common and Unique Directions for Model Merging](https://arxiv.org/pdf/2611.04108)| 2026 | Arxiv | Llama-3.1-8B
@@ -510,6 +514,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Watch Where You Linearize: Predicting and Correcting Model-Merging Interference](https://arxiv.org/pdf/2611.25000)| 2026 | Arxiv  |
 | [When Are Nearby Experts Composable? Cross-Task Model Merging in Neural Thickets](https://arxiv.org/pdf/2611.11177)| 2026 | Arxiv  |Qwen2.5-7B, Llama-3.1-8B, OLMo 3-7B
 | [A Broader Look at Model Merging: Rethinking Implicit Regularization Induced by Task Arithmetic](https://arxiv.org/pdf/2610.07990)| 2026 | Arxiv  |Qwen3-0.6B, Qwen3-1.7B, Qwen3-4B
 | [Orientation, not magnitude: the causal structure of task-vector interference in merged language models](https://arxiv.org/pdf/2608.11797)| 2026 | Arxiv  |
@@ -571,6 +576,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [Altair-Nidhogg: Which Model-Merging Theories Hold for a One-Pass Decision Encoder? Soups, Task Arithmetic, TIES and DARE Against Joint Training and Prediction Ensembling](https://arxiv.org/pdf/2611.27550)| 2026 | Arxiv | 
 | [What Changes in Hidden States When Model Merging Hurts Task Performance?](https://aclanthology.org/2026.aacl-long.180.pdf)| 2026 | AACL | Phi-3.5
 | [When Muon Meets Task Interference: A Spectral Perspective on Continual Learning and Model Merging](https://arxiv.org/pdf/2608.27518)| 2026 | Arxiv |
 | [An Empirical Study and Theoretical Explanation on Task-Level Model-Merging Collapse](https://arxiv.org/pdf/2603.09463)| 2026 | Arxiv | Qwen2.5-3B, 7B, and 14B, Llama3.1-8B
@@ -954,6 +960,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [MORE: Merge Once, Route Early for Training-Free Multi-Subject Composition from Large LoRA Pools](https://arxiv.org/pdf/2611.21077)| 2026 | Arxiv |
 | [OptIMerge: Optimization-Based Merging of Diffusion Models](https://arxiv.org/pdf/2611.07543)| 2026 | Arxiv |
 | [HimmBO: High-Dimensional Interactive Model-Merging Bayesian Optimization for Image Generation](https://arxiv.org/pdf/2610.30875)| 2026 | Arxiv |
 | [SSR-Merge: Subspace Signal Routing for Training-Free LoRA Merging in Diffusion Models](https://arxiv.org/pdf/2606.10617)| 2026 | ICML | 
