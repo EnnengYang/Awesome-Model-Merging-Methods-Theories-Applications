@@ -458,6 +458,7 @@ Thanks!
 
 | **Paper Title** | **Year** | **Conference/Journal** | **Remark** |
 | --------------- | :----: | :----: | :----: |
+| [UNITE: Consolidating Embodied VLM Specialists via Shared-Anchor One-Bit Factorization](https://arxiv.org/abs/2611.20767)| 2026 | Arxiv |Qwen3-VL-8B
 | [Learning to Recover Task Experts from a Multi-Task Merged Model](https://arxiv.org/pdf/2606.26902)| 2026 | Arxiv |
 | [Training-free Task Classification for Multi-Task Model Merging](https://arxiv.org/pdf/2606.22589)| 2026 | Arxiv |
 | [Dynamic Model Merging Made Slim](https://arxiv.org/pdf/2605.18904)| 2026 | Arxiv |Llama-3.1-8B-Instruct, Qwen-2.5-7B-Instruct
